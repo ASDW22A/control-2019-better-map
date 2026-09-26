@@ -24,7 +24,7 @@ Investigations, Quarry Site Beta, Unmapped Area.
 ## Requirements
 
 - Control (Steam / Epic / GOG, base game or Ultimate Edition)
-- [Loose Files Loader](https://www.nexusmods.com/control/mods/4) (framework mod by registrator2000)
+- [Loose Files Loader](https://www.nexusmods.com/control/mods/11) (framework mod by registrator2000)
 - Python 3.9+ with `pip install -r requirements.txt` (only needed for conversion)
 
 ## Install

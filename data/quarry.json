@@ -1,0 +1,194 @@
+﻿{
+    "mapImage":  "Quarry Site Beta (blueprint).png",
+    "pageCategories":  [
+
+                       ],
+    "defaultSort":  "",
+    "description":  "Map of the [[Quarry Site Beta]], using the raw overlay map image.",
+    "coordinateOrder":  "xy",
+    "mapBounds":  [
+                      [
+                          0,
+                          0
+                      ],
+                      [
+                          2048,
+                          1152
+                      ]
+                  ],
+    "origin":  "bottom-left",
+    "useMarkerClustering":  true,
+    "categories":  [
+                       {
+                           "id":  "1",
+                           "listId":  1,
+                           "name":  "Locations",
+                           "color":  "#FA005A",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "2",
+                           "listId":  2,
+                           "name":  "Collectibles",
+                           "color":  "#FFC500",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "3",
+                           "listId":  3,
+                           "name":  "Other POIs",
+                           "color":  "#05a973",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       }
+                   ],
+    "markers":  [
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1466.1469718524547,
+                                         636.8881938155696
+                                     ],
+                        "popup":  {
+                                      "title":  "The Formation",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "The Formation",
+                                                   "label":  "The Formation"
+                                               }
+                                  },
+                        "id":  "1"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1270.188767996773,
+                                         203.81555137935788
+                                     ],
+                        "popup":  {
+                                      "title":  "The Height",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "The Height",
+                                                   "label":  "The Height"
+                                               }
+                                  },
+                        "id":  "2"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1249.5438645651095,
+                                         164.8044308526967
+                                     ],
+                        "popup":  {
+                                      "title":  "Investigation Order",
+                                      "description":  "At a small campsite atop the farthest rock formation",
+                                      "link":  {
+                                                   "url":  "Investigation Order",
+                                                   "label":  "Investigation Order"
+                                               }
+                                  },
+                        "id":  "3"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1015.8522608476059,
+                                         436.9276716590984
+                                     ],
+                        "popup":  {
+                                      "title":  "Ruins",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Ruins",
+                                                   "label":  "Ruins"
+                                               }
+                                  },
+                        "id":  "4"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1039.8537819504897,
+                                         408.529055319747
+                                     ],
+                        "popup":  {
+                                      "title":  "Quarry Site Beta Log 1",
+                                      "description":  "On the top of a platform in the center",
+                                      "link":  {
+                                                   "url":  "Quarry Site Beta Log 1",
+                                                   "label":  "Quarry Site Beta Log 1"
+                                               }
+                                  },
+                        "id":  "5"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         994.6068642948386,
+                                         723.9227993967676
+                                     ],
+                        "popup":  {
+                                      "title":  "Scrapyard",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Scrapyard",
+                                                   "label":  "Scrapyard"
+                                               }
+                                  },
+                        "id":  "6"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         973.3435240374187,
+                                         779.0923147868348
+                                     ],
+                        "popup":  {
+                                      "title":  "Quarry Site Beta Log 2",
+                                      "description":  "On the ground by some tents in the cave",
+                                      "link":  {
+                                                   "url":  "Quarry Site Beta Log 2",
+                                                   "label":  "Quarry Site Beta Log 2"
+                                               }
+                                  },
+                        "id":  "7"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1227.8697721474048,
+                                         972.9038919461369
+                                     ],
+                        "popup":  {
+                                      "title":  "Incinerator",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Incinerator",
+                                                   "label":  "Incinerator"
+                                               }
+                                  },
+                        "id":  "8"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1733.1701553289656,
+                                         876.4039160373567
+                                     ],
+                        "popup":  {
+                                      "title":  "Old starting point",
+                                      "description":  "In previous versions, the mission [[Put a Record On]] would teleport the player here.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "9"
+                    }
+                ],
+    "markerProgress":  true
+}

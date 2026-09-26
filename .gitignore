@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Generated DDS output - regenerate with:
+#   .\install.ps1
+#   or: python tools\make_dds.py <png> <dds> --format dxt5
+maps/mod/ready/*.dds
+
+# Raw unmodified map textures extracted from the game install.
+# Not redistributable - obtain from your own Control install with:
+#   python tools\extract_map_textures.py --game-dir "<game dir>"
+maps/source/*.png
+
+# Tooling / OS noise
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.log
+
+# Local build scratch
+*.spec
+!*.spec.example

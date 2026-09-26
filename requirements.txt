@@ -1,0 +1,6 @@
+# Texture processing pipeline
+pillow>=9.0
+numpy>=1.21
+
+# Only needed by tools/verify.py (quality metrics)
+# pip install scipy  # optional

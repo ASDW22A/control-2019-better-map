@@ -1,0 +1,2630 @@
+﻿{
+    "mapImage":  "Maintenance Sector (blueprint).png",
+    "pageCategories":  [
+
+                       ],
+    "defaultSort":  "",
+    "mapImageChangedAt":  "2022-06-09 02:57:31",
+    "description":  "Map of the [[Maintenance Sector]], using the raw overlay map image.",
+    "coordinateOrder":  "xy",
+    "mapBounds":  [
+                      [
+                          0,
+                          0
+                      ],
+                      [
+                          2048,
+                          1152
+                      ]
+                  ],
+    "origin":  "bottom-left",
+    "useMarkerClustering":  false,
+    "categories":  [
+                       {
+                           "id":  "8",
+                           "listId":  1,
+                           "name":  "CHEST",
+                           "color":  "#a971f3",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "1",
+                           "listId":  2,
+                           "name":  "Locations",
+                           "color":  "#FA005A",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "2",
+                           "listId":  3,
+                           "name":  "Collectibles",
+                           "color":  "#FFC500",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "3",
+                           "listId":  4,
+                           "name":  "Control Points",
+                           "color":  "#fff",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "4",
+                           "listId":  5,
+                           "name":  "Hidden Locations",
+                           "color":  "#0390fc",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "5",
+                           "listId":  6,
+                           "name":  "Other POIs",
+                           "color":  "#00A36C",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "6",
+                           "listId":  7,
+                           "name":  "What a Mess: Burn the Trash",
+                           "color":  "#61DE2A",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "7",
+                           "listId":  8,
+                           "name":  "Eternal Fire",
+                           "color":  "#c3613c",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       }
+                   ],
+    "markers":  [
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         782.0001261680713,
+                                         771.0013922812254
+                                     ],
+                        "popup":  {
+                                      "title":  "Black Rock Quarry",
+                                      "description":  "The Black Rock Quarry consists largely of various black pillars, some of which are floating in the sky.",
+                                      "link":  {
+                                                   "url":  "Quarry Threshold",
+                                                   "label":  "Black Rock Quarry"
+                                               }
+                                  },
+                        "id":  "1"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1421.283559613374,
+                                         526.834259807645
+                                     ],
+                        "popup":  {
+                                      "title":  "NSC Power Plant",
+                                      "description":  "It is the main power station for the entirety of the Oldest House.",
+                                      "link":  {
+                                                   "url":  "NSC Power Plant",
+                                                   "label":  "NSC Power Plant"
+                                               }
+                                  },
+                        "id":  "2"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1543.0011985966783,
+                                         726.4993038593873
+                                     ],
+                        "popup":  {
+                                      "title":  "NSC Control Room",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "NSC Control Room",
+                                                   "label":  "NSC Control Room"
+                                               }
+                                  },
+                        "id":  "3"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1699.75,
+                                         663.9990718125164
+                                     ],
+                        "popup":  {
+                                      "title":  "NSC Energy Converters",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "NSC Energy Converters",
+                                                   "label":  "NSC Energy Converters"
+                                               }
+                                  },
+                        "id":  "4"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1454.3725673098493,
+                                         313.63716502066575
+                                     ],
+                        "popup":  {
+                                      "title":  "NSC Coolant Pumps",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "NSC Coolant Pumps",
+                                                   "label":  "NSC Coolant Pumps"
+                                               }
+                                  },
+                        "id":  "5"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1717.0070303959935,
+                                         510.9283445449448
+                                     ],
+                        "popup":  {
+                                      "title":  "Black Rock Lab",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Black Rock Lab",
+                                                   "label":  "Black Rock Lab"
+                                               }
+                                  },
+                        "id":  "7"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1618.5672437074097,
+                                         535.2895141912594
+                                     ],
+                        "popup":  {
+                                      "title":  "Ventilation ",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Ventilation ",
+                                                   "label":  "Ventilation "
+                                               }
+                                  },
+                        "id":  "8"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1617.7946898471073,
+                                         443.7756352834323
+                                     ],
+                        "popup":  {
+                                      "title":  "Janitor\u0027s Office",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Janitor\u0027s Office",
+                                                   "label":  "Janitor\u0027s Office"
+                                               }
+                                  },
+                        "id":  "9"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1822.9205681845285,
+                                         594.6551441649771
+                                     ],
+                        "popup":  {
+                                      "title":  "Black Rock Processing",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Black Rock Processing",
+                                                   "label":  "Black Rock Processing"
+                                               }
+                                  },
+                        "id":  "10"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1541.4891495458596,
+                                         246.97725940664995
+                                     ],
+                        "popup":  {
+                                      "title":  "Pump Station",
+                                      "description":  "Accept side mission [[What a Mess: Clear the Clog]] to unlock",
+                                      "link":  {
+                                                   "url":  "Pump Station",
+                                                   "label":  "Pump Station"
+                                               }
+                                  },
+                        "id":  "11"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1467.5513701762407,
+                                         60.288832638249836
+                                     ],
+                        "popup":  {
+                                      "title":  "Pipeworks",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Pipeworks",
+                                                   "label":  "Pipeworks"
+                                               }
+                                  },
+                        "id":  "12"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         726.5467116531938,
+                                         1037.412921445561
+                                     ],
+                        "popup":  {
+                                      "title":  "Restricted Area",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Restricted Area",
+                                                   "label":  "Restricted Area"
+                                               }
+                                  },
+                        "id":  "13"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1231.7093433557307,
+                                         875.0918905608839
+                                     ],
+                        "popup":  {
+                                      "title":  "Field Training",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Field Training",
+                                                   "label":  "Field Training"
+                                               }
+                                  },
+                        "id":  "14"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1452.0437751665754,
+                                         870.8065953248808
+                                     ],
+                        "popup":  {
+                                      "title":  "Central Maintenance",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Central Maintenance",
+                                                   "label":  "Central Maintenance"
+                                               }
+                                  },
+                        "id":  "15"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1564.8796574697492,
+                                         932.9653057612177
+                                     ],
+                        "popup":  {
+                                      "title":  "Access Corridor",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Access Corridor",
+                                                   "label":  "Access Corridor"
+                                               }
+                                  },
+                        "id":  "16"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1838.2616137139041,
+                                         785.861121291115
+                                     ],
+                        "popup":  {
+                                      "title":  "Atlas Chamber",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Atlas Chamber",
+                                                   "label":  "Atlas Chamber"
+                                               }
+                                  },
+                        "id":  "17"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1140.000820092464,
+                                         373
+                                     ],
+                        "popup":  {
+                                      "title":  "Furnace Chamber",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Furnace Chamber",
+                                                   "label":  "Furnace Chamber"
+                                               }
+                                  },
+                        "id":  "18"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1512.2570348867196,
+                                         579.5990840138824
+                                     ],
+                        "popup":  {
+                                      "title":  "NSC Security Office",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "19"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1482.4490099004017,
+                                         819.1832060046154
+                                     ],
+                        "popup":  {
+                                      "title":  "Book Club: Lopez",
+                                      "description":  "In Security Clearance 2 Room, but you cab use your melee attack to shatter glass",
+                                      "link":  {
+                                                   "url":  "Book Club: Lopez",
+                                                   "label":  "Book Club: Lopez"
+                                               }
+                                  },
+                        "id":  "20"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1712.4046817447465,
+                                         428.9757470124448
+                                     ],
+                        "popup":  {
+                                      "title":  "Astral Plane",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Astral Plane (Threshold Kids)",
+                                                   "label":  "Astral Plane (Threshold Kids)"
+                                               }
+                                  },
+                        "id":  "21"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1521.371421558193,
+                                         1132.1990491336555
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: A Merry Chase",
+                                      "description":  "Side mission which unlocks the [[Evade]] Ability. Either approach the break room or pick up the Collectible [[Arish: Escaped OoP]], found further along a short ways.",
+                                      "link":  {
+                                                   "url":  "A Merry Chase",
+                                                   "label":  "A Merry Chase"
+                                               }
+                                  },
+                        "id":  "22"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1552.724357356227,
+                                         408.11115045117015
+                                     ],
+                        "popup":  {
+                                      "title":  "Arish: Escaped OoP",
+                                      "description":  "Picking up this Collectible will start [[A Merry Chase]] if it was not previously active.",
+                                      "link":  {
+                                                   "url":  "Arish: Escaped OoP",
+                                                   "label":  "Arish: Escaped OoP"
+                                               }
+                                  },
+                        "id":  "23"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1256.500630840357,
+                                         387.99211040638875
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: NSC Coolant Pumps Entrance",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "24"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1480.3277787711409,
+                                         548.7128932177692
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: NSC Power Plant",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "25"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1608.0007570084283,
+                                         614.9965192969362
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Ventilation",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "26"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1657.7496214957857,
+                                         790.4997679531291
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: NSC Energy Converters Entrance",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "27"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1530.8865381260707,
+                                         729.734690430265
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: NSC Control Room",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "28"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1838.6846588556953,
+                                         761.5530832466803
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Atlas Chamber",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "29"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1185.8776984769024,
+                                         726.6560546812262
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Quarry Entrance",
+                                      "description":  "Ground level",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "30"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         883.7538485648449,
+                                         638.5151515827334
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Black Rock Quarry",
+                                      "description":  "You will arrive here in story mission [[Finnish Tango]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "31"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1561.2354601465104,
+                                         646.5457132335711
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: NSC Power Plant Upper Level",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "32"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1594.5952799221034,
+                                         339.27282250879244
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: NSC Coolant Pumps Upper Level",
+                                      "description":  "You will arrive here in story mission [[Finnish Tango]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "33"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         822.2455463981063,
+                                         1150.877522318581
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Foundation",
+                                      "description":  "Not actually found here. Location is the unmapped Foundation area accessed via the Restricted Area during [[Finnish Tango]].",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "34"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1046.9996214957857,
+                                         367.99860771877445
+                                     ],
+                        "popup":  {
+                                      "title":  "The Furnace",
+                                      "description":  "A mysterious potential paranatural entity. An exclusive Weapon Mod for [[Grip]] can be unlocked here via an unmarked mission after completing [[What a Mess: Burn the Trash]].\u003cbr\u003e\nThrow 6 TVs into the Furnace.\u003cbr\u003e\n\u0027\u0027\u0027Rewards\u0027\u0027\u0027\n* [[Eternal Fire]]\n* [[House Memory]]\n* [[Threshold Remnant]]\n",
+                                      "link":  {
+                                                   "url":  "Furnace",
+                                                   "label":  "Furnace"
+                                               }
+                                  },
+                        "id":  "35"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1525.9360769433745,
+                                         570.2824394365306
+                                     ],
+                        "popup":  {
+                                      "title":  "Arish: Security Matters",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Arish: Security Matters",
+                                                   "label":  "Arish: Security Matters"
+                                               }
+                                  },
+                        "id":  "36"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1723.6641453765537,
+                                         469.7244757794187
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "Can be found after completing [[A Merry Chase]]. After completing that mission\u0027s Astral Plane challenge, go to the light in the distance, and returning to the Break Room will award the point. Alternatively, return later and Levitate into the hole in the Break Room ceiling, then head for the light.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "37"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1391.8456506607602,
+                                         869.9943148516625
+                                     ],
+                        "popup":  {
+                                      "title":  "Field Training Actor Complaint",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Field Training Actor Complaint",
+                                                   "label":  "Field Training Actor Complaint"
+                                               }
+                                  },
+                        "id":  "38"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1367.7450489199366,
+                                         880.5881778109492
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: A Good Defense",
+                                      "description":  "Welcome to the Ranger Field Training Course. Completing this mission will unlock the [[Shield]] Ability. It can be started by entering Field Training, or by picking up [[Home Safe Tests]] from one of its locations around the Maintenance Sector.",
+                                      "link":  {
+                                                   "url":  "A Good Defense",
+                                                   "label":  "A Good Defense"
+                                               }
+                                  },
+                        "id":  "39"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1454.145995028539,
+                                         882.3285692458112
+                                     ],
+                        "popup":  {
+                                      "title":  "Thresholds",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Thresholds",
+                                                   "label":  "Thresholds"
+                                               }
+                                  },
+                        "id":  "40"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1562.1533094693898,
+                                         900.0247129917528
+                                     ],
+                        "popup":  {
+                                      "title":  "Home Safe Tests",
+                                      "description":  "This Collectible has two alternate locations, one in the NSC Energy Converters and one in the Atlas Chamber.",
+                                      "link":  {
+                                                   "url":  "Home Safe Tests",
+                                                   "label":  "Home Safe Tests"
+                                               }
+                                  },
+                        "id":  "41"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1545.2113170041914,
+                                         943.2943930657128
+                                     ],
+                        "popup":  {
+                                      "title":  "Tennyson Report Warning",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Tennyson Report Warning",
+                                                   "label":  "Tennyson Report Warning"
+                                               }
+                                  },
+                        "id":  "42"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1088.5905327794947,
+                                         340.11803358689747
+                                     ],
+                        "popup":  {
+                                      "title":  "Furnace Research",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Furnace Research",
+                                                   "label":  "Furnace Research"
+                                               }
+                                  },
+                        "id":  "43"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1102.4997476638573,
+                                         417.4997679531291
+                                     ],
+                        "popup":  {
+                                      "title":  "Burn the Trash",
+                                      "description":  "Location of one of the six toxic waste barrels to be destroyed in [[What a Mess: Burn the Trash]].",
+                                      "link":  {
+                                                   "url":  "What a Mess: Burn the Trash",
+                                                   "label":  "What a Mess: Burn the Trash"
+                                               },
+                                      "image":  "File:Furnace Chamber - trash 1.png"
+                                  },
+                        "id":  "44"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1197.6340057544658,
+                                         325.7995420069412
+                                     ],
+                        "popup":  {
+                                      "title":  "Burn the Trash",
+                                      "description":  "Location of one of the six toxic waste barrels to be destroyed in [[What a Mess: Burn the Trash]].",
+                                      "link":  {
+                                                   "url":  "What a Mess: Burn the Trash",
+                                                   "label":  "What a Mess: Burn the Trash"
+                                               },
+                                      "image":  "File:Furnace Chamber - trash 2.png"
+                                  },
+                        "id":  "45"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1131.8649543756844,
+                                         372.7809782572677
+                                     ],
+                        "popup":  {
+                                      "title":  "Burn the Trash",
+                                      "description":  "Location of one of the six toxic waste barrels to be destroyed in [[What a Mess: Burn the Trash]].",
+                                      "link":  {
+                                                   "url":  "What a Mess: Burn the Trash",
+                                                   "label":  "What a Mess: Burn the Trash"
+                                               },
+                                      "image":  "File:Furnace Chamber - trash 5.png"
+                                  },
+                        "id":  "46"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1139.3643235353275,
+                                         383.7916524133299
+                                     ],
+                        "popup":  {
+                                      "title":  "Burn the Trash",
+                                      "description":  "Location of one of the six toxic waste barrels to be destroyed in [[What a Mess: Burn the Trash]].",
+                                      "link":  {
+                                                   "url":  "What a Mess: Burn the Trash",
+                                                   "label":  "What a Mess: Burn the Trash"
+                                               },
+                                      "image":  "File:Furnace Chamber - trash 3.png"
+                                  },
+                        "id":  "47"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1122.6109169973995,
+                                         340.80603931932694
+                                     ],
+                        "popup":  {
+                                      "title":  "Burn the Trash",
+                                      "description":  "Location of one of the six toxic waste barrels to be destroyed in [[What a Mess: Burn the Trash]].",
+                                      "link":  {
+                                                   "url":  "What a Mess: Burn the Trash",
+                                                   "label":  "What a Mess: Burn the Trash"
+                                               },
+                                      "image":  "File:Furnace Chamber - trash 4.png"
+                                  },
+                        "id":  "48"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1110.412273426244,
+                                         376.2035329366065
+                                     ],
+                        "popup":  {
+                                      "title":  "Mail Tube Complaint",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Mail Tube Complaint",
+                                                   "label":  "Mail Tube Complaint"
+                                               }
+                                  },
+                        "id":  "49"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1139.3211404586527,
+                                         425.41037964384986
+                                     ],
+                        "popup":  {
+                                      "title":  "Burn the Trash",
+                                      "description":  "Location of one of the six toxic waste barrels to be destroyed in [[What a Mess: Burn the Trash]].",
+                                      "link":  {
+                                                   "url":  "What a Mess: Burn the Trash",
+                                                   "label":  "What a Mess: Burn the Trash"
+                                               },
+                                      "image":  "File:Furnace Chamber - trash 6.png"
+                                  },
+                        "id":  "50"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1524.5,
+                                         264.00324865619285
+                                     ],
+                        "popup":  {
+                                      "title":  "Clog Complaint",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Clog Complaint",
+                                                   "label":  "Clog Complaint"
+                                               }
+                                  },
+                        "id":  "51"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1725.0933469622282,
+                                         773.6219101279694
+                                     ],
+                        "popup":  {
+                                      "title":  "Home Safe Tests",
+                                      "description":  "This Collectible has two alternate locations, one near Central Maintenance and one in the Atlas Chamber.",
+                                      "link":  {
+                                                   "url":  "Home Safe Tests",
+                                                   "label":  "Home Safe Tests"
+                                               }
+                                  },
+                        "id":  "52"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1586.8308647157612,
+                                         647.0418383226522
+                                     ],
+                        "popup":  {
+                                      "title":  "Upcoming Game Reminder",
+                                      "description":  "Located on the desk in the room near the NSC Control Room when coming out of the elevator.",
+                                      "link":  {
+                                                   "url":  "Upcoming Game Reminder",
+                                                   "label":  "Upcoming Game Reminder"
+                                               }
+                                  },
+                        "id":  "53"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1424.9525006419585,
+                                         613.0451331163937
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "This Hidden Location can be found by reaching the very top of the NSC. [[Levitate]] is needed to reach this point.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "54"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1581.5455533431561,
+                                         232.42423784048978
+                                     ],
+                        "popup":  {
+                                      "title":  "Water Cooler Procedures",
+                                      "description":  "Next to the blue machine near the [[Power Core]] socket.",
+                                      "link":  {
+                                                   "url":  "Water Cooler Procedures",
+                                                   "label":  "Water Cooler Procedures"
+                                               }
+                                  },
+                        "id":  "55"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1662.5116117996517,
+                                         737.273261393705
+                                     ],
+                        "popup":  {
+                                      "title":  "Cafeteria Concerns",
+                                      "description":  "At the end of the room covert in [[Mold]] here.(progress [[Old Growth]] to safely access)",
+                                      "link":  {
+                                                   "url":  "Cafeteria Concerns",
+                                                   "label":  "Cafeteria Concerns"
+                                               }
+                                  },
+                        "id":  "56"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1315.2514673933538,
+                                         858.8742398409253
+                                     ],
+                        "popup":  {
+                                      "title":  "Plastic Tree Procedures",
+                                      "description":  "On the upper level at the end of Field Training.",
+                                      "link":  {
+                                                   "url":  "Plastic Tree Procedures",
+                                                   "label":  "Plastic Tree Procedures"
+                                               }
+                                  },
+                        "id":  "57"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1592.268983164327,
+                                         447.16740562633686
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: What a Mess: Burn the Trash",
+                                      "description":  "On the board next to Ahti",
+                                      "link":  {
+                                                   "url":  "What a Mess: Burn the Trash",
+                                                   "label":  "What a Mess: Burn the Trash"
+                                               }
+                                  },
+                        "id":  "58"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1593.3328816141545,
+                                         447.1625066008957
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: What a Mess: Clear the Clog",
+                                      "description":  "On the board next to Ahti\u003cbr\u003e\nUnlocked after starting [[Old Boys\u0027 Club]]",
+                                      "link":  {
+                                                   "url":  "What a Mess: Clear the Clog",
+                                                   "label":  "What a Mess: Clear the Clog"
+                                               }
+                                  },
+                        "id":  "59"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1478.2085732165447,
+                                         829.0746610519536
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In Security Clearance 2 Room, but shatter glass with your melee attack to shatter glass",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "60"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1731,
+                                         474.5
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "After completing “A Merry Chase” the chest is in the Break Room ",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "61"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1632.3560043691448,
+                                         424.971175493115
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the room just before the door to the Janitors Office",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "62"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1602.5,
+                                         459.25
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST ",
+                                      "description":  "The room behind the janitor’s office",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "63"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1215.5,
+                                         393.25
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In an alcove. Use the latter and jump up to catch edge of shelf and pull up to the top. You can reach the chest at this point",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "64"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1441,
+                                         100.5
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "After clearing out the “sludge” find the chest in the maze of. Walkways",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "65"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1516,
+                                         435.5
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside of the Shelter",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "66"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1772.7167004346745,
+                                         678.8225099390855
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Shelter",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "67"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1644.7303730399094,
+                                         688.7220048756973
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Behind fence",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "68"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1431.7166322010412,
+                                         818.1203125302595
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the first restroom",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "69"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1414.3944951470428,
+                                         824.6517820505447
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Larger restroom",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "70"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1278.445893849163,
+                                         863.0396828864705
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the upper level at the end of Field Training.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "71"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1534,
+                                         943.5
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "72"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1525.2768277428147,
+                                         981.1768883604256
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the Turbine Room (Security Clearance Level 4)\u003cbr\u003e\nDown the stairs under the turbines ",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "73"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1775,
+                                         933
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In a Level 5 room but you can shatter the glass and get in ",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "74"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1805.248600575525,
+                                         918.9977891432457
+                                     ],
+                        "popup":  {
+                                      "title":  "Atlas Theory",
+                                      "description":  "On top of a cabinet",
+                                      "link":  {
+                                                   "url":  "Atlas Theory",
+                                                   "label":  "Atlas Theory"
+                                               }
+                                  },
+                        "id":  "75"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1794.5,
+                                         892.5
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Up the metal stairs and dash across to other side ",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "76"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1883.0985612091524,
+                                         726.6675296608464
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside the Shelter",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "77"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1831.4438179837362,
+                                         717.7995486855307
+                                     ],
+                        "popup":  {
+                                      "title":  "Expedition Debrief",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Expedition Debrief",
+                                                   "label":  "Expedition Debrief"
+                                               }
+                                  },
+                        "id":  "78"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1830.1915350072363,
+                                         726.3098548678119
+                                     ],
+                        "popup":  {
+                                      "title":  "Marshall: Trench\u0027s Behavior",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Marshall: Trench\u0027s Behavior",
+                                                   "label":  "Marshall: Trench\u0027s Behavior"
+                                               }
+                                  },
+                        "id":  "79"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1786.535770323753,
+                                         635.7775774834489
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Behind Clearance level 5 door",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "80"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1710.7534519137048,
+                                         511.24131449132256
+                                     ],
+                        "popup":  {
+                                      "title":  "Black Rock",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Black Rock (Research)",
+                                                   "label":  "Black Rock (Research)"
+                                               }
+                                  },
+                        "id":  "81"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1688.50149271944,
+                                         520.6914084789048
+                                     ],
+                        "popup":  {
+                                      "title":  "Level 5 Clearance",
+                                      "description":  "next to TV in the lab",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "82"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1761,
+                                         516.5
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Up the stairs in the lab ",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "83"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1635,
+                                         632.5
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Across catwalk and down stairs",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "84"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1412,
+                                         596
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Upper Level (On the same level as Control Point: NSC Power Plant Upper Level)",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "85"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1223.4576208071114,
+                                         789.797292113184
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Upper level in Shelter next to elevator",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "86"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1054,
+                                         836
+                                     ],
+                        "popup":  {
+                                      "title":  "Quarry Equipment Order",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Quarry Equipment Order",
+                                                   "label":  "Quarry Equipment Order"
+                                               }
+                                  },
+                        "id":  "87"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1076.3534214515885,
+                                         907.5990973710612
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Down passage, past an astral monster, kill the people in the space behind the blocks",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "88"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1082.0847583857776,
+                                         925.1510688340348
+                                     ],
+                        "popup":  {
+                                      "title":  "Quarry Worker Incident",
+                                      "description":  "Down passage, past an astral monster, kill the people in the space behind the blocks ",
+                                      "link":  {
+                                                   "url":  "Quarry Worker Incident",
+                                                   "label":  "Quarry Worker Incident"
+                                               }
+                                  },
+                        "id":  "89"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         818.5699848396379,
+                                         767.0897386714822
+                                     ],
+                        "popup":  {
+                                      "title":  "Quarry Incident",
+                                      "description":  "On the computer console",
+                                      "link":  {
+                                                   "url":  "Quarry Incident",
+                                                   "label":  "Quarry Incident"
+                                               }
+                                  },
+                        "id":  "90"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1213.25,
+                                         503.75
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "91"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1541.3700904977775,
+                                         819.3580843927224
+                                     ],
+                        "popup":  {
+                                      "title":  "Fan Procedures",
+                                      "description":  "In Security Clearance 5 Room, but you cab use your melee attack to shatter glass.\u003cbr\u003e\nRequire [[Levitate]] to reach.",
+                                      "link":  {
+                                                   "url":  "Fan Procedures",
+                                                   "label":  "Fan Procedures"
+                                               }
+                                  },
+                        "id":  "92"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1671.2993674871814,
+                                         480.39642562094815
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Upper floor corner",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "93"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1673.04272572426,
+                                         430.58046039773933
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In Security Clearance 2 Room",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "95"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1508.1111353101028,
+                                         595.0006534442193
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside NSC Security Office",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "96"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1524.7295959970397,
+                                         585.285305101405
+                                     ],
+                        "popup":  {
+                                      "title":  "Simon Arish",
+                                      "description":  "You can talk to Simon Arish here after meeting him during [[Directorial Override]].",
+                                      "link":  {
+                                                   "url":  "Simon Arish",
+                                                   "label":  "S. Arish"
+                                               }
+                                  },
+                        "id":  "97"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1192.2908479415735,
+                                         319.9336742973718
+                                     ],
+                        "popup":  {
+                                      "title":  "Television",
+                                      "description":  "On the shelf",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "98"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1218.281145265214,
+                                         358.93651682748447
+                                     ],
+                        "popup":  {
+                                      "title":  "Television",
+                                      "description":  "In an alcove.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "99"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1215.5588538698178,
+                                         493.44867653963297
+                                     ],
+                        "popup":  {
+                                      "title":  "Television",
+                                      "description":  "On the shelf",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "100"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1488.0505506179331,
+                                         372.4534140898207
+                                     ],
+                        "popup":  {
+                                      "title":  "Television",
+                                      "description":  "On the exhaust vent on the wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "101"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1329.0449190099216,
+                                         578.0288623793253
+                                     ],
+                        "popup":  {
+                                      "title":  "Television",
+                                      "description":  "In front of the big water pipe in the corner of the platform",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "102"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1420.966359692584,
+                                         610.9094393696287
+                                     ],
+                        "popup":  {
+                                      "title":  "Television",
+                                      "description":  "The very top of the NSC.\u003cbr\u003e\n[[Levitate]] is needed to reach this point.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "103"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1559.8065214956928,
+                                         254.47299596392995
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the Lower Level",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "104"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1559.827260114937,
+                                         237.9881956041156
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the Lower Level",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "105"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1782.554562301428,
+                                         927.2234697189488
+                                     ],
+                        "popup":  {
+                                      "title":  "FBC Reminder: Altered Workspace",
+                                      "description":  "Inside Security Clearance 5 Room but you can shatter the glass and get in",
+                                      "link":  {
+                                                   "url":  "FBC Reminder: Altered Workspace",
+                                                   "label":  "FBC Reminder: Altered Workspace"
+                                               }
+                                  },
+                        "id":  "106"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1868.302416517233,
+                                         817.7294706158532
+                                     ],
+                        "popup":  {
+                                      "title":  "Oceanview Motel and Casino",
+                                      "description":  "Upper floor",
+                                      "link":  {
+                                                   "url":  "Oceanview Motel and Casino (Collectible)",
+                                                   "label":  "Oceanview Motel and Casino (Collectible)"
+                                               }
+                                  },
+                        "id":  "107"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1863.7780618456532,
+                                         799.0012948119246
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Upper floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "108"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1844.883735842169,
+                                         717.6792133749334
+                                     ],
+                        "popup":  {
+                                      "title":  "Home Safe Tests",
+                                      "description":  "This Collectible has two alternate locations, one near [[Central Maintenance]] and in the [[NSC Energy Converters]].",
+                                      "link":  {
+                                                   "url":  "Home Safe Tests",
+                                                   "label":  "Home Safe Tests"
+                                               }
+                                  },
+                        "id":  "109"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1870.6889664912596,
+                                         609.0871798338086
+                                     ],
+                        "popup":  {
+                                      "title":  "Swan Boat Procedures",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Swan Boat Procedures",
+                                                   "label":  "Swan Boat Procedures"
+                                               }
+                                  },
+                        "id":  "110"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1688.5081264171884,
+                                         517.7133610366615
+                                     ],
+                        "popup":  {
+                                      "title":  "Black Rock",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Black Rock (Multimedia)",
+                                                   "label":  "Black Rock (Multimedia)"
+                                               }
+                                  },
+                        "id":  "111"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1441.0049238346048,
+                                         600.5941323349142
+                                     ],
+                        "popup":  {
+                                      "title":  "NSC",
+                                      "description":  "Upper level (On the same level as Control Point: NSC Power Plant Upper Level) on a console",
+                                      "link":  {
+                                                   "url":  "NSC (Collectible)",
+                                                   "label":  "NSC (Collectible)"
+                                               }
+                                  },
+                        "id":  "112"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1526.6611988372654,
+                                         516.0633319824406
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Upper level",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "113"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1435.1505071037766,
+                                         597.1221971180365
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Count down 4 levels from Control Point: NSC Power Plant Upper Level",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "114"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1368.3270691355806,
+                                         741.0148538053775
+                                     ],
+                        "popup":  {
+                                      "title":  "Fan Supplement",
+                                      "description":  "Upper level behind the three large fan boxes",
+                                      "link":  {
+                                                   "url":  "Fan Supplement",
+                                                   "label":  "Fan Supplement"
+                                               }
+                                  },
+                        "id":  "115"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1002.811158731123,
+                                         620.8084876457251
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "Destroy the forklift to open the area\nCovert in [[Mold]] (progress [[Old Growth]] to safely access)",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "116"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         957.6104197271515,
+                                         602.9780602198653
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the Hidden Location\u003cbr\u003e\nCovert in [[Mold]] (progress [[Old Growth]] to safely access)",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "117"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1119.0459367833773,
+                                         812.761849097734
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In a hole in the wall\u003cbr\u003e\nThe entrance is on the left",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "118"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1139.5960633077566,
+                                         783.3806137352693
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the room inside the hole in the wall\nThe entrance is on the left",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "119"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1143.6033403150261,
+                                         808.3926155290782
+                                     ],
+                        "popup":  {
+                                      "title":  "Darling: Dimensional Staffing",
+                                      "description":  "Between two computers on the table\u003cbr\u003e\nIn the room inside the hole in the wall\nThe entrance is on the left",
+                                      "link":  {
+                                                   "url":  "Darling: Dimensional Staffing",
+                                                   "label":  "Darling: Dimensional Staffing"
+                                               }
+                                  },
+                        "id":  "120"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         919.2873960278687,
+                                         789.0015791833958
+                                     ],
+                        "popup":  {
+                                      "title":  "No Smoking Reminder",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "No Smoking Reminder",
+                                                   "label":  "No Smoking Reminder"
+                                               }
+                                  },
+                        "id":  "121"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         660.2413863570307,
+                                         773.3676644314228
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "122"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         978.7676810247133,
+                                         865.4638606521489
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the rock platform above",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "123"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1016.2812833489439,
+                                         677.2541984989707
+                                     ],
+                        "popup":  {
+                                      "title":  "Locked Door",
+                                      "description":  "In a hole in the wall above\nClearance Level 5 door lead to the Hidden Location\nNeed [[Levitate]] to go to Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "124"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1594.3747142031527,
+                                         447.1971181029935
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: What a Mess: Talk to the Plants",
+                                      "description":  "On the board next to Ahti\u003cbr\u003e\nUnlocked after starting [[My Brother\u0027s Keeper]]",
+                                      "link":  {
+                                                   "url":  "What a Mess: Talk to the Plants",
+                                                   "label":  "What a Mess: Talk to the Plants"
+                                               }
+                                  },
+                        "id":  "125"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1595.3188771365947,
+                                         447.1503872816427
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: What a Mess: Clear the Mold",
+                                      "description":  "On the board next to Ahti\u003cbr\u003e\nUnlocked after completing [[My Brother\u0027s Keeper]]",
+                                      "link":  {
+                                                   "url":  "What a Mess: Clear the Mold",
+                                                   "label":  "What a Mess: Clear the Mold"
+                                               }
+                                  },
+                        "id":  "126"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1596.2565054171716,
+                                         447.176504935606
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: What a Mess: Even More Mold",
+                                      "description":  "On the board next to Ahti\u003cbr\u003e\nUnlocked after completing [[The Face of the Enemy]]",
+                                      "link":  {
+                                                   "url":  "What a Mess: Even More Mold",
+                                                   "label":  "What a Mess: Even More Mold"
+                                               }
+                                  },
+                        "id":  "127"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1554.9821491280613,
+                                         818.7590802526213
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In Security Clearance 5 Room, but you cab use your melee attack to shatter glass.\u003cbr\u003e\nRequire [[Levitate]] to reach.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "128"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1505.836991906234,
+                                         916.629767664415
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "In the [[Access Corridor]]\u003cbr\u003e\nRequire [[Levitate]] to reach.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:Hidden Location (Access Corridor).png"
+                                  },
+                        "id":  "129"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1465.6234920274653,
+                                         915.3913521823615
+                                     ],
+                        "popup":  {
+                                      "title":  "America Overnight Ep. 352",
+                                      "description":  "Inside Hidden Location",
+                                      "link":  {
+                                                   "url":  "America Overnight Ep. 352",
+                                                   "label":  "America Overnight Ep. 352"
+                                               }
+                                  },
+                        "id":  "130"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1472.5580142151327,
+                                         915.4595729050648
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "131"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1417.962937049106,
+                                         607.5586103831372
+                                     ],
+                        "popup":  {
+                                      "title":  "Surfboard Procedures",
+                                      "description":  "The very top of the NSC.\u003cbr\u003e\n[[Levitate]] is needed to reach this point.",
+                                      "link":  {
+                                                   "url":  "Surfboard Procedures",
+                                                   "label":  "Surfboard Procedures"
+                                               }
+                                  },
+                        "id":  "132"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1439.3074544453427,
+                                         620.9681004954026
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the second highest iron walkway",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "133"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1782.801296977653,
+                                         608.4570462116312
+                                     ],
+                        "popup":  {
+                                      "title":  "Surfboard Supplement",
+                                      "description":  "Require [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "Surfboard Supplement",
+                                                   "label":  "Surfboard Supplement"
+                                               }
+                                  },
+                        "id":  "134"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1642.3375437956076,
+                                         731.0682361844129
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "At the end of the room covert in [[Mold]] here.(progress [[Old Growth]] to safely access)",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "135"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1008.6336351973491,
+                                         613.6976670480074
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the top level platform\u003cbr\u003e\nRequire [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "136"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1081.1199468187954,
+                                         496.37619202176074
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "137"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1130.8447434425455,
+                                         447.1793770271512
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "Entrance is the [https://control.fandom.com/wiki/Map:Maintenance_Sector?marker=124 Locked Door]\u003cbr\u003e\nRequire [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "138"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1139.7299424001915,
+                                         455.8806325345013
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "139"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1692.1619201902902,
+                                         570.2054634091099
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "At the end of the room covert in [[Mold]] here.(progress [[Old Growth]] to safely access)",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "140"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1452.1162150201956,
+                                         299.4210408302045
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On an iron frame hanging from the ceiling\u003cbr\u003e\nRequire [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "141"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1416.1193870490054,
+                                         313.42293585027966
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the concrete beams of the ceiling\u003cbr\u003e\nRequire [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "142"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1595.77162298777,
+                                         433.0740115657379
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: What a Mess: Take a Break",
+                                      "description":  "Returns to the [[Janitor\u0027s Office]] after having completing [[What a Mess: Even More Mold|Even More Mold]].",
+                                      "link":  {
+                                                   "url":  "What a Mess: Take a Break",
+                                                   "label":  "What a Mess: Take a Break"
+                                               }
+                                  },
+                        "id":  "143"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1587.8641977212935,
+                                         429.85883714980895
+                                     ],
+                        "popup":  {
+                                      "title":  "Ahti\u0027s Cabin",
+                                      "description":  "Obtain during the story mission [[Finnish Tango]]",
+                                      "link":  {
+                                                   "url":  "Ahti\u0027s Cabin",
+                                                   "label":  "Ahti\u0027s Cabin"
+                                               }
+                                  },
+                        "id":  "144"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1656.8002480587322,
+                                         232.09876684546026
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "145"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1637.131701984385,
+                                         242.89514222251165
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "146"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1579.5479194266352,
+                                         359.5362169465462
+                                     ],
+                        "popup":  {
+                                      "title":  "Furnace Complaint",
+                                      "description":  "Near Control Point: NSC Coolant Pumps Upper Level",
+                                      "link":  {
+                                                   "url":  "Furnace Complaint",
+                                                   "label":  "Furnace Complaint"
+                                               }
+                                  },
+                        "id":  "147"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         868.4901607647444,
+                                         625.6416567195655
+                                     ],
+                        "popup":  {
+                                      "title":  "Albany Summary",
+                                      "description":  "Near Control Point: Black Rock Quarry",
+                                      "link":  {
+                                                   "url":  "Albany Summary",
+                                                   "label":  "Albany Summary"
+                                               }
+                                  },
+                        "id":  "148"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         847.6025939553061,
+                                         1069.440938540993
+                                     ],
+                        "popup":  {
+                                      "title":  "Albany Supplement",
+                                      "description":  "On the console",
+                                      "link":  {
+                                                   "url":  "Albany Supplement",
+                                                   "label":  "Albany Supplement"
+                                               }
+                                  },
+                        "id":  "149"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         814.3071908688584,
+                                         1137.3202883782378
+                                     ],
+                        "popup":  {
+                                      "title":  "Sankarin Tango (Hero\u0027s Tango)",
+                                      "description":  "Automatically obtained during the story mission [[Finnish Tango]] after taking the cable car to \"Nowhere\"",
+                                      "link":  {
+                                                   "url":  "Sankarin Tango (Hero\u0027s Tango)",
+                                                   "label":  "Sankarin Tango (Hero\u0027s Tango)"
+                                               }
+                                  },
+                        "id":  "150"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         835.8695937078896,
+                                         1147.9297933893847
+                                     ],
+                        "popup":  {
+                                      "title":  "Plastic Tree Supplement",
+                                      "description":  "Not actually found here.\u003cbr\u003e\nIn \"Nowhere\" near the tent",
+                                      "link":  {
+                                                   "url":  "Plastic Tree Supplement",
+                                                   "label":  "Plastic Tree Supplement"
+                                               }
+                                  },
+                        "id":  "151"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1178.278999481019,
+                                         375.793972027194
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "152"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1398.8339898822876,
+                                         724.6076740209145
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the outer wall ledge. Requires [[Levitate]], can be easily reached from the NSC\u0027s top",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "153"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         988.8888334893867,
+                                         793.020255100713
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In an alcove, above. Can be reached from the tunnels",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "154"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         794.6112453583827,
+                                         770.5696147980401
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Up on a pillar, requiers [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "155"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1557.9330156492608,
+                                         525.3803384216047
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Behind Clearance level 4 door",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "156"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1746.5537495307722,
+                                         473.93832009028347
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:20260327194405 1.jpg"
+                                  },
+                        "id":  "157"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1746.5316524438601,
+                                         472.87765991850364
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:20260327194516 1.jpg"
+                                  },
+                        "id":  "158"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1746.5537495307724,
+                                         471.861193920548
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:20260327194608 1.jpg"
+                                  },
+                        "id":  "159"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1746.5537495307722,
+                                         470.7342424880319
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:20260327194626 1.jpg"
+                                  },
+                        "id":  "160"
+                    }
+                ],
+    "markerProgress":  true
+}

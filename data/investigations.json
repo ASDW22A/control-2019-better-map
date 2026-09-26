@@ -1,0 +1,2963 @@
+﻿{
+    "mapImage":  "Investigations Sector (blueprint).png",
+    "pageCategories":  [
+
+                       ],
+    "defaultSort":  "",
+    "description":  "Map of the [[Investigations Sector]], using the raw overlay map image.",
+    "coordinateOrder":  "xy",
+    "mapBounds":  [
+                      [
+                          0,
+                          0
+                      ],
+                      [
+                          2048,
+                          1152
+                      ]
+                  ],
+    "origin":  "bottom-left",
+    "useMarkerClustering":  true,
+    "categories":  [
+                       {
+                           "id":  "1",
+                           "listId":  1,
+                           "name":  "CHEST",
+                           "color":  "#A971F3",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "2",
+                           "listId":  2,
+                           "name":  "Locations",
+                           "color":  "#FA005A",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "3",
+                           "listId":  3,
+                           "name":  "Collectibles",
+                           "color":  "#FFC500",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "4",
+                           "listId":  4,
+                           "name":  "Control Points",
+                           "color":  "#FFF",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "5",
+                           "listId":  5,
+                           "name":  "Hidden Locations",
+                           "color":  "#0390FC",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "6",
+                           "listId":  6,
+                           "name":  "Other POIs",
+                           "color":  "#00A36C",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "7",
+                           "listId":  7,
+                           "name":  "Vending Machines",
+                           "color":  "#CC5500",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       }
+                   ],
+    "markers":  [
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1235.0910253796467,
+                                         91.40777568967893
+                                     ],
+                        "popup":  {
+                                      "title":  "Sector Head Office",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Sector Head Office",
+                                                   "label":  "Sector Head Office"
+                                               }
+                                  },
+                        "id":  "1"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1294.3986892945616,
+                                         65.97954957502297
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "At the light source above",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "2"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1251.9686965925305,
+                                         48.67702239793699
+                                     ],
+                        "popup":  {
+                                      "title":  "Darling Investigation",
+                                      "description":  "On a drawer in the room",
+                                      "link":  {
+                                                   "url":  "Darling Investigation",
+                                                   "label":  "Darling Investigation"
+                                               }
+                                  },
+                        "id":  "3"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1250.919241598358,
+                                         43.07266680795146
+                                     ],
+                        "popup":  {
+                                      "title":  "Casey Inquiry",
+                                      "description":  "On the floor",
+                                      "link":  {
+                                                   "url":  "Casey Inquiry",
+                                                   "label":  "Casey Inquiry"
+                                               }
+                                  },
+                        "id":  "4"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1239.4047068198038,
+                                         66.97125886219445
+                                     ],
+                        "popup":  {
+                                      "title":  "Missing Agents",
+                                      "description":  "On the floor near the left-hand desk closest",
+                                      "link":  {
+                                                   "url":  "Missing Agents",
+                                                   "label":  "Missing Agents"
+                                               }
+                                  },
+                        "id":  "5"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1231.6427410780395,
+                                         91.55480671075493
+                                     ],
+                        "popup":  {
+                                      "title":  "Tractor Supplement",
+                                      "description":  "On the ground floor of the [[Sector Head Office]], on a cabinet against the northern wall.",
+                                      "link":  {
+                                                   "url":  "Tractor Supplement",
+                                                   "label":  "Tractor Supplement"
+                                               }
+                                  },
+                        "id":  "6"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1219.45280156485,
+                                         91.54151856042792
+                                     ],
+                        "popup":  {
+                                      "title":  "Resignation Letter",
+                                      "description":  "On the ground floor of the [[Sector Head Office]], on a table",
+                                      "link":  {
+                                                   "url":  "Resignation Letter",
+                                                   "label":  "Resignation Letter"
+                                               }
+                                  },
+                        "id":  "7"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1201.4049640347887,
+                                         71.23881672128472
+                                     ],
+                        "popup":  {
+                                      "title":  "Staffing Issue",
+                                      "description":  "On the floor",
+                                      "link":  {
+                                                   "url":  "Staffing Issue",
+                                                   "label":  "Staffing Issue"
+                                               }
+                                  },
+                        "id":  "8"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1193.6784153503506,
+                                         46.00931263037985
+                                     ],
+                        "popup":  {
+                                      "title":  "Cauldron Lake Update",
+                                      "description":  "At the stairwell",
+                                      "link":  {
+                                                   "url":  "Cauldron Lake Update",
+                                                   "label":  "Cauldron Lake Update"
+                                               }
+                                  },
+                        "id":  "9"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1229.5164730217998,
+                                         32.65723593629767
+                                     ],
+                        "popup":  {
+                                      "title":  "Director Investigation",
+                                      "description":  "On a drawer in the second floor office against the south wall",
+                                      "link":  {
+                                                   "url":  "Director Investigation",
+                                                   "label":  "Director Investigation"
+                                               }
+                                  },
+                        "id":  "10"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1218.053536056813,
+                                         42.19836070295378
+                                     ],
+                        "popup":  {
+                                      "title":  "Underhill Background",
+                                      "description":  "On the floor near the desk in the second floor office",
+                                      "link":  {
+                                                   "url":  "Underhill Background",
+                                                   "label":  "Underhill Background"
+                                               }
+                                  },
+                        "id":  "11"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1212.7858176400111,
+                                         48.22252220891119
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the second floor office",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "12"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1238.5212636254716,
+                                         43.850285779854026
+                                     ],
+                        "popup":  {
+                                      "title":  "Trench: Official Warning",
+                                      "description":  "On the cabinet behind Kirklund\u0027s desk in the second floor office",
+                                      "link":  {
+                                                   "url":  "Trench: Official Warning",
+                                                   "label":  "Trench: Official Warning"
+                                               }
+                                  },
+                        "id":  "13"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1258.6910238763735,
+                                         97.43123111476417
+                                     ],
+                        "popup":  {
+                                      "title":  "Keystone Inspection",
+                                      "description":  "Enter the blocked stairwell and the file will be on the floor",
+                                      "link":  {
+                                                   "url":  "Keystone Inspection",
+                                                   "label":  "Keystone Inspection"
+                                               }
+                                  },
+                        "id":  "14"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1238.5396427335759,
+                                         90.23057604423032
+                                     ],
+                        "popup":  {
+                                      "title":  "Ethics Investigation",
+                                      "description":  "Underneath a desk in the second floor office room",
+                                      "link":  {
+                                                   "url":  "Ethics Investigation",
+                                                   "label":  "Ethics Investigation"
+                                               }
+                                  },
+                        "id":  "15"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1226.1571791363763,
+                                         111.61434051207762
+                                     ],
+                        "popup":  {
+                                      "title":  "Tractor Procedures",
+                                      "description":  "Atop a filing cabinet in the second floor office",
+                                      "link":  {
+                                                   "url":  "Tractor Procedures",
+                                                   "label":  "Tractor Procedures"
+                                               }
+                                  },
+                        "id":  "16"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1214.5328322011312,
+                                         91.2221274130622
+                                     ],
+                        "popup":  {
+                                      "title":  "Vending Machine",
+                                      "description":  "On the ground floor",
+                                      "link":  {
+                                                   "url":  "Vending Machine (Altered Item)",
+                                                   "label":  "Vending Machine (Altered Item)"
+                                               }
+                                  },
+                        "id":  "17"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1203.1971542380015,
+                                         98.77060332595188
+                                     ],
+                        "popup":  {
+                                      "title":  "Specimen Escape Assessment",
+                                      "description":  "On a conveyor belt",
+                                      "link":  {
+                                                   "url":  "Specimen Escape Assessment",
+                                                   "label":  "Specimen Escape Assessment"
+                                               }
+                                  },
+                        "id":  "18"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1201.2804998270062,
+                                         116.85178600408014
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Sealed Firebreak",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "19"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1215.278027510434,
+                                         138.3659986546433
+                                     ],
+                        "popup":  {
+                                      "title":  "Blessed Organization",
+                                      "description":  "On a console inside the security room",
+                                      "link":  {
+                                                   "url":  "Blessed Organization",
+                                                   "label":  "Blessed Organization"
+                                               }
+                                  },
+                        "id":  "20"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1199.278307395329,
+                                         122.2274966366083
+                                     ],
+                        "popup":  {
+                                      "title":  "Vending Machine",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Vending Machine (Altered Item)",
+                                                   "label":  "Vending Machine (Altered Item)"
+                                               }
+                                  },
+                        "id":  "21"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1204.9065260716216,
+                                         133.71660027117653
+                                     ],
+                        "popup":  {
+                                      "title":  "Hartman\u0027s Final Act",
+                                      "description":  "Automatically obtained during the [[Oceanview Motel]] puzzle sequence in the AWE story mission [[A Dark Place]].",
+                                      "link":  {
+                                                   "url":  "Hartman\u0027s Final Act",
+                                                   "label":  "Hartman\u0027s Final Act"
+                                               }
+                                  },
+                        "id":  "22"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1460.6042402024157,
+                                         407.5838568911447
+                                     ],
+                        "popup":  {
+                                      "title":  "Abandoned Offices",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Abandoned Offices",
+                                                   "label":  "Abandoned Offices"
+                                               }
+                                  },
+                        "id":  "23"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1431.3105331791876,
+                                         303.2261543307218
+                                     ],
+                        "popup":  {
+                                      "title":  "Vending Machine",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Vending Machine (Altered Item)",
+                                                   "label":  "Vending Machine (Altered Item)"
+                                               }
+                                  },
+                        "id":  "24"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1428.3628674619285,
+                                         336.4570462116313
+                                     ],
+                        "popup":  {
+                                      "title":  "Vending Machine",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Vending Machine (Altered Item)",
+                                                   "label":  "Vending Machine (Altered Item)"
+                                               }
+                                  },
+                        "id":  "25"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1407.5402367328636,
+                                         333.7254794516916
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the men\u0027s restroom",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "26"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1455.2694167069365,
+                                         326.1340197503993
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the Shelter",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "27"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1463.5678280520112,
+                                         354.41103276448933
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Abandoned Offices",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "28"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1482.1412544127008,
+                                         387.513155741195
+                                     ],
+                        "popup":  {
+                                      "title":  "Foot Gossip",
+                                      "description":  "On the floor",
+                                      "link":  {
+                                                   "url":  "Foot Gossip",
+                                                   "label":  "Foot Gossip"
+                                               }
+                                  },
+                        "id":  "29"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1482.6548294008705,
+                                         415.04756088868294
+                                     ],
+                        "popup":  {
+                                      "title":  "Vending Machine",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Vending Machine (Altered Item)",
+                                                   "label":  "Vending Machine (Altered Item)"
+                                               }
+                                  },
+                        "id":  "30"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1451.7636902305214,
+                                         448.25433331302384
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "31"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1439.7522426196906,
+                                         427.7212136974447
+                                     ],
+                        "popup":  {
+                                      "title":  "Hartman Arrest",
+                                      "description":  "On the wall protrusion",
+                                      "link":  {
+                                                   "url":  "Hartman Arrest",
+                                                   "label":  "Hartman Arrest"
+                                               }
+                                  },
+                        "id":  "32"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1410.058771492038,
+                                         402.60797978270006
+                                     ],
+                        "popup":  {
+                                      "title":  "Breakable wall",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "33"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1410.015176436519,
+                                         407.7988230604904
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "Enter by breaking through the wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "34"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1414.0817660928678,
+                                         426.53726442706267
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "35"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1555.7974718840883,
+                                         361.2067303749521
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Entering from the north. Covert in [[Mold]] here.(progress [[Old Growth]] to safely access)",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "36"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1375.3823915109006,
+                                         501.2190028431902
+                                     ],
+                        "popup":  {
+                                      "title":  "Operations Corridor",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Operations Corridor",
+                                                   "label":  "Operations Corridor"
+                                               }
+                                  },
+                        "id":  "37"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1487.4818184107778,
+                                         523.2040788346764
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Operations Corridor",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "38"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1441.1846637647259,
+                                         603.7954921483046
+                                     ],
+                        "popup":  {
+                                      "title":  "Operations Center",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Operations Center",
+                                                   "label":  "Operations Center"
+                                               }
+                                  },
+                        "id":  "39"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1448.5929245305897,
+                                         570.2052400788524
+                                     ],
+                        "popup":  {
+                                      "title":  "The Third Thing",
+                                      "description":  "Automatically obtained after entering the [[Operations Center]] during the AWE story mission [[A Dark Place]].",
+                                      "link":  {
+                                                   "url":  "The Third Thing (Collectible)",
+                                                   "label":  "The Third Thing (Collectible)"
+                                               }
+                                  },
+                        "id":  "40"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1417.139998607273,
+                                         585.4254556344557
+                                     ],
+                        "popup":  {
+                                      "title":  "Vending Machine",
+                                      "description":  "On the second floor",
+                                      "link":  {
+                                                   "url":  "Vending Machine (Altered Item)",
+                                                   "label":  "Vending Machine (Altered Item)"
+                                               }
+                                  },
+                        "id":  "41"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1430.5524658799968,
+                                         550.0544834570966
+                                     ],
+                        "popup":  {
+                                      "title":  "FBC Reminder: Billable Hours",
+                                      "description":  "In the women\u0027s restroom",
+                                      "link":  {
+                                                   "url":  "FBC Reminder: Billable Hours",
+                                                   "label":  "FBC Reminder: Billable Hours"
+                                               }
+                                  },
+                        "id":  "42"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1450.3035067105427,
+                                         581.3830413196808
+                                     ],
+                        "popup":  {
+                                      "title":  "Motel Observation",
+                                      "description":  "Underneath the console",
+                                      "link":  {
+                                                   "url":  "Motel Observation",
+                                                   "label":  "Motel Observation"
+                                               }
+                                  },
+                        "id":  "43"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1444.304842186323,
+                                         595.204045763179
+                                     ],
+                        "popup":  {
+                                      "title":  "Interrogation Complaint",
+                                      "description":  "On top of a filing cabinet at one of the consoles",
+                                      "link":  {
+                                                   "url":  "Interrogation Complaint",
+                                                   "label":  "Interrogation Complaint"
+                                               }
+                                  },
+                        "id":  "44"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1416.8165040569475,
+                                         629.9690480054402
+                                     ],
+                        "popup":  {
+                                      "title":  "NASA Cooperation Review",
+                                      "description":  "On top of a cabinet on the ground floor",
+                                      "link":  {
+                                                   "url":  "NASA Cooperation Review",
+                                                   "label":  "NASA Cooperation Review"
+                                               }
+                                  },
+                        "id":  "45"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1436.052416517233,
+                                         624.7023086614436
+                                     ],
+                        "popup":  {
+                                      "title":  "Black Market",
+                                      "description":  "On top of a row of filing cabinets",
+                                      "link":  {
+                                                   "url":  "Black Market",
+                                                   "label":  "Black Market"
+                                               }
+                                  },
+                        "id":  "46"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1417.0577343302377,
+                                         654.9461498461995
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the men\u0027s restroom",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "47"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1424.527187855749,
+                                         633.227259759099
+                                     ],
+                        "popup":  {
+                                      "title":  "Vending Machine",
+                                      "description":  "On the second floor",
+                                      "link":  {
+                                                   "url":  "Vending Machine (Altered Item)",
+                                                   "label":  "Vending Machine (Altered Item)"
+                                               }
+                                  },
+                        "id":  "48"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1425.686501027934,
+                                         633.2321578204053
+                                     ],
+                        "popup":  {
+                                      "title":  "Vending Machine",
+                                      "description":  "On the second floor",
+                                      "link":  {
+                                                   "url":  "Vending Machine (Altered Item)",
+                                                   "label":  "Vending Machine (Altered Item)"
+                                               }
+                                  },
+                        "id":  "49"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1426.7691644887593,
+                                         603.8523387182687
+                                     ],
+                        "popup":  {
+                                      "title":  "Eagle Limited Summary",
+                                      "description":  "On the console in the main control room on the second floor of the [[Operations Center]]",
+                                      "link":  {
+                                                   "url":  "Eagle Limited Summary",
+                                                   "label":  "Eagle Limited Summary"
+                                               }
+                                  },
+                        "id":  "50"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1433.7565707166405,
+                                         596.091554610255
+                                     ],
+                        "popup":  {
+                                      "title":  "The Shadow",
+                                      "description":  "On the second floor of the [[Operations Center]], on the ground inside the overlooking control room.",
+                                      "link":  {
+                                                   "url":  "The Shadow (Collectible)",
+                                                   "label":  "The Shadow (Collectible)"
+                                               }
+                                  },
+                        "id":  "51"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1436.404800114769,
+                                         599.2226801272508
+                                     ],
+                        "popup":  {
+                                      "title":  "Dr. Hartman\u0027s Notes: The Darkness",
+                                      "description":  "On the console in the main control room on the second floor of the [[Operations Center]]",
+                                      "link":  {
+                                                   "url":  "Dr. Hartman\u0027s Notes: The Darkness",
+                                                   "label":  "Dr. Hartman\u0027s Notes: The Darkness"
+                                               }
+                                  },
+                        "id":  "52"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1477.2966322294033,
+                                         603.2076778849896
+                                     ],
+                        "popup":  {
+                                      "title":  "Hiss Ranger (Airborne)",
+                                      "description":  "Automatically obtained through the AWE story mission [[A Dark Place]], after defeating the waves of [[Hiss]] enemies in the [[Operations Center]].",
+                                      "link":  {
+                                                   "url":  "Hiss Ranger (Airborne) (Collectible)",
+                                                   "label":  "Hiss Ranger (Airborne) (Collectible)"
+                                               }
+                                  },
+                        "id":  "53"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1449.110244142436,
+                                         667.4049331595663
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Active Investigations",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "54"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1467.3911790498794,
+                                         633.4774176774386
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: Another Fine Mess: Nourish the...",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Another Fine Mess: Nourish the Plants",
+                                                   "label":  "Another Fine Mess: Nourish the Plants"
+                                               }
+                                  },
+                        "id":  "55"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1467.4421161941304,
+                                         632.4654534546611
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: Another Fine Mess: Clear the Mold",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Another Fine Mess: Clear the Mold",
+                                                   "label":  "Another Fine Mess: Clear the Mold"
+                                               }
+                                  },
+                        "id":  "56"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1467.4431307768748,
+                                         631.4289921494545
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: Another Fine Mess: Burn the Dark",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Another Fine Mess: Burn the Dark",
+                                                   "label":  "Another Fine Mess: Burn the Dark"
+                                               }
+                                  },
+                        "id":  "57"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1451.5969962574063,
+                                         738.9020906294536
+                                     ],
+                        "popup":  {
+                                      "title":  "Active Investigations",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Active Investigations",
+                                                   "label":  "Active Investigations"
+                                               }
+                                  },
+                        "id":  "58"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1412.0609996540127,
+                                         785.9636787818941
+                                     ],
+                        "popup":  {
+                                      "title":  "Brian Hennerman Interrogation",
+                                      "description":  "On the bottom rack of a shelf",
+                                      "link":  {
+                                                   "url":  "Brian Hennerman Interrogation",
+                                                   "label":  "Brian Hennerman Interrogation"
+                                               }
+                                  },
+                        "id":  "59"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1425.2960724596132,
+                                         776.2120995984982
+                                     ],
+                        "popup":  {
+                                      "title":  "Door Appearance",
+                                      "description":  "On the third layer of a shelf",
+                                      "link":  {
+                                                   "url":  "Door Appearance",
+                                                   "label":  "Door Appearance"
+                                               }
+                                  },
+                        "id":  "60"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1486.7901015818536,
+                                         783.2343660843806
+                                     ],
+                        "popup":  {
+                                      "title":  "Vending Machine Procedures",
+                                      "description":  "On the ground amidst the scattered papers",
+                                      "link":  {
+                                                   "url":  "Vending Machine Procedures",
+                                                   "label":  "Vending Machine Procedures"
+                                               }
+                                  },
+                        "id":  "61"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1497.0445797401733,
+                                         794.471416780534
+                                     ],
+                        "popup":  {
+                                      "title":  "Langston Interrogation",
+                                      "description":  "On top of the shelves by the Power Core supply chute.",
+                                      "link":  {
+                                                   "url":  "Langston Interrogation",
+                                                   "label":  "Langston Interrogation"
+                                               }
+                                  },
+                        "id":  "62"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1470.4724763804566,
+                                         693.8221760689033
+                                     ],
+                        "popup":  {
+                                      "title":  "Night Springs Screenplay Pg. 1",
+                                      "description":  "On a filing cabinet in this room",
+                                      "link":  {
+                                                   "url":  "Night Springs Screenplay Pg. 1",
+                                                   "label":  "Night Springs Screenplay Pg. 1"
+                                               }
+                                  },
+                        "id":  "63"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1490.8979429348417,
+                                         683.7267070449104
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the stairwell",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "64"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1414.3019399351765,
+                                         734.293096109211
+                                     ],
+                        "popup":  {
+                                      "title":  "Hartman Background",
+                                      "description":  "On the console on the raised scaffolding platform",
+                                      "link":  {
+                                                   "url":  "Hartman Background",
+                                                   "label":  "Hartman Background"
+                                               }
+                                  },
+                        "id":  "65"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1400.856487911253,
+                                         699.2651808003379
+                                     ],
+                        "popup":  {
+                                      "title":  "Vending Machine",
+                                      "description":  "in the room",
+                                      "link":  {
+                                                   "url":  "Vending Machine (Altered Item)",
+                                                   "label":  "Vending Machine (Altered Item)"
+                                               }
+                                  },
+                        "id":  "66"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1406.1715313415793,
+                                         688.9902461078885
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: SHÜM",
+                                      "description":  "It can be started after completing the mission phase \"Activate the lights to defeat the [[Emil Hartman|creature]]\" during [[A Dark Place]].",
+                                      "link":  {
+                                                   "url":  "SHÜM",
+                                                   "label":  "SHÜM"
+                                               }
+                                  },
+                        "id":  "67"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1449.2930385445218,
+                                         724.7205782625384
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the upper floor reached by elevator",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "68"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1626.0775182424418,
+                                         855.9156858035547
+                                     ],
+                        "popup":  {
+                                      "title":  "Observation Deck",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Observation Deck",
+                                                   "label":  "Observation Deck"
+                                               }
+                                  },
+                        "id":  "69"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1585.4191422022252,
+                                         738.4939740381595
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Fra Mauro AWE Entrance",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "70"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1604.8151123436226,
+                                         738.8897368474387
+                                     ],
+                        "popup":  {
+                                      "title":  "Vending Machine",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Vending Machine (Altered Item)",
+                                                   "label":  "Vending Machine (Altered Item)"
+                                               }
+                                  },
+                        "id":  "71"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1635.3861338755278,
+                                         754.6489923689782
+                                     ],
+                        "popup":  {
+                                      "title":  "Vending Machine",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Vending Machine (Altered Item)",
+                                                   "label":  "Vending Machine (Altered Item)"
+                                               }
+                                  },
+                        "id":  "72"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1637.3289623167284,
+                                         716.7872900091768
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the men\u0027s restroom",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "73"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1616.5440199703835,
+                                         721.1989923763122
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require strong light\u003cbr\u003e\nIn the women\u0027s restroom",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "74"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1631.018029980412,
+                                         790.5411380916657
+                                     ],
+                        "popup":  {
+                                      "title":  "Vending Machine",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Vending Machine (Altered Item)",
+                                                   "label":  "Vending Machine (Altered Item)"
+                                               }
+                                  },
+                        "id":  "75"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1612.199393195364,
+                                         868.8486358377953
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "on the upper floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "76"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1611.794837358567,
+                                         867.5387977468143
+                                     ],
+                        "popup":  {
+                                      "title":  "Arcade Cabinets Procedures",
+                                      "description":  "On the table in the completely dark area to the left of the control room on the second floor",
+                                      "link":  {
+                                                   "url":  "Arcade Cabinets Procedures",
+                                                   "label":  "Arcade Cabinets Procedures"
+                                               }
+                                  },
+                        "id":  "77"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1659.0693952716024,
+                                         870.2679859960929
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "The elevator shaft can be entered by removing all the debris blocking it with [[Launch]].",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "78"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1661.9017145969897,
+                                         870.4257796194938
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "79"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1651.5390753372385,
+                                         853.6828847056738
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Same level as Control Point: Transit Terminal",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "80"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1610.0561483158328,
+                                         920.2397353079266
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Transit Terminal",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "81"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1603.5177650642843,
+                                         900.1132350837005
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Under the stairs in the [[Lower Access]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "82"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1606.3950507909267,
+                                         900.1016280857406
+                                     ],
+                        "popup":  {
+                                      "title":  "Actor For Hire",
+                                      "description":  "Under the stairs in the [[Lower Access]]",
+                                      "link":  {
+                                                   "url":  "Actor For Hire",
+                                                   "label":  "Actor For Hire"
+                                               }
+                                  },
+                        "id":  "83"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1630.0829649556335,
+                                         863.2681540993871
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "in the [[Lower Access]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "84"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1686.585746143478,
+                                         864.7277335141177
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "in the [[Lower Access]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "85"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1653.7968188193333,
+                                         936.7234697189488
+                                     ],
+                        "popup":  {
+                                      "title":  "Lower Access",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Lower Access",
+                                                   "label":  "Lower Access"
+                                               }
+                                  },
+                        "id":  "86"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1771.0525878540682,
+                                         891.8667169213853
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Lower Access",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "87"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1402.5771201724895,
+                                         688.9874454920025
+                                     ],
+                        "popup":  {
+                                      "title":  "Extradimensional Suit",
+                                      "description":  "Completing each Level of SHÜM \u0026 SHÜM 2",
+                                      "link":  {
+                                                   "url":  "Outfits",
+                                                   "label":  "Extradimensional Suit"
+                                               }
+                                  },
+                        "id":  "88"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1920.2888887473086,
+                                         868.98073396257
+                                     ],
+                        "popup":  {
+                                      "title":  "Fra Interrogation",
+                                      "description":  "In the control room",
+                                      "link":  {
+                                                   "url":  "Fra Interrogation",
+                                                   "label":  "Fra Interrogation"
+                                               }
+                                  },
+                        "id":  "89"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1888.471027571651,
+                                         763.9808516501733
+                                     ],
+                        "popup":  {
+                                      "title":  "Shifted Offices",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Shifted Offices",
+                                                   "label":  "Shifted Offices"
+                                               }
+                                  },
+                        "id":  "90"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1915.9781046284465,
+                                         849.2158144726326
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "Directly inside the entrance area of the Shifted Offices; look up to see a stairway which can be reached using Levitate and float up to either the stairs or the shifted alcove above it.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "91"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1909.3941178412767,
+                                         853.2274176774386
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "At the Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "92"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1906.8729069424887,
+                                         777.5687188494617
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the floor hole",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "93"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1907.4539780028617,
+                                         757.2693765623642
+                                     ],
+                        "popup":  {
+                                      "title":  "Langston: Freestyle",
+                                      "description":  "Near a whiteboard",
+                                      "link":  {
+                                                   "url":  "Langston: Freestyle",
+                                                   "label":  "Langston: Freestyle"
+                                               }
+                                  },
+                        "id":  "94"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1961.3642071485936,
+                                         710.7758773829319
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: AWE Loading Bay",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "95"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1952.551483567583,
+                                         711.9549932732166
+                                     ],
+                        "popup":  {
+                                      "title":  "Shaded Hartman",
+                                      "description":  "Near the Control Point: AWE Loading Bay",
+                                      "link":  {
+                                                   "url":  "Shaded Hartman (Collectible)",
+                                                   "label":  "Shaded Hartman (Collectible)"
+                                               }
+                                  },
+                        "id":  "96"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1918.8160375821224,
+                                         737.9725222089112
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Near the [[Langston: Me and You]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "97"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1903.3195827907923,
+                                         740.7043615998582
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Same area with [[Langston: Me and You]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "98"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1914.9557451455928,
+                                         739.6200141428509
+                                     ],
+                        "popup":  {
+                                      "title":  "Langston: Me and You",
+                                      "description":  "on the console in an area to the right of the AWE Loading Bay Control Point (when facing the AWE Loading Bay).",
+                                      "link":  {
+                                                   "url":  "Langston: Me and You",
+                                                   "label":  "Langston: Me and You"
+                                               }
+                                  },
+                        "id":  "99"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1967.958105507936,
+                                         671.2960501391626
+                                     ],
+                        "popup":  {
+                                      "title":  "Night Springs Screenplay Pg. 3",
+                                      "description":  "On the console",
+                                      "link":  {
+                                                   "url":  "Night Springs Screenplay Pg. 3",
+                                                   "label":  "Night Springs Screenplay Pg. 3"
+                                               }
+                                  },
+                        "id":  "100"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1979.6178468742405,
+                                         682.9972582278954
+                                     ],
+                        "popup":  {
+                                      "title":  "Vending Machine",
+                                      "description":  "In the control room",
+                                      "link":  {
+                                                   "url":  "Vending Machine (Altered Item)",
+                                                   "label":  "Vending Machine (Altered Item)"
+                                               }
+                                  },
+                        "id":  "101"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1933.306334905763,
+                                         658.2149421286108
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:CHEST (AWE Loading Bay).png"
+                                  },
+                        "id":  "102"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1930.5612795389077,
+                                         667.687464337522
+                                     ],
+                        "popup":  {
+                                      "title":  "AWE Loading Bay",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "AWE Loading Bay",
+                                                   "label":  "AWE Loading Bay"
+                                               }
+                                  },
+                        "id":  "103"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1947.3075477403079,
+                                         746.7683185273926
+                                     ],
+                        "popup":  {
+                                      "title":  "Chain Letter",
+                                      "description":  "Lying atop the mail tube station\u003cbr\u003e\nPick up will start side mission [[Return to Sender]]",
+                                      "link":  {
+                                                   "url":  "Chain Letter",
+                                                   "label":  "Chain Letter"
+                                               }
+                                  },
+                        "id":  "104"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1861.1277835958551,
+                                         489.37777120515665
+                                     ],
+                        "popup":  {
+                                      "title":  "Loading Bay Vents",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Loading Bay Vents",
+                                                   "label":  "Loading Bay Vents"
+                                               }
+                                  },
+                        "id":  "105"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1903.6108039122257,
+                                         501.40145895609527
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Covert in [[Mold]] here.(progress [[Old Growth]] to safely access)\u003cbr\u003e\nUpper layer near the light source",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "106"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1872.5846813220269,
+                                         636.4317792772968
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Fra Mauro AWE",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "107"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1705.153533006194,
+                                         613.3881938155696
+                                     ],
+                        "popup":  {
+                                      "title":  "Fra Mauro AWE",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Fra Mauro AWE",
+                                                   "label":  "Fra Mauro AWE"
+                                               }
+                                  },
+                        "id":  "108"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1794.8751323159001,
+                                         602.2141525369128
+                                     ],
+                        "popup":  {
+                                      "title":  "Fra Mauro Summary",
+                                      "description":  "on the desk in Mobile Lab 1",
+                                      "link":  {
+                                                   "url":  "Fra Mauro Summary",
+                                                   "label":  "Fra Mauro Summary"
+                                               }
+                                  },
+                        "id":  "109"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1652.056614790658,
+                                         594.4627312718566
+                                     ],
+                        "popup":  {
+                                      "title":  "Fra Mauro Supplement",
+                                      "description":  "On the table in Mobile Lab 2",
+                                      "link":  {
+                                                   "url":  "Fra Mauro Supplement",
+                                                   "label":  "Fra Mauro Supplement"
+                                               }
+                                  },
+                        "id":  "110"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1615.305495251078,
+                                         616.4523086614436
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Elevator shaft bottom",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "111"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1797.0183638550095,
+                                         684.484208166041
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Upper layer",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "112"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1708.044781555693,
+                                         592.9025247964413
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: Gerbil Took the Top Head",
+                                      "description":  "Automatically obtained after chasing [[Emil Hartman]] out of the Fra Mauro AWE",
+                                      "link":  {
+                                                   "url":  "Gerbil Took the Top Head",
+                                                   "label":  "Gerbil Took the Top Head"
+                                               }
+                                  },
+                        "id":  "113"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1604.5292328769242,
+                                         655.0853001126649
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Between machine",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "114"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1701.3527250776576,
+                                         695.3908333008134
+                                     ],
+                        "popup":  {
+                                      "title":  "Service Ducts",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Service Ducts",
+                                                   "label":  "Service Ducts"
+                                               }
+                                  },
+                        "id":  "115"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1315.527187855749,
+                                         741.8516280857406
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Eagle Limited AWE Entrance",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "116"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1281.2979383589131,
+                                         740.201361151406
+                                     ],
+                        "popup":  {
+                                      "title":  "Breakable Wall",
+                                      "description":  "Note: Hiss will continuously spawn as you repeatedly enter and exit this wall.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "117"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1325.1616370296067,
+                                         741.7199506142456
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "Enter by breaking through the wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "118"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1332.6496222442115,
+                                         732.0908896386484
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "119"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1349.1443044312068,
+                                         743.3530493507968
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "120"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1223.3676721512472,
+                                         661.8097377719226
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Below the iron ladder",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "121"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1197.2004991991914,
+                                         606.9915424698727
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the corner, blocked by wooden crates",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "122"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1230.4291084157624,
+                                         557.1186280309765
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Turntable",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "123"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1219.2685703157822,
+                                         464.18779723189755
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Next to the scaffold",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "124"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1286.0807934685702,
+                                         464.5390056547861
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Behind the baffle",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "125"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1195.3494084860945,
+                                         402.6688686996666
+                                     ],
+                        "popup":  {
+                                      "title":  "Brain Missing",
+                                      "description":  "On a desk",
+                                      "link":  {
+                                                   "url":  "Brain Missing",
+                                                   "label":  "Brain Missing"
+                                               }
+                                  },
+                        "id":  "126"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1100.6177077396355,
+                                         442.89672140590756
+                                     ],
+                        "popup":  {
+                                      "title":  "Utility Corridor",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Utility Corridor",
+                                                   "label":  "Utility Corridor"
+                                               }
+                                  },
+                        "id":  "127"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1080.2201097474829,
+                                         460.64545175310815
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "128"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1125.0574544453427,
+                                         481.4480448662746
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "129"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1071.5838569204368,
+                                         507.4624154351774
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "130"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1100.8176235965275,
+                                         536.7169950670254
+                                     ],
+                        "popup":  {
+                                      "title":  "Night Springs Screenplay Pg. 2",
+                                      "description":  "Covert in [[Mold]] here.(progress [[Old Growth]] to safely access)",
+                                      "link":  {
+                                                   "url":  "Night Springs Screenplay Pg. 2",
+                                                   "label":  "Night Springs Screenplay Pg. 2"
+                                               }
+                                  },
+                        "id":  "131"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1102.1058519450087,
+                                         528.4957665201804
+                                     ],
+                        "popup":  {
+                                      "title":  "A/C Systems",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "A/C Systems",
+                                                   "label":  "A/C Systems"
+                                               }
+                                  },
+                        "id":  "132"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1117.6684022643383,
+                                         536.2893509010066
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Covert in [[Mold]] here.(progress [[Old Growth]] to safely access)",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "133"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1096.8146894745512,
+                                         611.6257026913767
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "134"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1052.39420664436,
+                                         550.8044696477417
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "135"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1049.566637123145,
+                                         554.5103036715008
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "136"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1070.7715943709416,
+                                         605.9641585064747
+                                     ],
+                        "popup":  {
+                                      "title":  "FBC Reminder: Law of Three",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "FBC Reminder: Law of Three",
+                                                   "label":  "FBC Reminder: Law of Three"
+                                               }
+                                  },
+                        "id":  "137"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1121.5591337547128,
+                                         664.9485186212934
+                                     ],
+                        "popup":  {
+                                      "title":  "Service Vents",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Service Vents",
+                                                   "label":  "Service Vents"
+                                               }
+                                  },
+                        "id":  "138"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1132.0567080856229,
+                                         740.497315388227
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Eagle Limited AWE",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "139"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1976.804748891358,
+                                         743.466837148686
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Progress [[Return to Sender]] to access",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "140"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1981.3899678143653,
+                                         737.4654734234738
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: Return to Sender",
+                                      "description":  "Pick up the [[Chain Letter]] to obtain",
+                                      "link":  {
+                                                   "url":  "Return to Sender",
+                                                   "label":  "Return to Sender"
+                                               }
+                                  },
+                        "id":  "141"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         972.4815640068656,
+                                         748.6724300593272
+                                     ],
+                        "popup":  {
+                                      "title":  "Eagle Limited AWE",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Eagle Limited AWE",
+                                                   "label":  "Eagle Limited AWE"
+                                               }
+                                  },
+                        "id":  "142"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         978.7149269939274,
+                                         698.5553940560602
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In Mobile Lab 2",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "143"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1048.3359183597465,
+                                         793.7032422140791
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Upper layer",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "144"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         872.1386058117946,
+                                         741.3869304688529
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the control room of the [[Eagle Limited AWE]] hangar (accessible using the elevator.)",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "145"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         880.0748073088321,
+                                         756.7192059237798
+                                     ],
+                        "popup":  {
+                                      "title":  "Eagle Limited Supplement",
+                                      "description":  "In the control room of the [[Eagle Limited AWE]] hangar (accessible using the elevator.)",
+                                      "link":  {
+                                                   "url":  "Eagle Limited Supplement",
+                                                   "label":  "Eagle Limited Supplement"
+                                               }
+                                  },
+                        "id":  "146"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         978.2989646035281,
+                                         786.9466236012183
+                                     ],
+                        "popup":  {
+                                      "title":  "Suspect Interrogation",
+                                      "description":  "To the right of the entrance to the [[Shifted Passage]], on an elevated concrete block opposite Mobile Lab 2. ([[Levitate]] must be used to reach the top of the platform.)",
+                                      "link":  {
+                                                   "url":  "Suspect Interrogation",
+                                                   "label":  "Suspect Interrogation"
+                                               }
+                                  },
+                        "id":  "147"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         916.3167839418425,
+                                         738.6966236012183
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: Dead in its Tracks",
+                                      "description":  "Automatically obtained after chasing [[Emil Hartman]] out of the [[Eagle Limited AWE]]",
+                                      "link":  {
+                                                   "url":  "Dead in its Tracks",
+                                                   "label":  "Dead in its Tracks"
+                                               }
+                                  },
+                        "id":  "148"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1053.0099348791568,
+                                         863.3269071905576
+                                     ],
+                        "popup":  {
+                                      "title":  "Shifted Passage",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Shifted Passage",
+                                                   "label":  "Shifted Passage"
+                                               }
+                                  },
+                        "id":  "149"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         960.0664107619824,
+                                         849.7212588621944
+                                     ],
+                        "popup":  {
+                                      "title":  "Shaded Specimen Captured",
+                                      "description":  "In the office within the [[Shifted Passage]]",
+                                      "link":  {
+                                                   "url":  "Shaded Specimen Captured",
+                                                   "label":  "Shaded Specimen Captured"
+                                               }
+                                  },
+                        "id":  "150"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1000.5573611503778,
+                                         837.4499398863497
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "151"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1031.5458858696834,
+                                         859.9658896386484
+                                     ],
+                        "popup":  {
+                                      "title":  "Breakable Wall",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "152"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1033.517675582593,
+                                         859.7993532982291
+                                     ],
+                        "popup":  {
+                                      "title":  "Employee Misdemeanor",
+                                      "description":  "After passing through the breakable wall\u003cbr\u003e\n[[Levitate]] up to the \"column\", and the file can be found where it connects to the \"ceiling.\"",
+                                      "link":  {
+                                                   "url":  "Employee Misdemeanor",
+                                                   "label":  "Employee Misdemeanor"
+                                               }
+                                  },
+                        "id":  "153"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1041.2713102729542,
+                                         822.3582606560034
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "After passing through the breakable wall\u003cbr\u003e\n[[Levitate]] up to the office and go to the end\u003cbr\u003e\nA radio playing \"Take Control\" nearby",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "154"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1121.7507256470096,
+                                         822.9410813765986
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "After passing through the breakable wall next to the radio playing \"Take Control\"\u003cbr\u003e\nAt the end of the path, there will be a room with a clock inside.\u003cbr\u003e\nThe puzzle see [[Old Gods of Asgard: Take Control#Notes]]\n",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "155"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1044.2239900705042,
+                                         822.4204161860125
+                                     ],
+                        "popup":  {
+                                      "title":  "Breakable wall",
+                                      "description":  "Next to the radio playing \"Take Control\"",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "156"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1255.5945705883164,
+                                         833.9279892371466
+                                     ],
+                        "popup":  {
+                                      "title":  "Vending Machine",
+                                      "description":  "Solved the [[Old Gods of Asgard: Take Control#Notes|puzzle]] in the Hidden Location on the left to access this area",
+                                      "link":  {
+                                                   "url":  "Vending Machine (Altered Item)",
+                                                   "label":  "Vending Machine (Altered Item)"
+                                               }
+                                  },
+                        "id":  "157"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1247.5904656098567,
+                                         809.8970372425867
+                                     ],
+                        "popup":  {
+                                      "title":  "Valhalla Nursing Home",
+                                      "description":  "Solved the [[Old Gods of Asgard: Take Control#Notes|puzzle]] in the Hidden Location on the left to access this area\u003cbr\u003e\nTraversing the [[Oceanview Motel]] to obtain",
+                                      "link":  {
+                                                   "url":  "Valhalla Nursing Home (Collectible)",
+                                                   "label":  "Valhalla Nursing Home (Collectible)"
+                                               }
+                                  },
+                        "id":  "158"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1058.7660180458245,
+                                         896.2431053569476
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "159"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1101.0019265652218,
+                                         894.4641718911013
+                                     ],
+                        "popup":  {
+                                      "title":  "Motel Complaint",
+                                      "description":  "It is located in the raised office just before the AWE Transit Bay Control Point.",
+                                      "link":  {
+                                                   "url":  "Motel Complaint",
+                                                   "label":  "Motel Complaint"
+                                               }
+                                  },
+                        "id":  "160"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1154.196143046943,
+                                         926.1163568897607
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: AWE Transit Bay",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "161"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1228.2796850641807,
+                                         889.471991673852
+                                     ],
+                        "popup":  {
+                                      "title":  "AWE Transit Bay",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "AWE Transit Bay",
+                                                   "label":  "AWE Transit Bay"
+                                               }
+                                  },
+                        "id":  "162"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1234.0332290330568,
+                                         830.729869555091
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "163"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1219.832534062329,
+                                         939.7127526398277
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Go down from where [[Emil Hartman]] escaped.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "164"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1451.4228029843887,
+                                         833.9781791569367
+                                     ],
+                        "popup":  {
+                                      "title":  "On Writing the Manuscript",
+                                      "description":  "Automatically obtained during the AWE story mission [[It\u0027s Happening Again]].",
+                                      "link":  {
+                                                   "url":  "On Writing the Manuscript",
+                                                   "label":  "On Writing the Manuscript"
+                                               }
+                                  },
+                        "id":  "165"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1450.5977426171262,
+                                         869.9115657298291
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Bright Falls AWE Entrance",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "166"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1446.3125856684176,
+                                         871.949466131331
+                                     ],
+                        "popup":  {
+                                      "title":  "Dr. Hartman Interrogation",
+                                      "description":  "Located on the ground next to the Bright Falls AWE Entrance Control Point",
+                                      "link":  {
+                                                   "url":  "Dr. Hartman Interrogation",
+                                                   "label":  "Dr. Hartman Interrogation"
+                                               }
+                                  },
+                        "id":  "167"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1457.076300028272,
+                                         889.4603624967626
+                                     ],
+                        "popup":  {
+                                      "title":  "Vending Machine",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Vending Machine (Altered Item)",
+                                                   "label":  "Vending Machine (Altered Item)"
+                                               }
+                                  },
+                        "id":  "168"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1451.5476584740184,
+                                         907.224101392307
+                                     ],
+                        "popup":  {
+                                      "title":  "Wake Writes a Beginning",
+                                      "description":  "Automatically obtained during the [[Oceanview Motel]] puzzle sequence in the AWE story mission [[It\u0027s Happening Again]].",
+                                      "link":  {
+                                                   "url":  "Wake Writes a Beginning",
+                                                   "label":  "Wake Writes a Beginning"
+                                               }
+                                  },
+                        "id":  "169"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1450.0583873949927,
+                                         981.718732168761
+                                     ],
+                        "popup":  {
+                                      "title":  "Bright Falls AWE",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Bright Falls AWE",
+                                                   "label":  "Bright Falls AWE"
+                                               }
+                                  },
+                        "id":  "170"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1435.0602532942926,
+                                         920.4696796787986
+                                     ],
+                        "popup":  {
+                                      "title":  "Alice Wake Interview",
+                                      "description":  "On the floor of the control room",
+                                      "link":  {
+                                                   "url":  "Alice Wake Interview",
+                                                   "label":  "Alice Wake Interview"
+                                               }
+                                  },
+                        "id":  "171"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1409.8204224454773,
+                                         920.4118815665083
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Upper layer under the iron ladder",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "172"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1499.2852502436738,
+                                         1067.7008873963873
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Upper layer",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "173"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1469.7998975531782,
+                                         906.9422018877098
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Bottom of elevator shaft",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "174"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1474.0155764458807,
+                                         907.5489979819649
+                                     ],
+                        "popup":  {
+                                      "title":  "Night Springs Screenplay Pg. 4",
+                                      "description":  "Bottom of elevator shaft",
+                                      "link":  {
+                                                   "url":  "Night Springs Screenplay Pg. 4",
+                                                   "label":  "Night Springs Screenplay Pg. 4"
+                                               }
+                                  },
+                        "id":  "175"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1492.5350636537437,
+                                         944.4554670282354
+                                     ],
+                        "popup":  {
+                                      "title":  "Wake Photograph",
+                                      "description":  "On the ground at the farther set of cubicles to the right from the entrance",
+                                      "link":  {
+                                                   "url":  "Wake Photograph",
+                                                   "label":  "Wake Photograph"
+                                               }
+                                  },
+                        "id":  "176"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1476.305401956113,
+                                         941.4641525369129
+                                     ],
+                        "popup":  {
+                                      "title":  "Wake Evidence",
+                                      "description":  "on the ground in the center right set of work tables closer to the entrance elevator",
+                                      "link":  {
+                                                   "url":  "Wake Evidence",
+                                                   "label":  "Wake Evidence"
+                                               }
+                                  },
+                        "id":  "177"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1421.327419567852,
+                                         935.954835354877
+                                     ],
+                        "popup":  {
+                                      "title":  "Bright Falls (1976) Supplement",
+                                      "description":  "On the ground near [[Shaded Hartman]]\u0027s destroyed containment cell",
+                                      "link":  {
+                                                   "url":  "Bright Falls (1976) Supplement",
+                                                   "label":  "Bright Falls (1976) Supplement"
+                                               }
+                                  },
+                        "id":  "178"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1424.5489646035282,
+                                         945.6966236012183
+                                     ],
+                        "popup":  {
+                                      "title":  "Dr. Hartman\u0027s Notes: Next Steps",
+                                      "description":  "On the console on the platform closest to the control room overseeing the AWE room",
+                                      "link":  {
+                                                   "url":  "Dr. Hartman\u0027s Notes: Next Steps",
+                                                   "label":  "Dr. Hartman\u0027s Notes: Next Steps"
+                                               }
+                                  },
+                        "id":  "179"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1483.7867429631135,
+                                         1020.9928936747185
+                                     ],
+                        "popup":  {
+                                      "title":  "Bright Falls (1976) Summary",
+                                      "description":  "On the power console on the elevated platform opposite the lodge facade",
+                                      "link":  {
+                                                   "url":  "Bright Falls (1976) Summary",
+                                                   "label":  "Bright Falls (1976) Summary"
+                                               }
+                                  },
+                        "id":  "180"
+                    }
+                ],
+    "markerProgress":  true
+}

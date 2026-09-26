@@ -1,0 +1,3421 @@
+﻿{
+    "mapImage":  "Containment Sector (blueprint).png",
+    "pageCategories":  [
+
+                       ],
+    "defaultSort":  "",
+    "description":  "A map of the [[Containment Sector]], using the raw overlay map image.",
+    "coordinateOrder":  "xy",
+    "mapBounds":  [
+                      [
+                          0,
+                          0
+                      ],
+                      [
+                          2048,
+                          1152
+                      ]
+                  ],
+    "origin":  "bottom-left",
+    "useMarkerClustering":  true,
+    "categories":  [
+                       {
+                           "id":  "1",
+                           "listId":  1,
+                           "name":  "CHEST",
+                           "color":  "#ae19fe",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "2",
+                           "listId":  2,
+                           "name":  "Locations",
+                           "color":  "#FA005A",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "3",
+                           "listId":  3,
+                           "name":  "Collectibles",
+                           "color":  "#FFC500",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "4",
+                           "listId":  4,
+                           "name":  "Control Points",
+                           "color":  "#FFFFFF",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "5",
+                           "listId":  5,
+                           "name":  "Hidden Locations",
+                           "color":  "#0390fc",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "6",
+                           "listId":  6,
+                           "name":  "Other POIs",
+                           "color":  "#05a973",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       }
+                   ],
+    "markers":  [
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1209.2829084234697,
+                                         250.0799637880155
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Logistics",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Logistics",
+                                                   "label":  "Logistics"
+                                               }
+                                  },
+                        "id":  "1"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1317.5536421816114,
+                                         84.98983765183009
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "2"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1288.7971919991933,
+                                         85.95341408982068
+                                     ],
+                        "popup":  {
+                                      "title":  "Object and Item Distinctions",
+                                      "description":  "On the shelf",
+                                      "link":  {
+                                                   "url":  "Object and Item Distinctions",
+                                                   "label":  "Object and Item Distinctions"
+                                               }
+                                  },
+                        "id":  "3"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1284.551296977653,
+                                         79.45357200816028
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Second floor near [[FBC Reminder: Pink Documents]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "4"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1277.5575477403079,
+                                         76.6858851541261
+                                     ],
+                        "popup":  {
+                                      "title":  "FBC Reminder: Pink Documents",
+                                      "description":  "Second floor",
+                                      "link":  {
+                                                   "url":  "FBC Reminder: Pink Documents",
+                                                   "label":  "FBC Reminder: Pink Documents"
+                                               }
+                                  },
+                        "id":  "5"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1383.9720597617759,
+                                         103.82097187171382
+                                     ],
+                        "popup":  {
+                                      "title":  "Central Containment",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Central Containment",
+                                                   "label":  "Central Containment"
+                                               }
+                                  },
+                        "id":  "6"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1165.325926848412,
+                                         102.4515190697456
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Shelter",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "7"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1214.8806755699463,
+                                         228.0113406873708
+                                     ],
+                        "popup":  {
+                                      "title":  "Logistics",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Logistics",
+                                                   "label":  "Logistics"
+                                               }
+                                  },
+                        "id":  "8"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1095.4296344322383,
+                                         174.5564396489618
+                                     ],
+                        "popup":  {
+                                      "title":  "Pram Procedures",
+                                      "description":  "On a cabinet in the office on the second floor",
+                                      "link":  {
+                                                   "url":  "Pram Procedures",
+                                                   "label":  "Pram Procedures"
+                                               }
+                                  },
+                        "id":  "9"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1066.4077784934816,
+                                         256.65832186598743
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the room on the first floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "10"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1111.6470436868544,
+                                         303.32223282837487
+                                     ],
+                        "popup":  {
+                                      "title":  "AWE Rising Frequency",
+                                      "description":  "Required: [[Clearance Level]] 5\u003cbr\u003e\nOn the shelf in the room on the first floor",
+                                      "link":  {
+                                                   "url":  "AWE Rising Frequency",
+                                                   "label":  "AWE Rising Frequency"
+                                               }
+                                  },
+                        "id":  "11"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1091.486452143745,
+                                         301.50466322796433
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Required: [[Clearance Level]] 5\u003cbr\u003e\nIn the room on the first floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "12"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1048.732747743914,
+                                         233.60655578576643
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: A Matter of Time",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "A Matter of Time",
+                                                   "label":  "A Matter of Time"
+                                               }
+                                  },
+                        "id":  "13"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1023.2840283274572,
+                                         243.88819038594374
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Shelter",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "14"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1370.0774201399138,
+                                         220.55902653297002
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the room on the second floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "15"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1407.052229927303,
+                                         242.71746882204428
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Shelter",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "16"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1343.827512862817,
+                                         307.486103186116
+                                     ],
+                        "popup":  {
+                                      "title":  "Mannequin Supplement",
+                                      "description":  "On the ground behind a cubicle in the office room on the second floor",
+                                      "link":  {
+                                                   "url":  "Mannequin Supplement",
+                                                   "label":  "Mannequin Supplement"
+                                               }
+                                  },
+                        "id":  "17"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1215.5977426171264,
+                                         450.41851413677114
+                                     ],
+                        "popup":  {
+                                      "title":  "Security",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Security",
+                                                   "label":  "Security"
+                                               }
+                                  },
+                        "id":  "18"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1201.1221858979552,
+                                         407.4169349533752
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On ground floor of [[Security]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "19"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1038.1874923734526,
+                                         468.4567303749521
+                                     ],
+                        "popup":  {
+                                      "title":  "Medical Wing",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Medical Wing",
+                                                   "label":  "Medical Wing"
+                                               }
+                                  },
+                        "id":  "20"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1121.302229927303,
+                                         447.2173109037047
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Medical Wing]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "21"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1178.2661247758494,
+                                         458.41898789178987
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Medical Wing]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "22"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1117.826113438342,
+                                         358.1963077645391
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Shelter",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "23"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1127.7891686322037,
+                                         468.4755226573634
+                                     ],
+                        "popup":  {
+                                      "title":  "Mold Autopsy",
+                                      "description":  "In [[Medical Wing]] on the ground",
+                                      "link":  {
+                                                   "url":  "Mold Autopsy",
+                                                   "label":  "Mold Autopsy"
+                                               }
+                                  },
+                        "id":  "24"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1137.052976287023,
+                                         462.4485186212934
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Medical Wing]] near [[Mold Autopsy]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "25"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1054.5567080856229,
+                                         507.4586253950272
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "26"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1198.2355632040403,
+                                         522.878218396025
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Under stairs",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "27"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1168.2266690581812,
+                                         388.1440036649546
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the second floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "28"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1268.5882265306968,
+                                         414.88061373526926
+                                     ],
+                        "popup":  {
+                                      "title":  "Globe Procedures",
+                                      "description":  "On the mail tube station on the second floor",
+                                      "link":  {
+                                                   "url":  "Globe Procedures",
+                                                   "label":  "Globe Procedures"
+                                               }
+                                  },
+                        "id":  "29"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1266.5943839983865,
+                                         437.89261552907817
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the second floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "30"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1272.0095551073648,
+                                         421.2177846587235
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Shelter on the ground floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "31"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1229.525042071554,
+                                         405.2255226573634
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On ground floor of [[Security]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "32"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1318.185532944496,
+                                         468.73720362064364
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On second floor of [[Security]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "33"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1304.0499908481431,
+                                         505.7079937216688
+                                     ],
+                        "popup":  {
+                                      "title":  "The Oldest House",
+                                      "description":  "On second floor of [[Security]]",
+                                      "link":  {
+                                                   "url":  "The Oldest House (Collectible)",
+                                                   "label":  "The Oldest House (Collectible)"
+                                               }
+                                  },
+                        "id":  "34"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1890.944400607686,
+                                         214.80547028193823
+                                     ],
+                        "popup":  {
+                                      "title":  "Sealed Threshold Corridor",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Sealed Threshold Corridor",
+                                                   "label":  "Sealed Threshold Corridor"
+                                               }
+                                  },
+                        "id":  "35"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1927.302882992058,
+                                         346.45388784483947
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the ground floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "36"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1912.0357950276955,
+                                         305.9140982915519
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Sealed Threshold Corridor",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "37"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1927.1081637453592,
+                                         457.3947204853491
+                                     ],
+                        "popup":  {
+                                      "title":  "Sealed Threshold Checkpoint",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Sealed Threshold Checkpoint",
+                                                   "label":  "Sealed Threshold Checkpoint"
+                                               }
+                                  },
+                        "id":  "38"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1953.5992353365664,
+                                         396.388825488928
+                                     ],
+                        "popup":  {
+                                      "title":  "Spare Footage",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Spare Footage",
+                                                   "label":  "Spare Footage"
+                                               }
+                                  },
+                        "id":  "39"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1870.8781562385743,
+                                         461.3626083958866
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the ceiling iron frame",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "40"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1870.8660838196354,
+                                         468.7785197182991
+                                     ],
+                        "popup":  {
+                                      "title":  "Post Box Supplement",
+                                      "description":  "On the bag check machine",
+                                      "link":  {
+                                                   "url":  "Post Box Supplement",
+                                                   "label":  "Post Box Supplement"
+                                               }
+                                  },
+                        "id":  "41"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1848.423161948743,
+                                         472.8623617958582
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "42"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1741.0908024760668,
+                                         408.55317498756744
+                                     ],
+                        "popup":  {
+                                      "title":  "Sealed Threshold Hall",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Sealed Threshold Hall",
+                                                   "label":  "Sealed Threshold Hall"
+                                               }
+                                  },
+                        "id":  "43"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1838.0394485170987,
+                                         436.4567303749521
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the first floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "44"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1725.8096935245028,
+                                         367.17593629873187
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the second floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "45"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1764.6530314063718,
+                                         447.55347977905
+                                     ],
+                        "popup":  {
+                                      "title":  "Refrigerator Supplement",
+                                      "description":  "On the second floor",
+                                      "link":  {
+                                                   "url":  "Refrigerator Supplement",
+                                                   "label":  "Refrigerator Supplement"
+                                               }
+                                  },
+                        "id":  "46"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1844.5402649998757,
+                                         420.6579624445951
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the second floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "47"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1638.8134885830925,
+                                         479.7203617455676
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Sealed Threshold Entrance",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "48"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1655.5801251218368,
+                                         468.19014894929506
+                                     ],
+                        "popup":  {
+                                      "title":  "Work Chat: Plane Parts",
+                                      "description":  "Near Control Point: Sealed Threshold Entrance",
+                                      "link":  {
+                                                   "url":  "Work Chat: Plane Parts",
+                                                   "label":  "Work Chat: Plane Parts"
+                                               }
+                                  },
+                        "id":  "49"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1664.3026031071631,
+                                         461.9415702143514
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Near [[Work Chat: Plane Parts]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "50"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1642.0319946316276,
+                                         279.1477207647621
+                                     ],
+                        "popup":  {
+                                      "title":  "Transit Corridor South",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Transit Corridor South",
+                                                   "label":  "Transit Corridor South"
+                                               }
+                                  },
+                        "id":  "51"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1429.9864570788757,
+                                         262.6528730577837
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Bottom of the stairwell",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "52"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1396.9593523354342,
+                                         282.0869196972763
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Upper floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "53"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1390.3487197646537,
+                                         282.02215122347104
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Ground floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "54"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1827.2044062893783,
+                                         359.57697471855766
+                                     ],
+                        "popup":  {
+                                      "title":  "Sealed Threshold Account",
+                                      "description":  "On a shelf in Shelter\u003cbr\u003e\nNeed side mission [[The Enemy Within]] to unlock Shelter",
+                                      "link":  {
+                                                   "url":  "Sealed Threshold Account",
+                                                   "label":  "Sealed Threshold Account"
+                                               }
+                                  },
+                        "id":  "55"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1818.048169421268,
+                                         216.27908969283203
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: The Enemy Within",
+                                      "description":  "Require to complete the side mission [[A Matter of Time]]\u003cbr\u003e\nNeed [[Levitate]] abilities to defeat the [[Anchor]]",
+                                      "link":  {
+                                                   "url":  " The Enemy Within",
+                                                   "label":  " The Enemy Within"
+                                               }
+                                  },
+                        "id":  "56"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1215.238774098011,
+                                         638.8799820619109
+                                     ],
+                        "popup":  {
+                                      "title":  "Panopticon Entrance",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Panopticon Entrance",
+                                                   "label":  "Panopticon Entrance"
+                                               }
+                                  },
+                        "id":  "57"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1214.2484767743704,
+                                         820.881877081986
+                                     ],
+                        "popup":  {
+                                      "title":  "Panopticon",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Panopticon",
+                                                   "label":  "Panopticon"
+                                               }
+                                  },
+                        "id":  "58"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1215.2438605078898,
+                                         748.0537620601489
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Panopticon",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "59"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1220.8360027046317,
+                                         731.947886947935
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Under Floor 1 Bridge",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "60"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1190.0589471647827,
+                                         935.7019928247644
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On Floor 1",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "61"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1313.7887021573786,
+                                         799.2049932732166
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On Floor 4",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "62"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1323.0394485170987,
+                                         911.5232139959198
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: Fridge Duty",
+                                      "description":  "At Floor 4 Unit 15",
+                                      "link":  {
+                                                   "url":  "Fridge Duty",
+                                                   "label":  "Fridge Duty"
+                                               }
+                                  },
+                        "id":  "63"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1282.7629265638548,
+                                         906.448807669542
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Upper Panopticon",
+                                      "description":  "In front of Floor 4 Unit 14",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "64"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         955.475905483112,
+                                         814.4958931818032
+                                     ],
+                        "popup":  {
+                                      "title":  "Archives",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Archives",
+                                                   "label":  "Archives"
+                                               }
+                                  },
+                        "id":  "65"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1001.2790071075664,
+                                         793.2239434739676
+                                     ],
+                        "popup":  {
+                                      "title":  "Book Club: Phillip",
+                                      "description":  "On the ground floor",
+                                      "link":  {
+                                                   "url":  "Book Club: Phillip",
+                                                   "label":  "Book Club: Phillip"
+                                               }
+                                  },
+                        "id":  "66"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1013.0549354812879,
+                                         863.461783761819
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the second floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "67"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         947.6022207754461,
+                                         930.4526244981228
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Shelter",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "68"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         913.2792596032092,
+                                         848.8624844122969
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the underground floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "69"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         934.1315870334461,
+                                         824.4553522925796
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the underground floor\u003cbr\u003e\nThe contents are a bunch of [[Hiss Charged]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "70"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         899.8854509140976,
+                                         823.7309374164292
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the second floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "71"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         937.0322257838587,
+                                         826.6027335141176
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the ground floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "72"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         905.3164107619824,
+                                         808.459099150046
+                                     ],
+                        "popup":  {
+                                      "title":  "Altered Item Behavior Changes",
+                                      "description":  "On the second floor",
+                                      "link":  {
+                                                   "url":  "Altered Item Behavior Changes",
+                                                   "label":  "Altered Item Behavior Changes"
+                                               }
+                                  },
+                        "id":  "73"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         860.3351630499467,
+                                         774.4322530323155
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the second floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "74"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         855.0670638267375,
+                                         823.4771018407594
+                                     ],
+                        "popup":  {
+                                      "title":  "Panopticon Methods Proposal",
+                                      "description":  "On the third floor\u003cbr\u003e\nIn the back amidst a pile of scattered papers and an overturned cart",
+                                      "link":  {
+                                                   "url":  "Panopticon Methods Proposal",
+                                                   "label":  "Panopticon Methods Proposal"
+                                               }
+                                  },
+                        "id":  "75"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         901.0486847186331,
+                                         745.4046173228871
+                                     ],
+                        "popup":  {
+                                      "title":  "Altered Items",
+                                      "description":  "On the third floor",
+                                      "link":  {
+                                                   "url":  "Altered Items (Threshold Kids)",
+                                                   "label":  "Altered Items (Threshold Kids)"
+                                               }
+                                  },
+                        "id":  "76"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1198.407798789238,
+                                         688.7101683720446
+                                     ],
+                        "popup":  {
+                                      "title":  "Thermos Procedures",
+                                      "description":  "At the [[Panopticon Entrance]], on top of a cardboard box behind [[Frederick Langston]].",
+                                      "link":  {
+                                                   "url":  "Thermos Procedures",
+                                                   "label":  "Thermos Procedures"
+                                               }
+                                  },
+                        "id":  "77"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1235.2768439095178,
+                                         720.8415408276043
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On Floor 4",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "78"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1215.1061818423568,
+                                         668.0819073676272
+                                     ],
+                        "popup":  {
+                                      "title":  "Twisted Passage",
+                                      "description":  "Inside Fortified Unit 716 on Floor 4",
+                                      "link":  {
+                                                   "url":  "Twisted Passage",
+                                                   "label":  "Twisted Passage"
+                                               }
+                                  },
+                        "id":  "79"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1208.0298467622513,
+                                         664.976470167401
+                                     ],
+                        "popup":  {
+                                      "title":  "Salvador\u0027s ID",
+                                      "description":  "Automatically collected after defeating Hiss-corrupted [[Salvador]] in the [[Twisted Passage]]",
+                                      "link":  {
+                                                   "url":  "Salvador\u0027s ID",
+                                                   "label":  "Salvador\u0027s ID"
+                                               }
+                                  },
+                        "id":  "80"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1221.2258969572972,
+                                         665.1280065140517
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the [[Twisted Passage]]\u003cbr\u003e\nHead inside to the very farthest area before the endless tunnel of light. The file will be on the left stairs when facing the light",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:CHEST (Twised Passage).png"
+                                  },
+                        "id":  "81"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1210.357858767669,
+                                         664.9830894569602
+                                     ],
+                        "popup":  {
+                                      "title":  "Anchor Supplement",
+                                      "description":  "In the [[Twisted Passage]]\u003cbr\u003e\nHead inside to the very farthest area before the endless tunnel of light. The file will be on the right stairs when facing the light",
+                                      "link":  {
+                                                   "url":  "Anchor Supplement",
+                                                   "label":  "Anchor Supplement"
+                                               }
+                                  },
+                        "id":  "82"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1214.9706676626465,
+                                         662.8176424823399
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "In the [[Twisted Passage]]\u003cbr\u003e\nHead inside to the very farthest area and [[Levitate]] into the endless tunnel of light.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "83"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1212.8907163883282,
+                                         664.9856294310972
+                                     ],
+                        "popup":  {
+                                      "title":  "Post Box Procedures",
+                                      "description":  "In the [[Twisted Passage]]\u003cbr\u003e\nStop before leaving the first large room. Look for the sideways desk and cabinets to the left of the spiraling tunnel.\u003cbr\u003e\nNeed [[Levitate]] to retrieve.",
+                                      "link":  {
+                                                   "url":  "Post Box Procedures",
+                                                   "label":  "Post Box Procedures"
+                                               }
+                                  },
+                        "id":  "84"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1215.5782163883282,
+                                         665.0453263805695
+                                     ],
+                        "popup":  {
+                                      "title":  "Paper Lantern Supplement",
+                                      "description":  "In the [[Twisted Passage]]\u003cbr\u003e\nStop before entering the spiraling tunnel. Turn back towards the entrance and look up and to the right. The collectible is affixed to a wall alongside many other scattered papers.\u003cbr\u003e\nNeed [[Levitate]] to retrieve.",
+                                      "link":  {
+                                                   "url":  "Paper Lantern Supplement",
+                                                   "label":  "Paper Lantern Supplement"
+                                               },
+                                      "image":  "File:Twisted Passage (Paper Lantern Supplement).png"
+                                  },
+                        "id":  "85"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1853.161525866994,
+                                         184.83765994690054
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Sealed Threshold Atrium",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "86"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1873.108191653206,
+                                         177.90398564952872
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Near Control Point: Sealed Threshold Atrium",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "87"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1185.3255976727608,
+                                         244.0929950285688
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "The entrance is overhead\u003cbr\u003e\nRequire [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "88"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1179.1448783486135,
+                                         239.3290691309923
+                                     ],
+                        "popup":  {
+                                      "title":  "Tennyson Report",
+                                      "description":  "Inside Hidden Locaion\u003cbr\u003e\nRequire [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "Tennyson Report (Collectible)",
+                                                   "label":  "Tennyson Report (Collectible)"
+                                               }
+                                  },
+                        "id":  "89"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1166.5619326036626,
+                                         244.45104531472683
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Locaion\u003cbr\u003e\nRequire [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "90"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1170.9093249205712,
+                                         239.61173485947435
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Locaion\u003cbr\u003e\nRequire [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "91"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1183.6122966316657,
+                                         534.5413746049728
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "Require [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:Hidden Location (Security).png"
+                                  },
+                        "id":  "92"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1180.6242383871852,
+                                         530.8932472024366
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Locaion\u003cbr\u003e\nRequire [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "93"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1194.8070812654828,
+                                         524.1893593575971
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Locaion\u003cbr\u003e\nRequire [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "94"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1096.152040286754,
+                                         800.9080915263581
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On Floor 4\u003cbr\u003e\nRequire [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "95"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1102.6253579267652,
+                                         818.4188299734503
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On Floor 4\u003cbr\u003e\nRequire [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "96"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1132.1331947038248,
+                                         925.9336742973718
+                                     ],
+                        "popup":  {
+                                      "title":  "Pram Supplement",
+                                      "description":  "On Floor 4, Section 3, Unit 11\u003cbr\u003e\nRequire [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "Pram Supplement",
+                                                   "label":  "Pram Supplement"
+                                               }
+                                  },
+                        "id":  "97"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1093.620702509775,
+                                         867.5588280253121
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On Floor 5",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "98"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1121.8954741488913,
+                                         782.2910450714941
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "On Floor 5\u003cbr\u003e\nRequire [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "99"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1134.130209264945,
+                                         717.3938788757949
+                                     ],
+                        "popup":  {
+                                      "title":  "Typewritten Page Procedures",
+                                      "description":  "At Floor 05, Unit 06",
+                                      "link":  {
+                                                   "url":  "Typewritten Page Procedures",
+                                                   "label":  "Typewritten Page Procedures"
+                                               }
+                                  },
+                        "id":  "100"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1214.556334905763,
+                                         1016.7120995984982
+                                     ],
+                        "popup":  {
+                                      "title":  "P6 Cell",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "P6 Cell",
+                                                   "label":  "P6 Cell"
+                                               }
+                                  },
+                        "id":  "101"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1209.8070812654828,
+                                         1009.2078358033292
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "102"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1225.153680575189,
+                                         1026.7361821452857
+                                     ],
+                        "popup":  {
+                                      "title":  "Dylan Faden Observation",
+                                      "description":  "On the floor within the control room",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "103"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1219.2813394816912,
+                                         1101.2459730823405
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the roof of the prison cell",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "104"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1189.3972669807945,
+                                         1047.0298298305997
+                                     ],
+                        "popup":  {
+                                      "title":  "Dylan Questioning",
+                                      "description":  "On the floor",
+                                      "link":  {
+                                                   "url":  "Dylan Questioning",
+                                                   "label":  "Dylan Questioning"
+                                               }
+                                  },
+                        "id":  "105"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1346.0136346123315,
+                                         893.5703502181551
+                                     ],
+                        "popup":  {
+                                      "title":  "Employee Incident",
+                                      "description":  "At the Floor 04 Unit 15 inside side room (progress [[Fridge Duty]] to access)\n",
+                                      "link":  {
+                                                   "url":  "Employee Incident",
+                                                   "label":  "Employee Incident"
+                                               }
+                                  },
+                        "id":  "106"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1349.0188384323744,
+                                         900.287976304556
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "At the Floor 04 Unit 15 inside side room (progress [[Fridge Duty]] to access)",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "107"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1201.7456490603972,
+                                         700.2935643516907
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: Langston\u0027s Runaways",
+                                      "description":  "At the Panopticon Entrance\u003cbr\u003e\nAutomatically obtain after completing side mission [[Fridge Duty]]",
+                                      "link":  {
+                                                   "url":  "Langston\u0027s Runaways",
+                                                   "label":  "Langston\u0027s Runaways"
+                                               }
+                                  },
+                        "id":  "108"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1118.7406730685404,
+                                         495.97957443796383
+                                     ],
+                        "popup":  {
+                                      "title":  "Hand Chair Procedures",
+                                      "description":  "Automatically obtain after \"Cleanse and contain the [[Human Hand Chair|Hand Chair]]\" during the side mission [[Langston\u0027s Runaways]]",
+                                      "link":  {
+                                                   "url":  "Hand Chair Procedures",
+                                                   "label":  "Hand Chair Procedures"
+                                               }
+                                  },
+                        "id":  "109"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1757.378743914314,
+                                         416.45898282283605
+                                     ],
+                        "popup":  {
+                                      "title":  "Paper Lantern Procedures",
+                                      "description":  "Automatically obtain after \"Cleanse and contain the [[Ramen Lantern|Japanese Paper Lantern]]\" during the side mission [[Langston\u0027s Runaways]]",
+                                      "link":  {
+                                                   "url":  "Paper Lantern Procedures",
+                                                   "label":  "Paper Lantern Procedures"
+                                               }
+                                  },
+                        "id":  "110"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1218.325300920672,
+                                         665.0444973092866
+                                     ],
+                        "popup":  {
+                                      "title":  "Traffic Light Procedures",
+                                      "description":  "In the [[Twisted Passage]]\u003cbr\u003e\nAutomatically obtain after \"Cleanse and contain the [[Traffic Light]]\" during the side mission [[Langston\u0027s Runaways]]",
+                                      "link":  {
+                                                   "url":  "Traffic Light Procedures",
+                                                   "label":  "Traffic Light Procedures"
+                                               }
+                                  },
+                        "id":  "111"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         2032.6019060924514,
+                                         320.6322791612166
+                                     ],
+                        "popup":  {
+                                      "title":  "Pink Flamingo Procedures",
+                                      "description":  "Automatically obtain after \"Cleanse and contain the [[Pink Flamingo|Flamingo]]\" during the side mission [[Langston\u0027s Runaways]]",
+                                      "link":  {
+                                                   "url":  "Pink Flamingo Procedures",
+                                                   "label":  "Pink Flamingo Procedures"
+                                               }
+                                  },
+                        "id":  "112"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1113.73828193732,
+                                         525.6664460744038
+                                     ],
+                        "popup":  {
+                                      "title":  "Breakable walls",
+                                      "description":  "You can punch a hole in this wall.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "113"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1097.0609063590477,
+                                         533.9387276842388
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the room behind wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "114"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1126.8123057835226,
+                                         528.4508873963872
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the room behind wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "115"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1311.377012966613,
+                                         38.86117004099973
+                                     ],
+                        "popup":  {
+                                      "title":  "Breakable walls",
+                                      "description":  "You can punch a hole in this wall.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "116"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1303.875750192784,
+                                         34.92124795497214
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the room behind wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "117"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1301.6475658360532,
+                                         25.77120803925991
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the room behind wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "118"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1245.3084806899576,
+                                         501.6945706628035
+                                     ],
+                        "popup":  {
+                                      "title":  "Breakable walls",
+                                      "description":  "You can punch a hole in this wall.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "119"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1245.0427138408734,
+                                         518.1996240496704
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the room behind wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "120"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1254.2910345315036,
+                                         518.2042036815186
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the room behind wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "121"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         841.9221645876958,
+                                         803.197886947935
+                                     ],
+                        "popup":  {
+                                      "title":  "Breakable walls",
+                                      "description":  "On the second floor\u003cbr\u003e\nYou can punch a hole in this wall.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "122"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         834.8326825569736,
+                                         782.0038207674072
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the room behind wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "123"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         834.6076318834159,
+                                         819.9267258904299
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the room behind wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "124"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1560.443526039988,
+                                         640.6089789227453
+                                     ],
+                        "popup":  {
+                                      "title":  "Breakable walls",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "125"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1626.5713117321538,
+                                         750.8586040691124
+                                     ],
+                        "popup":  {
+                                      "title":  "Breakable walls",
+                                      "description":  "Basement floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "126"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1579.5893460702766,
+                                         530.914724096621
+                                     ],
+                        "popup":  {
+                                      "title":  "Turntable",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Turntable",
+                                                   "label":  "Turntable"
+                                               }
+                                  },
+                        "id":  "127"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1159.5546555963929,
+                                         386.4499398863497
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Clearance Level]] 6 Room\u003cbr\u003e\nCovert in [[Mold]] here.(progress [[Old Growth]] to safely access)",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "128"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1164.470499523423,
+                                         386.3974530864599
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Clearance Level]] 6 Room\u003cbr\u003e\nCovert in [[Mold]] here.(progress [[Old Growth]] to safely access)",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "129"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1072.895025738578,
+                                         416.10866772097796
+                                     ],
+                        "popup":  {
+                                      "title":  "Medical Examination",
+                                      "description":  "In [[Clearance Level]] 6 Room on file cabinets",
+                                      "link":  {
+                                                   "url":  "Medical Examination",
+                                                   "label":  "Medical Examination"
+                                               }
+                                  },
+                        "id":  "130"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1083.3301283212713,
+                                         426.8844529053145
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Clearance Level]] 6 Room",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "131"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1094.111461679792,
+                                         416.0959378962949
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Clearance Level]] 6 Room",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "132"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         975.6253579267652,
+                                         753.8970372425867
+                                     ],
+                        "popup":  {
+                                      "title":  "Altered Items (Darling Presentation)",
+                                      "description":  "In [[Clearance Level]] 6 Room",
+                                      "link":  {
+                                                   "url":  "Altered Items (Darling Presentation)",
+                                                   "label":  "Altered Items (Darling Presentation)"
+                                               }
+                                  },
+                        "id":  "133"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1255.3174370065974,
+                                         366.1967815195579
+                                     ],
+                        "popup":  {
+                                      "title":  "Mirror Supplement",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Mirror Supplement",
+                                                   "label":  "Mirror Supplement"
+                                               }
+                                  },
+                        "id":  "134"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1330.0499908481431,
+                                         389.9624154351774
+                                     ],
+                        "popup":  {
+                                      "title":  "Prime Candidate Program",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Prime Candidate Program",
+                                                   "label":  "Prime Candidate Program"
+                                               }
+                                  },
+                        "id":  "135"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1278.304842186323,
+                                         435.9884719612099
+                                     ],
+                        "popup":  {
+                                      "title":  "Prime Candidates",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Prime Candidates (Collectible)",
+                                                   "label":  "Prime Candidates (Collectible)"
+                                               }
+                                  },
+                        "id":  "136"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1490.589121449401,
+                                         449.3317432541234
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "137"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1465.2043924502718,
+                                         448.270859752086
+                                     ],
+                        "popup":  {
+                                      "title":  "Bright Falls Supplement",
+                                      "description":  "On the second floor underneath the cart surrounded by scattered papers",
+                                      "link":  {
+                                                   "url":  "Bright Falls Supplement",
+                                                   "label":  "Bright Falls Supplement"
+                                               }
+                                  },
+                        "id":  "138"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1290.34269725039,
+                                         436.7897544286236
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Shelter",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "139"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1389.8062416107978,
+                                         366.7045195181978
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "140"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1332.687349027032,
+                                         334.3441102270841
+                                     ],
+                        "popup":  {
+                                      "title":  "Bright Falls Summary",
+                                      "description":  "In the Closed Cases room",
+                                      "link":  {
+                                                   "url":  "Bright Falls Summary",
+                                                   "label":  "Bright Falls Summary"
+                                               }
+                                  },
+                        "id":  "141"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1314.3108130640826,
+                                         310.69188605103056
+                                     ],
+                        "popup":  {
+                                      "title":  "You and Your Special Powers",
+                                      "description":  "In the Closed Cases room",
+                                      "link":  {
+                                                   "url":  "You and Your Special Powers",
+                                                   "label":  "You and Your Special Powers"
+                                               }
+                                  },
+                        "id":  "142"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1348.8416659200634,
+                                         324.37261770977443
+                                     ],
+                        "popup":  {
+                                      "title":  "Ordinary",
+                                      "description":  "In the P6 room",
+                                      "link":  {
+                                                   "url":  "Ordinary (Collectible)",
+                                                   "label":  "Ordinary (Collectible)"
+                                               }
+                                  },
+                        "id":  "143"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1366.3440100834832,
+                                         310.90062770959776
+                                     ],
+                        "popup":  {
+                                      "title":  "Dylan Faden Transcript",
+                                      "description":  "In the P6 room on a table near a computer",
+                                      "link":  {
+                                                   "url":  "Dylan Faden Transcript",
+                                                   "label":  "Dylan Faden Transcript"
+                                               }
+                                  },
+                        "id":  "144"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1365.8176381677374,
+                                         338.85323193171087
+                                     ],
+                        "popup":  {
+                                      "title":  "P6 Victim Autopsy",
+                                      "description":  "In the P6 room on a table",
+                                      "link":  {
+                                                   "url":  "P6 Victim Autopsy",
+                                                   "label":  "P6 Victim Autopsy"
+                                               }
+                                  },
+                        "id":  "145"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1388.9708333559313,
+                                         310.8920294946804
+                                     ],
+                        "popup":  {
+                                      "title":  "Jesse Faden Movement Tracking",
+                                      "description":  "In the P7 room on a table to the left of the whiteboard",
+                                      "link":  {
+                                                   "url":  "Jesse Faden Movement Tracking",
+                                                   "label":  "Jesse Faden Movement Tracking"
+                                               }
+                                  },
+                        "id":  "146"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1396.3920901137676,
+                                         329.66229542296014
+                                     ],
+                        "popup":  {
+                                      "title":  "Jesse Therapy: Slide Projector",
+                                      "description":  "In the P7 room on a desk",
+                                      "link":  {
+                                                   "url":  "Jesse Therapy: Slide Projector",
+                                                   "label":  "Jesse Therapy: Slide Projector"
+                                               }
+                                  },
+                        "id":  "147"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1386.1512461445063,
+                                         322.7585127704434
+                                     ],
+                        "popup":  {
+                                      "title":  "Candidate P7",
+                                      "description":  "In the closet",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "148"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1404.577176639287,
+                                         333.4888502473589
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "149"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1499.4617325994614,
+                                         329.78737116362305
+                                     ],
+                        "popup":  {
+                                      "title":  "Work Chat: Dead Dog",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Work Chat: Dead Dog",
+                                                   "label":  "Work Chat: Dead Dog"
+                                               }
+                                  },
+                        "id":  "150"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1539.0469250480096,
+                                         357.7776065341413
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "151"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1533.2857167184986,
+                                         394.6964656828787
+                                     ],
+                        "popup":  {
+                                      "title":  "Willow AWE Shipping Manifest",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Willow AWE Shipping Manifest",
+                                                   "label":  "Willow AWE Shipping Manifest"
+                                               }
+                                  },
+                        "id":  "152"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1525.5677168914924,
+                                         395.170093320167
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Near [[Willow AWE Shipping Manifest]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "153"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1584.7701021799965,
+                                         401.19567609118076
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Transit Corridor",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "154"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1689.3631793416234,
+                                         339.67793288993084
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Covert in [[Mold]] here.(progress [[Old Growth]] to safely access)",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "155"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1710.2019830238685,
+                                         322.3719065017258
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Covert in [[Mold]] here.(progress [[Old Growth]] to safely access)",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "156"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1563.512025885922,
+                                         281.38941611716643
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "157"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1565.5788002365643,
+                                         277.2598976037243
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "158"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1565.929846786066,
+                                         291.4833308394249
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "159"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1562.1960685045892,
+                                         295.8290996711939
+                                     ],
+                        "popup":  {
+                                      "title":  "Typewritten Page Supplement",
+                                      "description":  "Inside Hidden Location",
+                                      "link":  {
+                                                   "url":  "Typewritten Page Supplement",
+                                                   "label":  "Typewritten Page Supplement"
+                                               }
+                                  },
+                        "id":  "160"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1551.4749821081605,
+                                         484.6502328209473
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "161"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1649.3599261147026,
+                                         622.2624539939504
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "162"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1610.1570605453608,
+                                         593.1627607903675
+                                     ],
+                        "popup":  {
+                                      "title":  "Work Chat: Teeth",
+                                      "description":  "On the console",
+                                      "link":  {
+                                                   "url":  "Work Chat: Teeth",
+                                                   "label":  "Work Chat: Teeth"
+                                               }
+                                  },
+                        "id":  "163"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1515.282436141629,
+                                         653.9564145382728
+                                     ],
+                        "popup":  {
+                                      "title":  "Transit Corridor Nouth",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Transit Corridor Nouth",
+                                                   "label":  "Transit Corridor Nouth"
+                                               }
+                                  },
+                        "id":  "164"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1565.8180900713523,
+                                         629.211783761819
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "165"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1551.6111983450483,
+                                         632.4732929024697
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the room behind wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "166"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1617.018773513311,
+                                         759.23781654819
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the room behind wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "167"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1628.1537922014297,
+                                         768.5936932485847
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the room behind wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "168"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1598.0564282007276,
+                                         785.9595729050646
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "169"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1644.5482182438082,
+                                         718.9542036815186
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Ground floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "170"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1606.3076410352728,
+                                         715.956730374952
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On second floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "171"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1621.055401956113,
+                                         722.4589412317064
+                                     ],
+                        "popup":  {
+                                      "title":  "Airplane Evaluation Order",
+                                      "description":  "On second floor",
+                                      "link":  {
+                                                   "url":  "Airplane Evaluation Order",
+                                                   "label":  "Airplane Evaluation Order"
+                                               }
+                                  },
+                        "id":  "172"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1886.9567764457086,
+                                         622.8511957386106
+                                     ],
+                        "popup":  {
+                                      "title":  "Ordinary AWE",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Ordinary AWE (location)",
+                                                   "label":  "Ordinary AWE (location)"
+                                               }
+                                  },
+                        "id":  "173"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1767.5040201009385,
+                                         763.656117279318
+                                     ],
+                        "popup":  {
+                                      "title":  "Ordinary AWE Stage 1.A",
+                                      "description":  "On the console",
+                                      "link":  {
+                                                   "url":  "Ordinary AWE Stage 1.A",
+                                                   "label":  "Ordinary AWE Stage 1.A"
+                                               }
+                                  },
+                        "id":  "174"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1796.0445797401733,
+                                         731.9502557230289
+                                     ],
+                        "popup":  {
+                                      "title":  "America Overnight Ep. 349",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "America Overnight Ep. 349",
+                                                   "label":  "America Overnight Ep. 349"
+                                               }
+                                  },
+                        "id":  "175"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1764.304282416533,
+                                         714.1887276842388
+                                     ],
+                        "popup":  {
+                                      "title":  "Ordinary Summary",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Ordinary Summary",
+                                                   "label":  "Ordinary Summary"
+                                               }
+                                  },
+                        "id":  "176"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1768.21678786805,
+                                         684.0840154883447
+                                     ],
+                        "popup":  {
+                                      "title":  "Altered World Events",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Altered World Events",
+                                                   "label":  "Altered World Events"
+                                               }
+                                  },
+                        "id":  "177"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1762.3109996540127,
+                                         676.4491502946518
+                                     ],
+                        "popup":  {
+                                      "title":  "Ordinary AWE Stage 4.A",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Ordinary AWE Stage 4.A",
+                                                   "label":  "Ordinary AWE Stage 4.A"
+                                               }
+                                  },
+                        "id":  "178"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1818.2926205459084,
+                                         689.4472552745767
+                                     ],
+                        "popup":  {
+                                      "title":  "Ordinary AWE Stage 2",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Ordinary AWE Stage 2",
+                                                   "label":  "Ordinary AWE Stage 2"
+                                               }
+                                  },
+                        "id":  "179"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1815.301296977653,
+                                         710.7188900871006
+                                     ],
+                        "popup":  {
+                                      "title":  "Dylan Evaluation",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Dylan Evaluation",
+                                                   "label":  "Dylan Evaluation"
+                                               }
+                                  },
+                        "id":  "180"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1806.3079209201678,
+                                         729.9587833133668
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Ordinary AWE",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "181"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1903.8934416555194,
+                                         748.2984311537549
+                                     ],
+                        "popup":  {
+                                      "title":  "Ordinary AWE Stage 1.B",
+                                      "description":  "On the mail tube station",
+                                      "link":  {
+                                                   "url":  "Ordinary AWE Stage 1.B",
+                                                   "label":  "Ordinary AWE Stage 1.B"
+                                               }
+                                  },
+                        "id":  "182"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1882.3647492322143,
+                                         753.3952523930972
+                                     ],
+                        "popup":  {
+                                      "title":  "Ordinary AWE Stage 4.B",
+                                      "description":  "On top of a cabinet",
+                                      "link":  {
+                                                   "url":  "Ordinary AWE Stage 4.B",
+                                                   "label":  "Ordinary AWE Stage 4.B"
+                                               }
+                                  },
+                        "id":  "183"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1844.2288001518134,
+                                         616.9044372219402
+                                     ],
+                        "popup":  {
+                                      "title":  "Ordinary AWE Stage 3",
+                                      "description":  "On the ground level on a table",
+                                      "link":  {
+                                                   "url":  "Ordinary AWE Stage 3",
+                                                   "label":  "Ordinary AWE Stage 3"
+                                               }
+                                  },
+                        "id":  "184"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1836.0979957412017,
+                                         574.1110771446984
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the ground level",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "185"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1950.954689947264,
+                                         583.6547853881407
+                                     ],
+                        "popup":  {
+                                      "title":  "Jesse Therapy: Polaris",
+                                      "description":  "On the second floor",
+                                      "link":  {
+                                                   "url":  "Jesse Therapy: Polaris",
+                                                   "label":  "Jesse Therapy: Polaris"
+                                               }
+                                  },
+                        "id":  "186"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1949.906168163926,
+                                         567.0248228753161
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the second floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "187"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1917.7461354594225,
+                                         564.2243120327695
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the second floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "188"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1908.5463587197285,
+                                         547.5648699259423
+                                     ],
+                        "popup":  {
+                                      "title":  "Ordinary Supplement",
+                                      "description":  "On the second floor",
+                                      "link":  {
+                                                   "url":  "Ordinary Supplement",
+                                                   "label":  "Ordinary Supplement"
+                                               }
+                                  },
+                        "id":  "189"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1754.455529400187,
+                                         504.0541298756643
+                                     ],
+                        "popup":  {
+                                      "title":  "Ordinary Dump",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Ordinary Dump",
+                                                   "label":  "Ordinary Dump"
+                                               }
+                                  },
+                        "id":  "190"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1822.6144133448915,
+                                         559.9792147128167
+                                     ],
+                        "popup":  {
+                                      "title":  "Dump Cessation of Work Order",
+                                      "description":  "On the mail tube station inside the observation room",
+                                      "link":  {
+                                                   "url":  "Dump Cessation of Work Order",
+                                                   "label":  "Dump Cessation of Work Order"
+                                               }
+                                  },
+                        "id":  "191"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1827.0906677522687,
+                                         561.8218995617241
+                                     ],
+                        "popup":  {
+                                      "title":  "Globe Supplement",
+                                      "description":  "On the roof of the observation room",
+                                      "link":  {
+                                                   "url":  "Globe Supplement",
+                                                   "label":  "Globe Supplement"
+                                               }
+                                  },
+                        "id":  "192"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1702.802043337373,
+                                         478.1982027846142
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the top level",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "193"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1773.487116367031,
+                                         524.96559254043
+                                     ],
+                        "popup":  {
+                                      "title":  "Album Cover",
+                                      "description":  "Inside a ruined white car",
+                                      "link":  {
+                                                   "url":  "Album Cover",
+                                                   "label":  "Album Cover"
+                                               }
+                                  },
+                        "id":  "194"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1684.4284729198648,
+                                         543.7336251661338
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Near the console",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "195"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1742.7407694688814,
+                                         475.06453848907677
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the ground level behind lab",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "196"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1766.6510216686866,
+                                         490.7274176774385
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside lab",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "197"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1399.558491040974,
+                                         528.1154134986755
+                                     ],
+                        "popup":  {
+                                      "title":  "Sterling AWE",
+                                      "description":  "You can access here during mission [[Mr. Tommasi (mission)|Mr. Tommasi]]",
+                                      "link":  {
+                                                   "url":  "Sterling AWE (location)",
+                                                   "label":  "Sterling AWE (location)"
+                                               }
+                                  },
+                        "id":  "198"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1410.06404905223,
+                                         512.5981471076509
+                                     ],
+                        "popup":  {
+                                      "title":  "Sterling Summary",
+                                      "description":  "On the ground",
+                                      "link":  {
+                                                   "url":  "Sterling Summary",
+                                                   "label":  "Sterling Summary"
+                                               }
+                                  },
+                        "id":  "199"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1406.8885335481257,
+                                         579.813714096998
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the iron platform",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "200"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1467.3245253427885,
+                                         476.8742915304712
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the top level",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "201"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1350.3412332329744,
+                                         545.1386821879455
+                                     ],
+                        "popup":  {
+                                      "title":  "Sterling Supplement",
+                                      "description":  "On the console in the room",
+                                      "link":  {
+                                                   "url":  "Sterling Supplement",
+                                                   "label":  "Sterling Supplement"
+                                               }
+                                  },
+                        "id":  "202"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1351.377880505881,
+                                         556.7652979706409
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the room",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "203"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1344.614198218496,
+                                         556.8192322278505
+                                     ],
+                        "popup":  {
+                                      "title":  "America Overnight Ep. 356",
+                                      "description":  "In the room",
+                                      "link":  {
+                                                   "url":  "America Overnight Ep. 356",
+                                                   "label":  "America Overnight Ep. 356"
+                                               }
+                                  },
+                        "id":  "204"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1202.7886347983172,
+                                         995.9599013012521
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Clearance Level]] 6 Room",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "205"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1870.6509896290113,
+                                         160.159685938753
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Above Control Point: Sealed Threshold Atrium, to the left",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "206"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1837.40440778032,
+                                         160.7751711330344
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Above Control Point: Sealed Threshold Atrium, to the right",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "207"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1875.375,
+                                         160.5
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Above Control Point: Sealed Threshold Atrium, to the left",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "208"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1559.5,
+                                         754.25
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "209"
+                    }
+                ],
+    "markerProgress":  true
+}

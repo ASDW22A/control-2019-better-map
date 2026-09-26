@@ -1,0 +1,3282 @@
+﻿{
+    "mapImage":  "Foundation (blueprint).png",
+    "pageCategories":  [
+
+                       ],
+    "defaultSort":  "",
+    "description":  "Map of the [[Foundation (location)|Foundation]], using the raw overlay map image.",
+    "coordinateOrder":  "xy",
+    "mapBounds":  [
+                      [
+                          0,
+                          0
+                      ],
+                      [
+                          2048,
+                          1152
+                      ]
+                  ],
+    "origin":  "bottom-left",
+    "useMarkerClustering":  true,
+    "categories":  [
+                       {
+                           "id":  "1",
+                           "listId":  1,
+                           "name":  "CHEST",
+                           "color":  "#a971f3",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "2",
+                           "listId":  2,
+                           "name":  "Locations",
+                           "color":  "#FA005A",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "3",
+                           "listId":  3,
+                           "name":  "Collectibles",
+                           "color":  "#FFC500",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "4",
+                           "listId":  4,
+                           "name":  "Control Points",
+                           "color":  "#fff",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "5",
+                           "listId":  5,
+                           "name":  "Hidden Locations",
+                           "color":  "#0390FC",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "6",
+                           "listId":  6,
+                           "name":  "Other POIs",
+                           "color":  "#00A36C",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "8",
+                           "listId":  7,
+                           "name":  "Pope\u0027s Collection ID cards",
+                           "color":  "#EBCD96",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "7",
+                           "listId":  8,
+                           "name":  "Black Maneki-neko",
+                           "color":  "#000000",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "9",
+                           "listId":  9,
+                           "name":  "Gray Maneki-neko",
+                           "color":  "#555555",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "10",
+                           "listId":  10,
+                           "name":  "Blue Maneki-neko",
+                           "color":  "#ADD8E6",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       }
+                   ],
+    "markers":  [
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1641.8937450006501,
+                                         589.7264854358285
+                                     ],
+                        "popup":  {
+                                      "title":  "Collapsed Department",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Collapsed Department",
+                                                   "label":  "Collapsed Department"
+                                               }
+                                  },
+                        "id":  "1"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1580.478350944375,
+                                         424.81305767073644
+                                     ],
+                        "popup":  {
+                                      "title":  "Transit Access",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Transit Access",
+                                                   "label":  "Transit Access"
+                                               }
+                                  },
+                        "id":  "2"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1240.1705065431427,
+                                         157.50225813438274
+                                     ],
+                        "popup":  {
+                                      "title":  "Research Site Gamma",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Research Site Gamma",
+                                                   "label":  "Research Site Gamma"
+                                               }
+                                  },
+                        "id":  "3"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1152.0782423319415,
+                                         347.8514236317468
+                                     ],
+                        "popup":  {
+                                      "title":  "Cave System",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Cave System",
+                                                   "label":  "Cave System"
+                                               }
+                                  },
+                        "id":  "4"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1237.3160375821224,
+                                         167.4688900871006
+                                     ],
+                        "popup":  {
+                                      "title":  "Log 1: Discovery",
+                                      "description":  "On the ground near the sign pointing towards the [[Deep Cavern]]",
+                                      "link":  {
+                                                   "url":  "Log 1: Discovery",
+                                                   "label":  "Log 1: Discovery"
+                                               }
+                                  },
+                        "id":  "5"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1224.0656491491677,
+                                         142.37777120515665
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Fracture]] [[ability]]\u003cbr\u003e\nIn high places",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "6"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1187.5958767178265,
+                                         167.92419919699637
+                                     ],
+                        "popup":  {
+                                      "title":  "The Foundation",
+                                      "description":  "Automatically obtained during story mission [[The Foundation (mission)|The Foundation]]",
+                                      "link":  {
+                                                   "url":  "The Foundation (Collectible)",
+                                                   "label":  "The Foundation (Collectible)"
+                                               }
+                                  },
+                        "id":  "7"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1112.3676082465304,
+                                         154.4398525566183
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "8"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1096.2758493228516,
+                                         56.66704193493272
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Shape]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "9"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1071.7075169992513,
+                                         236.47272572404648
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Cave System",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "10"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1091.850692593727,
+                                         243.2031933002593
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Fracture]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "11"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1107.4053265727687,
+                                         355.3175842621186
+                                     ],
+                        "popup":  {
+                                      "title":  "Cave Paintings",
+                                      "description":  "On the ground next to a table",
+                                      "link":  {
+                                                   "url":  "Cave Paintings",
+                                                   "label":  "Cave Paintings"
+                                               }
+                                  },
+                        "id":  "12"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1106.697215722494,
+                                         340.7694330891883
+                                     ],
+                        "popup":  {
+                                      "title":  "Black Maneki-neko",
+                                      "description":  "Collect 8 black cubes scattered around and bring them to a grid divided into square fields\u003cbr\u003e\nPlace one cube on each of the 8 squares marked with cat paw prints, making a triangle-like shape\u003cbr\u003e\nBlack Maneki-neko will spawn in the middle of the grid",
+                                      "link":  {
+                                                   "url":  "Maneki-neko Statue",
+                                                   "label":  "Maneki-neko Statue"
+                                               },
+                                      "image":  "File:Control - Makeki-Neko from the Cave System floor puzzle.jpg"
+                                  },
+                        "id":  "13"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1104.2755551938615,
+                                         354.7293126975136
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Fracture]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "14"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1224.7613667326348,
+                                         348.9597308234043
+                                     ],
+                        "popup":  {
+                                      "title":  "Relocation Order",
+                                      "description":  "On the ground",
+                                      "link":  {
+                                                   "url":  "Relocation Order",
+                                                   "label":  "Relocation Order"
+                                               }
+                                  },
+                        "id":  "15"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1324.8129545966244,
+                                         369.0626170950249
+                                     ],
+                        "popup":  {
+                                      "title":  "Foundation Accident",
+                                      "description":  "On the ground",
+                                      "link":  {
+                                                   "url":  "Foundation Accident",
+                                                   "label":  "Foundation Accident"
+                                               }
+                                  },
+                        "id":  "16"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1346.4004258465675,
+                                         392.0442574743604
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "17"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1333.071190514738,
+                                         491.3074480726683
+                                     ],
+                        "popup":  {
+                                      "title":  "Cave Bleed",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Cave Bleed",
+                                                   "label":  "Cave Bleed"
+                                               }
+                                  },
+                        "id":  "18"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1474.1604063274142,
+                                         787.9936832664164
+                                     ],
+                        "popup":  {
+                                      "title":  "Crossroads",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Crossroads",
+                                                   "label":  "Crossroads"
+                                               }
+                                  },
+                        "id":  "19"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1486.767718862337,
+                                         735.3323165762614
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Crossroads",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "20"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1457.4024688363563,
+                                         751.5888493055666
+                                     ],
+                        "popup":  {
+                                      "title":  "Leylines",
+                                      "description":  "On the ground at the blue Bureau tent next to the yellow generator",
+                                      "link":  {
+                                                   "url":  "Leylines",
+                                                   "label":  "Leylines"
+                                               }
+                                  },
+                        "id":  "21"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1474.0478450802718,
+                                         773.1908923124564
+                                     ],
+                        "popup":  {
+                                      "title":  "Foundation Pillar",
+                                      "description":  "On the floor mats in one of the blue Bureau tent",
+                                      "link":  {
+                                                   "url":  "Foundation Pillar",
+                                                   "label":  "Foundation Pillar"
+                                               }
+                                  },
+                        "id":  "22"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1517.1758172944494,
+                                         734.2656264875266
+                                     ],
+                        "popup":  {
+                                      "title":  "Log 2: Foundation",
+                                      "description":  "Head towards the yellow lab structure and enter the room on the left to find the tape recorder with this log on it.",
+                                      "link":  {
+                                                   "url":  "Log 2: Foundation",
+                                                   "label":  "Log 2: Foundation"
+                                               }
+                                  },
+                        "id":  "23"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1511.5307056163845,
+                                         723.6717545944114
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the yellow lab structure",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "24"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1468.7201355054851,
+                                         813.4859289784978
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Middle of the cliff",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "25"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1546.5200890186675,
+                                         774.5885794357674
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Middle of the cliff",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "26"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1425.6086556669068,
+                                         773.5078195408039
+                                     ],
+                        "popup":  {
+                                      "title":  "Unacceptable Behavior Memo",
+                                      "description":  "On the ground in the Hidden Location",
+                                      "link":  {
+                                                   "url":  "Unacceptable Behavior Memo",
+                                                   "label":  "Unacceptable Behavior Memo"
+                                               }
+                                  },
+                        "id":  "27"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1426.6755169719122,
+                                         767.8639184462521
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "Jump off the edge of the Crossroads and maneuver down to one of the rock shelves on the westernmost side. There is a hidden cave entrance here blocked with some wooden planks.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "28"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1424.9059028728789,
+                                         749.1383185694917
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the Hidden Location\u003cbr\u003e\nThe contents are a bunch of [[Hiss Charged]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "29"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1092.9281090191162,
+                                         45.55724475754263
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Shape]] \u0026 [[Fracture]] [[abilities]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "30"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         967.5030538355137,
+                                         310.33277814043157
+                                     ],
+                        "popup":  {
+                                      "title":  "Chasm",
+                                      "description":  "Require [[Shape]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "Chasm",
+                                                   "label":  "Chasm"
+                                               }
+                                  },
+                        "id":  "31"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1006.0488713085632,
+                                         304.2078358033292
+                                     ],
+                        "popup":  {
+                                      "title":  "VHS Tape Supplement",
+                                      "description":  "On the ground at the entrance of the [[Chasm]]",
+                                      "link":  {
+                                                   "url":  "VHS Tape Supplement",
+                                                   "label":  "VHS Tape Supplement"
+                                               }
+                                  },
+                        "id":  "32"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1086.2051850986472,
+                                         299.7583359797273
+                                     ],
+                        "popup":  {
+                                      "title":  "Black Cube",
+                                      "description":  "Used for Black Maneki-neko puzzle",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "33"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1099.2807232953826,
+                                         329.82556063767214
+                                     ],
+                        "popup":  {
+                                      "title":  "Black Cube",
+                                      "description":  "Used for Black Maneki-neko puzzle",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "34"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1102.5783429556445,
+                                         354.2455342472013
+                                     ],
+                        "popup":  {
+                                      "title":  "Black Cube",
+                                      "description":  "Used for Black Maneki-neko puzzle",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "35"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1208.1677138408734,
+                                         820.9343059707302
+                                     ],
+                        "popup":  {
+                                      "title":  "Warehouse Path",
+                                      "description":  "Require [[Shape]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "Warehouse Path",
+                                                   "label":  "Warehouse Path"
+                                               }
+                                  },
+                        "id":  "36"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1205.0843353639536,
+                                         992.6994850246996
+                                     ],
+                        "popup":  {
+                                      "title":  "Warehouse",
+                                      "description":  "Require [[Shape]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "Warehouse",
+                                                   "label":  "Warehouse"
+                                               }
+                                  },
+                        "id":  "37"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1190.627223826065,
+                                         927.439359357597
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Warehouse",
+                                      "description":  "On the ground level",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "38"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1148.077419567852,
+                                         975.7181004954026
+                                     ],
+                        "popup":  {
+                                      "title":  "History of the Oldest House",
+                                      "description":  "Inside the yellow Bureau building closest to the Control Point: Warehouse",
+                                      "link":  {
+                                                   "url":  "History of the Oldest House",
+                                                   "label":  "History of the Oldest House"
+                                               }
+                                  },
+                        "id":  "39"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1155.5625856684176,
+                                         975.6934652344264
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside the yellow Bureau building closest to the Control Point: Warehouse",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "40"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1167.8141716828225,
+                                         1015.2231538822696
+                                     ],
+                        "popup":  {
+                                      "title":  "Pyramidic Geometry",
+                                      "description":  "Inside the left room of yellow Bureau building farthest to the Control Point: Warehouse",
+                                      "link":  {
+                                                   "url":  "Pyramidic Geometry",
+                                                   "label":  "Pyramidic Geometry"
+                                               }
+                                  },
+                        "id":  "41"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1167.8118393086977,
+                                         1009.9502557230289
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside the left room of yellow Bureau building farthest to the Control Point: Warehouse",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "42"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1153.3215419850571,
+                                         993.451361151406
+                                     ],
+                        "popup":  {
+                                      "title":  "Gray Maneki-neko",
+                                      "description":  "#Interact with the Valve in the Basement Lab\u003cbr\u003e\n#Turn on the Shower",
+                                      "link":  {
+                                                   "url":  "Maneki-neko Statue",
+                                                   "label":  "Maneki-neko Statue"
+                                               }
+                                  },
+                        "id":  "43"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1210.0369295530436,
+                                         984.4565724566125
+                                     ],
+                        "popup":  {
+                                      "title":  "Log 3: Work",
+                                      "description":  "Next to the elevator on the 1st floor - Warehouse Entrance",
+                                      "link":  {
+                                                   "url":  "Log 3: Work",
+                                                   "label":  "Log 3: Work"
+                                               }
+                                  },
+                        "id":  "44"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1228.0644515677177,
+                                         995.2027824164622
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the 1st floor - Warehouse Entrance",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "45"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1208.8197693807224,
+                                         992.7171529853651
+                                     ],
+                        "popup":  {
+                                      "title":  "Power Cores",
+                                      "description":  "On the 2nd floor - Power Core Storage",
+                                      "link":  {
+                                                   "url":  "Power Cores",
+                                                   "label":  "Power Cores"
+                                               }
+                                  },
+                        "id":  "46"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1205.5648247475774,
+                                         987.947886947935
+                                     ],
+                        "popup":  {
+                                      "title":  "Log 5: Pyramids",
+                                      "description":  "On the 3rd floor - Tunnel Access",
+                                      "link":  {
+                                                   "url":  "Log 5: Pyramids",
+                                                   "label":  "Log 5: Pyramids"
+                                               }
+                                  },
+                        "id":  "47"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1199.0597207170301,
+                                         994.3865323330355
+                                     ],
+                        "popup":  {
+                                      "title":  "Meteor Hill Summary",
+                                      "description":  "Between the 1st and 2nd floors can be entered by the hole in the wall",
+                                      "link":  {
+                                                   "url":  "Meteor Hill Summary",
+                                                   "label":  "Meteor Hill Summary"
+                                               }
+                                  },
+                        "id":  "48"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1228.1483627621842,
+                                         993.2244172289862
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Between the 1st and 2nd floors can be entered by the hole in the wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "49"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1209.285910934976,
+                                         978.8542337383437
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "Between the 2nd and 3rd floors can be entered by the hole in the wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "50"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1199.1140479668936,
+                                         988.3320387679715
+                                     ],
+                        "popup":  {
+                                      "title":  "Northmoor: Medical Results",
+                                      "description":  "Between the 2nd and 3rd floors can be entered by the hole in the wall",
+                                      "link":  {
+                                                   "url":  "Northmoor: Medical Results",
+                                                   "label":  "Northmoor: Medical Results"
+                                               }
+                                  },
+                        "id":  "51"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1323.7404306999792,
+                                         1044.3669012231414
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Warehouse Tunnel",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "52"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1206.1425242003245,
+                                         1031.9311476039384
+                                     ],
+                        "popup":  {
+                                      "title":  "Becoming Director",
+                                      "description":  "Automatically obtained during story mission [[The Nail (mission)|The Nail]]",
+                                      "link":  {
+                                                   "url":  "Becoming Director",
+                                                   "label":  "Becoming Director"
+                                               }
+                                  },
+                        "id":  "53"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1217.1512081423664,
+                                         992.0462476763904
+                                     ],
+                        "popup":  {
+                                      "title":  "Meteor Hill Supplement",
+                                      "description":  "On the 4th floors - Tunnel Quick Access can be first entered by the hole in the wall",
+                                      "link":  {
+                                                   "url":  "Meteor Hill Supplement",
+                                                   "label":  "Meteor Hill Supplement"
+                                               }
+                                  },
+                        "id":  "54"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1199.0639514262336,
+                                         994.6472728522455
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the 4th floors - Tunnel Quick Access can be first entered by the hole in the wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "55"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1157.932334608041,
+                                         930.6970295145703
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Warehouse Rise",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "56"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1209.6570858414113,
+                                         1003.9905248996246
+                                     ],
+                        "popup":  {
+                                      "title":  "Foundation Etchings",
+                                      "description":  "Between the 4th and 5th floors can be entered by the hole in the wall",
+                                      "link":  {
+                                                   "url":  "Foundation Etchings",
+                                                   "label":  "Foundation Etchings"
+                                               }
+                                  },
+                        "id":  "57"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1199.1096663877672,
+                                         997.0035325408901
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Between the 4th and 5th floors can be entered by the hole in the wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "58"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1199.0960436855219,
+                                         987.1975067152872
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Between the 4th and 5th floors can be entered by the hole in the wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "59"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1208.0316449248069,
+                                         998.6011668737235
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the 5th floors - Elevator Machine Room\u003cbr\u003e\nBreak the wall to obtain",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "60"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1216.1546649341353,
+                                         1006.6464606494744
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "On the 6th floors - Upper Warehouse\u003cbr\u003e\nBreak the wall to access",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "61"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1216.7968631177444,
+                                         1029.8700955575293
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Upper Warehouse",
+                                      "description":  "On the 6th floors - Upper Warehouse\u003cbr\u003e\nBreak the wall to access",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "62"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1218.7311814931356,
+                                         985.6789366918476
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Next to the elevator on the 6th floors - Upper Warehouse",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "63"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1177.5647314526125,
+                                         1021.708309558348
+                                     ],
+                        "popup":  {
+                                      "title":  "ID card",
+                                      "description":  "Inside the right room of yellow Bureau building farthest to the Control Point: Warehouse",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "64"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1501.9267876633237,
+                                         776.0227810561954
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: Pope\u0027s Collection",
+                                      "description":  "Find 1 ID card in [[Warehouse]] and take [[Pope]] here to obtain",
+                                      "link":  {
+                                                   "url":  "Pope\u0027s Collection",
+                                                   "label":  "Pope\u0027s Collection"
+                                               }
+                                  },
+                        "id":  "65"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1214.9128740799006,
+                                         994.4414429429413
+                                     ],
+                        "popup":  {
+                                      "title":  "ID card",
+                                      "description":  "Next to the elevator between the 1st and 2nd floors can be entered by the hole in the wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "66"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1206.523171729072,
+                                         1003.9037977418498
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the 3rd floor - Tunnel Access\u003cbr\u003e\nBreak the wall to obtain",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "67"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1243.6513015535816,
+                                         959.84799596393
+                                     ],
+                        "popup":  {
+                                      "title":  "Senior Cartographer\u0027s ID card",
+                                      "description":  "Inside the yellow Bureau building on the table",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "68"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1220.5409602335635,
+                                         1019.2669554587238
+                                     ],
+                        "popup":  {
+                                      "title":  "Security Chief\u0027s ID card",
+                                      "description":  "On the Scaffolding",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "69"
+                    },
+                    {
+                        "categoryId":  "8",
+                        "position":  [
+                                         1206.0234094096666,
+                                         998.6102346352483
+                                     ],
+                        "popup":  {
+                                      "title":  "Chief Excavation Engineer\u0027s ID card",
+                                      "description":  "On the ground floor\u003cbr\u003e\nUse the skeleton key Pope gave you to enter",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "70"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1202.2829254960961,
+                                         996.973785555628
+                                     ],
+                        "popup":  {
+                                      "title":  "Ash: Request Denied",
+                                      "description":  "On the ground floor\u003cbr\u003e\nUse the skeleton key Pope gave you in the mission [[Pope\u0027s Collection]] to enter",
+                                      "link":  {
+                                                   "url":  "Ash: Request Denied",
+                                                   "label":  "Ash: Request Denied"
+                                               }
+                                  },
+                        "id":  "71"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1227.0481249488432,
+                                         1017.9620995984982
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the 0th - Basement Lab floor access during mission [[Pope\u0027s Collection]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "72"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1210.0590404597478,
+                                         934.7016769880852
+                                     ],
+                        "popup":  {
+                                      "title":  "Northmoor: Final Warning",
+                                      "description":  "On the 0th floor - Basement Lab access during mission [[Pope\u0027s Collection]]\u003cbr\u003e\nNear the smaller version of the Nail",
+                                      "link":  {
+                                                   "url":  "Northmoor: Final Warning",
+                                                   "label":  "Northmoor: Final Warning"
+                                               }
+                                  },
+                        "id":  "73"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1216.0600667043627,
+                                         926.4627312718566
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the 0th floor - Basement Lab access during mission [[Pope\u0027s Collection]]\u003cbr\u003e\nBehind the smaller version of the Nail",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "74"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1317.5958767178265,
+                                         912.9257783803923
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Only able to access from the [[Warehouse]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "75"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1379.1035269049562,
+                                         853.4033539761704
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Shape]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "76"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1347.474279918827,
+                                         891.2513718002135
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Shape]] [[ability]]\u003cbr\u003e\nOnly able to access from the [[Crossroads]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "77"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1732.4936583968924,
+                                         767.1612782702175
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Shape]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "78"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1825.85924862013,
+                                         762.8776769766014
+                                     ],
+                        "popup":  {
+                                      "title":  "Fractured Cavern",
+                                      "description":  "Require [[Shape]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "Fractured Cavern",
+                                                   "label":  "Fractured Cavern"
+                                               }
+                                  },
+                        "id":  "79"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1836.608191653206,
+                                         749.3913521823615
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Fracture]] [[ability]]\u003cbr\u003e\nOn the black rock",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "80"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1911.1439864135748,
+                                         669.7763876311393
+                                     ],
+                        "popup":  {
+                                      "title":  "Base Camp",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Base Camp",
+                                                   "label":  "Base Camp"
+                                               }
+                                  },
+                        "id":  "81"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1873.104086674746,
+                                         540.8708227982147
+                                     ],
+                        "popup":  {
+                                      "title":  "Cat Ears",
+                                      "description":  "Gathering all 8 [[Maneki-neko Statue]]s to unlocks this Firebreak door.\nThere are a pedestal with the cat ears costume item.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "82"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1778.8223464650914,
+                                         656.4970570422045
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Collapsed Department",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "83"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1794.403214100364,
+                                         657.2252068206842
+                                     ],
+                        "popup":  {
+                                      "title":  "Shift Account Pt. 1",
+                                      "description":  "On top of the yellow filing cabinets",
+                                      "link":  {
+                                                   "url":  "Shift Account Pt. 1",
+                                                   "label":  "Shift Account Pt. 1"
+                                               }
+                                  },
+                        "id":  "84"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1784.054375711498,
+                                         672.2171529853649
+                                     ],
+                        "popup":  {
+                                      "title":  "Kyiv Summary",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Kyiv Summary",
+                                                   "label":  "Kyiv Summary"
+                                               }
+                                  },
+                        "id":  "85"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1779.0568013805878,
+                                         670.6918860510306
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "86"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1722.654147050014,
+                                         703.7304181258908
+                                     ],
+                        "popup":  {
+                                      "title":  "America Overnight Ep. 367",
+                                      "description":  "On the 3rd floor",
+                                      "link":  {
+                                                   "url":  "America Overnight Ep. 367",
+                                                   "label":  "America Overnight Ep. 367"
+                                               }
+                                  },
+                        "id":  "87"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1734.0382169104398,
+                                         661.6085064134191
+                                     ],
+                        "popup":  {
+                                      "title":  "Breakable wall",
+                                      "description":  "On the 4th floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "88"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1734.0284939852588,
+                                         659.3474432497414
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "Behind breakable wall",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "89"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1733.9052199421114,
+                                         653.4736276372884
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "90"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1757.275695136309,
+                                         711.3571552276262
+                                     ],
+                        "popup":  {
+                                      "title":  "Breakable wall",
+                                      "description":  "On the 1st floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "91"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1757.2550439823426,
+                                         714.2073487943072
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "Behind the breakable wall on the 1st floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "92"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1757.2053155250405,
+                                         718.8040908484168
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "93"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1762.2006974242734,
+                                         715.7366559003045
+                                     ],
+                        "popup":  {
+                                      "title":  "Green Maneki-neko",
+                                      "description":  "Behind the breakable wall in Hidden Location",
+                                      "link":  {
+                                                   "url":  "Maneki-neko Statue",
+                                                   "label":  "Maneki-neko Statue"
+                                               },
+                                      "image":  "File:Control - Maneki-Neko behind wall in Data Filing and Entry.jpg"
+                                  },
+                        "id":  "94"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1760.2640137552169,
+                                         715.7962344110222
+                                     ],
+                        "popup":  {
+                                      "title":  "Breakable wall",
+                                      "description":  "Inside Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "95"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1685.5447663301034,
+                                         695.4753647390238
+                                     ],
+                        "popup":  {
+                                      "title":  "Computer Program",
+                                      "description":  "In the [[Astral Plane]] inside the men\u0027s bathroom",
+                                      "link":  {
+                                                   "url":  "Computer Program",
+                                                   "label":  "Computer Program"
+                                               }
+                                  },
+                        "id":  "96"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1673.081136113357,
+                                         700.4169349533752
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the [[Astral Plane]] inside the men\u0027s bathroom",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "97"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1727.552976287023,
+                                         520.44599192786
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Fracture]] [[ability]]\u003cbr\u003e\nInside the men\u0027s bathroom",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "98"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1689.0075149269533,
+                                         524.2446392832724
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "99"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1714.458213428482,
+                                         481.7867428457584
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Transit Access",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "100"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1697.8075477403079,
+                                         500.9635208635545
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "101"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1698.6678421973488,
+                                         506.35640895864617
+                                     ],
+                        "popup":  {
+                                      "title":  "Kyiv Supplement",
+                                      "description":  "On the security conveyor belt",
+                                      "link":  {
+                                                   "url":  "Kyiv Supplement",
+                                                   "label":  "Kyiv Supplement"
+                                               }
+                                  },
+                        "id":  "102"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1710.9007884312741,
+                                         505.0978380455904
+                                     ],
+                        "popup":  {
+                                      "title":  "America Overnight Ep. 382",
+                                      "description":  "On the floor",
+                                      "link":  {
+                                                   "url":  "America Overnight Ep. 382",
+                                                   "label":  "America Overnight Ep. 382"
+                                               }
+                                  },
+                        "id":  "103"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1695.1505085463791,
+                                         490.5976801272508
+                                     ],
+                        "popup":  {
+                                      "title":  "Shift Account Pt. 2",
+                                      "description":  "On a console",
+                                      "link":  {
+                                                   "url":  "Shift Account Pt. 2",
+                                                   "label":  "Shift Account Pt. 2"
+                                               }
+                                  },
+                        "id":  "104"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1669.7869838270735,
+                                         502.73373441102217
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "In the Transit Control room, under the elevator - activate it and drop down beneath the platform",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "105"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1665.779520229874,
+                                         502.7305760442303
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "At the Hidden Location under the elevator",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "106"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1614.7572127932171,
+                                         465.56571962741117
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Fracture]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "107"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1569.5611862439428,
+                                         462.69346523442647
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "Press the button to call the elevator\u003cbr\u003e\nEnter the elevator to obtain\u003cbr\u003e\nNote: opening the elevator will release a [[Mold Host]].",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "108"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1569.6445322893821,
+                                         459.7555383596699
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside the Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "109"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1568.5159496257406,
+                                         458.3027880221152
+                                     ],
+                        "popup":  {
+                                      "title":  "New Language",
+                                      "description":  "Inside the Hidden Location",
+                                      "link":  {
+                                                   "url":  "New Language",
+                                                   "label":  "New Language"
+                                               }
+                                  },
+                        "id":  "110"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1570.803349466883,
+                                         498.9494661313309
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "111"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1564.807827625203,
+                                         501.45957290506476
+                                     ],
+                        "popup":  {
+                                      "title":  "Movie Camera Supplement",
+                                      "description":  "On top of the yellow filing cabinets",
+                                      "link":  {
+                                                   "url":  "Movie Camera Supplement",
+                                                   "label":  "Movie Camera Supplement"
+                                               }
+                                  },
+                        "id":  "112"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1578.5598801144326,
+                                         522.6955181728412
+                                     ],
+                        "popup":  {
+                                      "title":  "Shift Account Pt. 3",
+                                      "description":  "On a desk",
+                                      "link":  {
+                                                   "url":  "Shift Account Pt. 3",
+                                                   "label":  "Shift Account Pt. 3"
+                                               }
+                                  },
+                        "id":  "113"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1549.5794720570818,
+                                         464.9447285811432
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: Jesse Faden starring in \"Swift...",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Jesse Faden starring in \"Swift Platform\"",
+                                                   "label":  "Jesse Faden starring in \"Swift Platform\""
+                                               }
+                                  },
+                        "id":  "114"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1578.0038886691068,
+                                         620.858960283942
+                                     ],
+                        "popup":  {
+                                      "title":  "End of the World",
+                                      "description":  "Automatically obtained during story mission [[The Nail (mission)|The Nail]]\u003cbr\u003e\nThere are multiple locations to obtain it, based on the order in which you complete the rituals in the mission [[The Nail (mission)|The Nail]]{{verify}}",
+                                      "link":  {
+                                                   "url":  "End of the World",
+                                                   "label":  "End of the World"
+                                               }
+                                  },
+                        "id":  "115"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1599.5752417893311,
+                                         658.9011350846991
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Fracture]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "116"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1552.3146768036029,
+                                         470.89626677773714
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Fracture]] [[ability]]\u003cbr\u003e\nInside the bathroom",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "117"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1555.2824123737887,
+                                         465.9682584137422
+                                     ],
+                        "popup":  {
+                                      "title":  "Brian\u0027s Movie Den Ep. 3",
+                                      "description":  "Require [[Fracture]] [[ability]]\u003cbr\u003e\nInside the bathroom",
+                                      "link":  {
+                                                   "url":  "Brian\u0027s Movie Den Ep. 3",
+                                                   "label":  "Brian\u0027s Movie Den Ep. 3"
+                                               }
+                                  },
+                        "id":  "118"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1716.8123057835226,
+                                         460.2084674766876
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Fracture]] [[ability]]\u003cbr\u003e\nInside Shelter",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "119"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1797.1579095271516,
+                                         827.9923378451867
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Fracture]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "120"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1610.4017329903616,
+                                         809.2143104552524
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Upper rock platform reached from the [[Collapsed Department]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "121"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1493.144741854491,
+                                         756.8930434854959
+                                     ],
+                        "popup":  {
+                                      "title":  "Red Maneki-neko",
+                                      "description":  "Rock platform above the ceiling\u003cbr\u003e\nFloating here from the rock platform at the Collapsed Department exit",
+                                      "link":  {
+                                                   "url":  "Maneki-neko Statue",
+                                                   "label":  "Maneki-neko Statue"
+                                               },
+                                      "image":  "File:Control - Makeki-Neko on high ledge in Crossroads.jpg"
+                                  },
+                        "id":  "122"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1252.7248738979351,
+                                         846.6962746869602
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Fracture]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "123"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1105.0673437116325,
+                                         967.963362945215
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Fracture]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "124"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1304.6606752108173,
+                                         1022.817899152431
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Fracture]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "125"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1348.1615958492937,
+                                         1040.1330820811972
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Fracture]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "126"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1194.7801162740204,
+                                         1057.411638847718
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Fracture]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "127"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1214.6711887870265,
+                                         980.0189558187487
+                                     ],
+                        "popup":  {
+                                      "title":  "Golden Maneki-neko",
+                                      "description":  "Take the elevator from 5th floor to 6th floor.\u003cbr\u003e\nThere are four Hiss nodes appearing in four directions - hit them.\u003cbr\u003e\nThen Golden Maneki-neko will appear on the 6th floor.",
+                                      "link":  {
+                                                   "url":  "Maneki-neko Statue",
+                                                   "label":  "Maneki-neko Statue"
+                                               }
+                                  },
+                        "id":  "128"
+                    },
+                    {
+                        "categoryId":  "9",
+                        "position":  [
+                                         1217.801670157513,
+                                         1018.2108362517814
+                                     ],
+                        "popup":  {
+                                      "title":  "Valve",
+                                      "description":  "First step for Gray Maneki-neko puzzle\u003cbr\u003e\nOn the 0th - Basement Lab floor access during mission [[Pope\u0027s Collection]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "129"
+                    },
+                    {
+                        "categoryId":  "9",
+                        "position":  [
+                                         1155.3320843161016,
+                                         999.7000978046892
+                                     ],
+                        "popup":  {
+                                      "title":  "Shower",
+                                      "description":  "Second step for Gray Maneki-neko puzzle",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "130"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1142.0647736663175,
+                                         219.43364792735915
+                                     ],
+                        "popup":  {
+                                      "title":  "Adventure Accepted",
+                                      "description":  "On the floor mats",
+                                      "link":  {
+                                                   "url":  "Adventure Accepted",
+                                                   "label":  "Adventure Accepted"
+                                               }
+                                  },
+                        "id":  "131"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1145.0697693807224,
+                                         214.45862539502718
+                                     ],
+                        "popup":  {
+                                      "title":  "Log 4: The ID",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Log 4: The ID",
+                                                   "label":  "Log 4: The ID"
+                                               }
+                                  },
+                        "id":  "132"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1145.3145448626826,
+                                         225.69851862129337
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "133"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1134.8093203446426,
+                                         333.7049932732166
+                                     ],
+                        "popup":  {
+                                      "title":  "Black Cube",
+                                      "description":  "Used for Black Maneki-neko puzzle\u003cbr\u003e\nOn the upper platform",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "134"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1137.302976287023,
+                                         382.9646262919316
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Cave Bridge",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "135"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1142.5608130640826,
+                                         392.9532561714811
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Near Control Point: Cave Bridge",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "136"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1135.3126789633825,
+                                         378.19346523442647
+                                     ],
+                        "popup":  {
+                                      "title":  "Black Cube",
+                                      "description":  "Used for Black Maneki-neko puzzle\u003cbr\u003e\nNear Control Point: Cave Bridge",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "137"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1180.5401948768185,
+                                         326.6947285811432
+                                     ],
+                        "popup":  {
+                                      "title":  "Black Cube",
+                                      "description":  "Used for Black Maneki-neko puzzle\u003cbr\u003e\nOn the upper platform",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "138"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1226.2810519702489,
+                                         315.4169349533752
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "139"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1309.6224075574262,
+                                         314.5124396949085
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "140"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1215.6009762516126,
+                                         378.61972515392307
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidded Location",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "141"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1219.4785848547212,
+                                         389.19081736076333
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "142"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1211.4950795574005,
+                                         389.5798802623146
+                                     ],
+                        "popup":  {
+                                      "title":  "Black Cube",
+                                      "description":  "Used for Black Maneki-neko puzzle",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "143"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1130.325553668552,
+                                         407.6966236012183
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "144"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1075.9728511951957,
+                                         533.8792429415568
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "145"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1076.0582763080195,
+                                         540.2994885953544
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "146"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1195.4362945993546,
+                                         561.3940982659626
+                                     ],
+                        "popup":  {
+                                      "title":  "Deep Cavern",
+                                      "description":  "Require [[Fracture]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "Deep Cavern",
+                                                   "label":  "Deep Cavern"
+                                               }
+                                  },
+                        "id":  "147"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1326.603789304297,
+                                         576.8691552383015
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the black stone suspended in the sky\u003cbr\u003e\nCome here from the Deep Cavern",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "148"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         974.1091246028559,
+                                         320.39798475262427
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: Found Footage",
+                                      "description":  "Require [[Shape]] \u0026 [[Fracture]] [[abilities]]",
+                                      "link":  {
+                                                   "url":  "Found Footage",
+                                                   "label":  "Found Footage"
+                                               }
+                                  },
+                        "id":  "149"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1000.2167564862718,
+                                         615.8502934140679
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Covered by stones in a side cave that requires [[Fracture]] [[ability]] to break in the Chasm area",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "150"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1003.2885698414785,
+                                         618.848785555628
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Covered by stones in a side cave that requires [[Fracture]] [[ability]] to break in the Chasm area",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "151"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         895.5195576253627,
+                                         544.6124945082299
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In a cave with teddy bears that requires [[Fracture]] [[ability]] to break in the Chasm area",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "152"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         895.6589067855638,
+                                         527.1067892769157
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In a cave with teddy bears that requires [[Fracture]] [[ability]] to break in the Chasm area",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "153"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         952.6096843726458,
+                                         385.44346523442647
+                                     ],
+                        "popup":  {
+                                      "title":  "Talented Janitor",
+                                      "description":  "In the last cavern in the [[Chasm]], there is a small side cave which can be entered from the ground level, blocked off by various rocks.",
+                                      "link":  {
+                                                   "url":  "Talented Janitor",
+                                                   "label":  "Talented Janitor"
+                                               },
+                                      "image":  "File:Chasm (Talented Janitor).png"
+                                  },
+                        "id":  "154"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         956.5660375821225,
+                                         388.2032561714811
+                                     ],
+                        "popup":  {
+                                      "title":  "Yellow Maneki-neko",
+                                      "description":  "Near [[Talented Janitor]]",
+                                      "link":  {
+                                                   "url":  "Maneki-neko Statue",
+                                                   "label":  "Maneki-neko Statue"
+                                               },
+                                      "image":  "File:Control - Makeki-Neko from the Chasm area.jpg"
+                                  },
+                        "id":  "155"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1500.3142649777876,
+                                         709.2132050268754
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Fracture]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "156"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1502.6137893511057,
+                                         655.4017747927744
+                                     ],
+                        "popup":  {
+                                      "title":  "Out of Options",
+                                      "description":  "Automatically obtained during story mission [[The Nail (mission)|The Nail]]\u003cbr\u003e\nThere are multiple locations to obtain it, based on the order in which you complete the rituals in the mission [[The Nail (mission)|The Nail]]{{verify}}",
+                                      "link":  {
+                                                   "url":  "Out of Options",
+                                                   "label":  "Out of Options"
+                                               }
+                                  },
+                        "id":  "157"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1538.833722401822,
+                                         690.7410399612775
+                                     ],
+                        "popup":  {
+                                      "title":  "Canyon Rim",
+                                      "description":  "Require [[Fracture]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "Canyon Rim",
+                                                   "label":  "Canyon Rim"
+                                               }
+                                  },
+                        "id":  "158"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1543.6939048570027,
+                                         713.399499865053
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "159"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1535.9301116154736,
+                                         728.2766585521701
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the [[Astral Collision]]\u003cbr\u003e\nYou can see it as soon as you enter the area and turn around.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "160"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1542.8113728338728,
+                                         728.2046774365375
+                                     ],
+                        "popup":  {
+                                      "title":  "Were-Everything",
+                                      "description":  "In the [[Astral Collision]]\u003cbr\u003e\nIt is at the start of this area, between some rock pillars on the first platform covered with red sand in front of Jesse\u0027s entry point.",
+                                      "link":  {
+                                                   "url":  "Were-Everything",
+                                                   "label":  "Were-Everything"
+                                               }
+                                  },
+                        "id":  "161"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1549.5575477403079,
+                                         728.4373064191825
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "The other side of the [[Were-Everything]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "162"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1535.7897284019934,
+                                         735.9447285811432
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the [[Astral Collision]]\u003cbr\u003e\nBehind the wooden crate on the floor mat",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "163"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1542.6173296169206,
+                                         735.8811830735318
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the [[Astral Collision]]\u003cbr\u003e\nBehind the white boulder",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "164"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1549.5634286038803,
+                                         735.9097693465042
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "It is located opposite the [[Maneki-neko Procedures]], separated by a wooden crate.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "165"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1556.099746373195,
+                                         735.901896954924
+                                     ],
+                        "popup":  {
+                                      "title":  "Maneki-neko Procedures",
+                                      "description":  "From the [[Astral Collision]] Control Point, turn around and head to the edge of the platform marked with a single yellow flag. Look for the distant platform where the golden cube is located and make your way down to that area. The file will be in the vicinity, near the wooden crates.",
+                                      "link":  {
+                                                   "url":  "Maneki-neko Procedures",
+                                                   "label":  "Maneki-neko Procedures"
+                                               }
+                                  },
+                        "id":  "166"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1562.4033540428113,
+                                         735.7942209521923
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "At the same height as the [[Maneki-neko Procedures]], the toilet stall on the right.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:Hidden Location (Astral Collision).png"
+                                  },
+                        "id":  "167"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1568.0330187910613,
+                                         735.9755226573634
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "168"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1535.7014936768583,
+                                         743.3003326846795
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Astral Collision",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "169"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1542.7811528917614,
+                                         743.2271018407594
+                                     ],
+                        "popup":  {
+                                      "title":  "FBC Reminder: Windows",
+                                      "description":  "From the Astral Collision Control Point, turn around and a nearby tape recorder will have the Collectible.",
+                                      "link":  {
+                                                   "url":  "FBC Reminder: Windows",
+                                                   "label":  "FBC Reminder: Windows"
+                                               }
+                                  },
+                        "id":  "170"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1549.2819458989638,
+                                         742.9782072691364
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require Fracture ability\u003cbr\u003e\nSame platform as Control Point: Astral Collision",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "171"
+                    },
+                    {
+                        "categoryId":  "10",
+                        "position":  [
+                                         1562.3833422728198,
+                                         732.1996240496705
+                                     ],
+                        "popup":  {
+                                      "title":  "Golden Cube",
+                                      "description":  "Used for Blue Maneki-neko puzzle\u003cbr\u003e\nNear the [[Maneki-neko Procedures]], [[Launch]] it into the toilet stall next to the Hiding Location.\u003cbr\u003e\nThen it will appear In the Astral Plane inside the men\u0027s bathroom.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "172"
+                    },
+                    {
+                        "categoryId":  "10",
+                        "position":  [
+                                         1690.017125489443,
+                                         689.0509919379549
+                                     ],
+                        "popup":  {
+                                      "title":  "Golden Cube",
+                                      "description":  "[[Launch]] the Cube into the toilet stall next to the Hiding Location in the [[Astral Collision]]. Then it will appear.\u003cbr\u003e\nThrow it into the slot under the [[Computer Program]] platform.\n",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "173"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1692.7915943012936,
+                                         682.6915702143514
+                                     ],
+                        "popup":  {
+                                      "title":  "Blue Maneki-neko",
+                                      "description":  "#Throw a Golden Cube in a Astral Collision area into a toilet stall\n#Now the Golden Cube will spawn in this area, and it needs to be placed in a slot under the [[Computer Program]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:Control - Makeki-Neko from Astral Collision bathroom.jpg"
+                                  },
+                        "id":  "174"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1535.7549701676649,
+                                         749.5729376250858
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Astral Platform PW",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "175"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1542.5075297551498,
+                                         749.4309463889069
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Astral Tower PW",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "176"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1549.0114714674207,
+                                         749.553656572983
+                                     ],
+                        "popup":  {
+                                      "title":  "America Overnight Fatality",
+                                      "description":  "It is located at the Astral Tower PW Control Point, hidden amongst the red sand in a corner of the black marble walls.",
+                                      "link":  {
+                                                   "url":  "America Overnight Fatality",
+                                                   "label":  "America Overnight Fatality"
+                                               }
+                                  },
+                        "id":  "177"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1555.6313635680872,
+                                         749.6739979819649
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "It is located near the Astral Tower PW Control Point, hidden amongst the red sand on the high platform",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "178"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1535.6829946242183,
+                                         755.7969242371182
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Astral Platform PE",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "179"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1542.3883373667206,
+                                         755.7408012567188
+                                     ],
+                        "popup":  {
+                                      "title":  "Green",
+                                      "description":  "From the Astral Platform PE Control Point, continue upwards to the next area with red sand. The collectible is here, at a small Bureau work site behind the large rock pillar.",
+                                      "link":  {
+                                                   "url":  "Green",
+                                                   "label":  "Green"
+                                               }
+                                  },
+                        "id":  "180"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1548.8472840008653,
+                                         755.7049626053484
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Near the [[Green]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "181"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1555.4740351724026,
+                                         755.6083668707334
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Above the [[Green]] at the same height as the control point",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "182"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1562.1034251240362,
+                                         755.5264551005555
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Astral Tower PE",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "183"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1568.4692992702849,
+                                         755.6132801364006
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Hidden amongst the red sand near the Control Point: Astral Tower PE",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "184"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1581.309798139184,
+                                         755.7481297943403
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "On the highest platform near where the Astral Tower PE Control Point is located.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "185"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1587.2523734537365,
+                                         755.9288808276739
+                                     ],
+                        "popup":  {
+                                      "title":  "Rejected Episode",
+                                      "description":  "On an interactable TV found floating on the Hidden Location",
+                                      "link":  {
+                                                   "url":  "Rejected Episode",
+                                                   "label":  "Rejected Episode"
+                                               }
+                                  },
+                        "id":  "186"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1574.8154951219626,
+                                         755.7781763306981
+                                     ],
+                        "popup":  {
+                                      "title":  "Log 6: Departure",
+                                      "description":  "From the \"Astral Tower PE\" Control Point, look to the left to see the tape recorder on the edge of the platform.",
+                                      "link":  {
+                                                   "url":  "Log 6: Departure",
+                                                   "label":  "Log 6: Departure"
+                                               }
+                                  },
+                        "id":  "187"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1558.5924594649637,
+                                         761.9645113423965
+                                     ],
+                        "popup":  {
+                                      "title":  "Pink Maneki-neko",
+                                      "description":  "In the Astral Collision at the last platform you unlocked\n#Destroy the breakable floor in the middle of a central platform\n#Use Golden Cube on a slot that is hidden by a breakable floor nearby\n#Maneki-neko will spawn on an appeared tower once you land on it",
+                                      "link":  {
+                                                   "url":  "Maneki-neko Statue",
+                                                   "label":  "Maneki-neko Statue"
+                                               },
+                                      "image":  "File:Control - Maneki-Neko in Unmapped area near Astral Tower.jpg"
+                                  },
+                        "id":  "188"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1486.5566488113595,
+                                         763.2912857107161
+                                     ],
+                        "popup":  {
+                                      "title":  "Log 7: Changes",
+                                      "description":  "Jump into the pit in front of the Nail. The recording can be found by the southwestern wall.",
+                                      "link":  {
+                                                   "url":  "Log 7: Changes",
+                                                   "label":  "Log 7: Changes"
+                                               }
+                                  },
+                        "id":  "189"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1446.888466728793,
+                                         663.1134028567852
+                                     ],
+                        "popup":  {
+                                      "title":  "Two Birds, One Bomb",
+                                      "description":  "At the [[Lower Crossroads]]\u003cbr\u003e\nAutomatically obtained during story mission [[The Pyramid]]",
+                                      "link":  {
+                                                   "url":  "Two Birds, One Bomb",
+                                                   "label":  "Two Birds, One Bomb"
+                                               }
+                                  },
+                        "id":  "190"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1500.8557756724506,
+                                         662.1930499193408
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Lower Crossroads",
+                                      "description":  "At the [[Lower Crossroads]]\u003cbr\u003e\nCan access here during story mission [[The Pyramid]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "191"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1514.3040958266029,
+                                         661.491472409662
+                                     ],
+                        "popup":  {
+                                      "title":  "Log 8: Purpose",
+                                      "description":  "It is located directly in front of the Lower Crossroads Control Point.",
+                                      "link":  {
+                                                   "url":  "Log 8: Purpose",
+                                                   "label":  "Log 8: Purpose"
+                                               }
+                                  },
+                        "id":  "192"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1400.7785335305505,
+                                         393.85847712090697
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Fracture]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "193"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1398.4375,
+                                         395.4375
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require [[Fracture]] [[ability]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "194"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1222.125,
+                                         432.25
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require Fracture ability",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "195"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1226.3125,
+                                         432.1875
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Require Fracture ability",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "196"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1523.625,
+                                         731.9375
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Behind the yellow lab structure, requires Fracture ability",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "197"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1562,
+                                         749.75
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "It is located near the Astral Tower PW Control Point, hidden amongst the red sand  down in a ledge",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "198"
+                    }
+                ],
+    "markerProgress":  true
+}

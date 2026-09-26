@@ -1,0 +1,2773 @@
+﻿{
+    "mapImage":  "Research Sector (blueprint).png",
+    "pageCategories":  [
+
+                       ],
+    "defaultSort":  "",
+    "description":  "A map of the [[Research Sector]], using the raw overlay image.",
+    "coordinateOrder":  "xy",
+    "mapBounds":  [
+                      [
+                          0,
+                          0
+                      ],
+                      [
+                          2048,
+                          1152
+                      ]
+                  ],
+    "origin":  "bottom-left",
+    "useMarkerClustering":  false,
+    "categories":  [
+                       {
+                           "id":  "6",
+                           "listId":  1,
+                           "name":  "CHEST",
+                           "color":  "#bc48fa",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "1",
+                           "listId":  2,
+                           "name":  "Locations",
+                           "color":  "#FA005A",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "2",
+                           "listId":  3,
+                           "name":  "Collectibles",
+                           "color":  "#FFC500",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "3",
+                           "listId":  4,
+                           "name":  "Control Points",
+                           "color":  "#fff",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "4",
+                           "listId":  5,
+                           "name":  "Hidden Locations",
+                           "color":  "#0390fc",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "5",
+                           "listId":  6,
+                           "name":  "Other POIs",
+                           "color":  "#00A36C",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "7",
+                           "listId":  7,
+                           "name":  "Old Growth Mold samples",
+                           "color":  "#96aa9a",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       }
+                   ],
+    "markers":  [
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         832.9994953277144,
+                                         708.4997679531291
+                                     ],
+                        "popup":  {
+                                      "title":  "Astral Spike",
+                                      "description":  "In [[Astral Exhibition]]",
+                                      "link":  {
+                                                   "url":  "Astral Spike (Multimedia)",
+                                                   "label":  "Astral Spike (Multimedia)"
+                                               }
+                                  },
+                        "id":  "1"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         821.7219601628706,
+                                         681.1048851856553
+                                     ],
+                        "popup":  {
+                                      "title":  "Astral Exhibition",
+                                      "description":  "In [[Astral Exhibition]]",
+                                      "link":  {
+                                                   "url":  "Astral Exhibition (Collectible)",
+                                                   "label":  "Astral Exhibition (Collectible)"
+                                               }
+                                  },
+                        "id":  "2"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         883.7393713567237,
+                                         693.591426467142
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Astral Exhibition",
+                                      "description":  "The first Control Point accessible within the Research Sector. Can be directly claimed.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "3"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         851.9767850748625,
+                                         755.0357352181215
+                                     ],
+                        "popup":  {
+                                      "title":  "Astral Exhibition",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Astral Exhibition",
+                                                   "label":  "Astral Exhibition"
+                                               }
+                                  },
+                        "id":  "4"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1059.550910850288,
+                                         581.1977039340229
+                                     ],
+                        "popup":  {
+                                      "title":  "Parapsychology Elevator",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "5"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         859.5146354962824,
+                                         616
+                                     ],
+                        "popup":  {
+                                      "title":  "Parakinesiology",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Parakinesiology",
+                                                   "label":  "Parakinesiology"
+                                               }
+                                  },
+                        "id":  "6"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         939.9996845798215,
+                                         419.99988397656455
+                                     ],
+                        "popup":  {
+                                      "title":  "Central Research",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Central Research",
+                                                   "label":  "Central Research"
+                                               }
+                                  },
+                        "id":  "7"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1068.5145744457247,
+                                         739.1137029667502
+                                     ],
+                        "popup":  {
+                                      "title":  "Hypnosis Lab",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Hypnosis Lab",
+                                                   "label":  "Hypnosis Lab"
+                                               }
+                                  },
+                        "id":  "8"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         965.494135218158,
+                                         737.1480459036463
+                                     ],
+                        "popup":  {
+                                      "title":  "Parapsychology",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Parapsychology",
+                                                   "label":  "Parapsychology"
+                                               }
+                                  },
+                        "id":  "9"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         828.5131214794255,
+                                         474.4993038593873
+                                     ],
+                        "popup":  {
+                                      "title":  "Luck \u0026 Probability",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Luck \u0026 Probability",
+                                                   "label":  "Luck \u0026 Probability"
+                                               }
+                                  },
+                        "id":  "10"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         776.2266474761302,
+                                         327.7409575645192
+                                     ],
+                        "popup":  {
+                                      "title":  "Ritual Division",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Ritual Division",
+                                                   "label":  "Ritual Division"
+                                               }
+                                  },
+                        "id":  "11"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         647.5005046722856,
+                                         358.1212872500653
+                                     ],
+                        "popup":  {
+                                      "title":  "Synchronicity Lab",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Synchronicity Lab",
+                                                   "label":  "Synchronicity Lab"
+                                               }
+                                  },
+                        "id":  "12"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         941.5072566975836,
+                                         244.1758915281565
+                                     ],
+                        "popup":  {
+                                      "title":  "HRA Lab",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "HRA Lab",
+                                                   "label":  "HRA Lab"
+                                               }
+                                  },
+                        "id":  "13"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         858.0747034699675,
+                                         177.12992052339823
+                                     ],
+                        "popup":  {
+                                      "title":  "Protective Studies",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Protective Studies",
+                                                   "label":  "Protective Studies"
+                                               }
+                                  },
+                        "id":  "14"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1123.9990543321626,
+                                         331.93772955037156
+                                     ],
+                        "popup":  {
+                                      "title":  "Firebreak",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Firebreak",
+                                                   "label":  "Firebreak"
+                                               }
+                                  },
+                        "id":  "15"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1849.0067899088947,
+                                         417.91635483894623
+                                     ],
+                        "popup":  {
+                                      "title":  "Firebreak",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Firebreak",
+                                                   "label":  "Firebreak"
+                                               }
+                                  },
+                        "id":  "16"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1260.5824218721423,
+                                         384.2096670827241
+                                     ],
+                        "popup":  {
+                                      "title":  "Ashtray Maze",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Ashtray Maze",
+                                                   "label":  "Ashtray Maze"
+                                               }
+                                  },
+                        "id":  "17"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         797.995584117501,
+                                         725.0155471403516
+                                     ],
+                        "popup":  {
+                                      "title":  "Extrasensory Lab",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Extrasensory Lab",
+                                                   "label":  "Extrasensory Lab"
+                                               }
+                                  },
+                        "id":  "18"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1809.5518277167876,
+                                         602.4576575340297
+                                     ],
+                        "popup":  {
+                                      "title":  "Dimensional Research",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Dimensional Research",
+                                                   "label":  "Dimensional Research"
+                                               }
+                                  },
+                        "id":  "19"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1944.2081810302516,
+                                         899.4564616624406
+                                     ],
+                        "popup":  {
+                                      "title":  "Hedron Chamber",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Hedron Chamber",
+                                                   "label":  "Hedron Chamber"
+                                               }
+                                  },
+                        "id":  "20"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         921.7139569195614,
+                                         342.9481015308034
+                                     ],
+                        "popup":  {
+                                      "title":  "Plant Complaint",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Plant Complaint",
+                                                   "label":  "Plant Complaint"
+                                               },
+                                      "image":  "File:Central Research (Plant Complaint).png"
+                                  },
+                        "id":  "21"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         985.7072098312426,
+                                         344.36001794635274
+                                     ],
+                        "popup":  {
+                                      "title":  "Synchronicity",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Synchronicity (Collectible)",
+                                                   "label":  "Synchronicity (Collectible)"
+                                               },
+                                      "image":  "File:Central Research (Synchronicity).png"
+                                  },
+                        "id":  "22"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1034.7508831764999,
+                                         414.74988397656455
+                                     ],
+                        "popup":  {
+                                      "title":  "HRAs",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "HRAs (Collectible)",
+                                                   "label":  "HRAs (Collectible)"
+                                               },
+                                      "image":  "File:Dr. Darling\u0027s Office (HRAs).png"
+                                  },
+                        "id":  "23"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1028.366720728684,
+                                         421.0374755696534
+                                     ],
+                        "popup":  {
+                                      "title":  "Resonance Theory",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Resonance Theory",
+                                                   "label":  "Resonance Theory"
+                                               },
+                                      "image":  "File:Dr. Darling\u0027s Office (Resonance Theory).png"
+                                  },
+                        "id":  "24"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1010.8084299917789,
+                                         398.27740225757503
+                                     ],
+                        "popup":  {
+                                      "title":  "Astral Plane Counteressay",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Astral Plane Counteressay",
+                                                   "label":  "Astral Plane Counteressay"
+                                               },
+                                      "image":  "File:Dr. Darling\u0027s Office (Astral Plane Counteressay).png"
+                                  },
+                        "id":  "25"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1033.2602523839116,
+                                         435.84236796715237
+                                     ],
+                        "popup":  {
+                                      "title":  "Darling: Budget Request",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Darling: Budget Request",
+                                                   "label":  "Darling: Budget Request"
+                                               },
+                                      "image":  "File:Dr. Darling\u0027s Office (Darling Budget Request).png"
+                                  },
+                        "id":  "26"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1016.4659979556621,
+                                         435.0470369202335
+                                     ],
+                        "popup":  {
+                                      "title":  "Astral Plane",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Astral Plane (Research)",
+                                                   "label":  "Astral Plane (Research)"
+                                               },
+                                      "image":  "File:Dr. Darling\u0027s Office (Astral Plane).png"
+                                  },
+                        "id":  "27"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         846.9998738319287,
+                                         468.5002320468709
+                                     ],
+                        "popup":  {
+                                      "title":  "Emergency Call Summary",
+                                      "description":  "Inside the Safe Room on the stairwell down from the Sector Elevator in Central Research.",
+                                      "link":  {
+                                                   "url":  "Emergency Call Summary",
+                                                   "label":  "Emergency Call Summary"
+                                               },
+                                      "image":  "File:Central Research (Emergency Call Summary).png"
+                                  },
+                        "id":  "28"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         867.9390940178654,
+                                         373.507273795182
+                                     ],
+                        "popup":  {
+                                      "title":  "Research Sector",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Research Sector (Collectible)",
+                                                   "label":  "Research Sector (Collectible)"
+                                               },
+                                      "image":  "File:Central Research (Research Sector collectible).png"
+                                  },
+                        "id":  "29"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         855.854924014008,
+                                         649.9802760159719
+                                     ],
+                        "popup":  {
+                                      "title":  "Emergency Call Supplement",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Emergency Call Supplement",
+                                                   "label":  "Emergency Call Supplement"
+                                               },
+                                      "image":  "File:Parakinesiology (Emergency Call Supplement).png"
+                                  },
+                        "id":  "30"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1051.2666236601458,
+                                         381.59490717020583
+                                     ],
+                        "popup":  {
+                                      "title":  "Hubert: Black Rock Analysis",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Hubert: Black Rock Analysis",
+                                                   "label":  "Hubert: Black Rock Analysis"
+                                               },
+                                      "image":  "File:Central Research (Hubert Black Rock Analysis).png"
+                                  },
+                        "id":  "31"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         968.5599372981932,
+                                         375.11846557982466
+                                     ],
+                        "popup":  {
+                                      "title":  "Song Questionnaire",
+                                      "description":  "Inside Lab 1, a room found on the south of the ground floor of Central Research, door located behind the staircase.",
+                                      "link":  {
+                                                   "url":  "Song Questionnaire",
+                                                   "label":  "Song Questionnaire"
+                                               },
+                                      "image":  "File:Acoustic Research (Song Questionnaire).png"
+                                  },
+                        "id":  "32"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         978.1422018839957,
+                                         359.15552396701054
+                                     ],
+                        "popup":  {
+                                      "title":  "Poets of the Fall: My Dark Disquiet",
+                                      "description":  "Inside Lab 1, a room found on the south of the ground floor of Central Research, door located behind the staircase. Push the button to receive it.",
+                                      "link":  {
+                                                   "url":  "Poets of the Fall: My Dark Disquiet",
+                                                   "label":  "Poets of the Fall: My Dark Disquiet"
+                                               },
+                                      "image":  "File:Acoustic Research.png"
+                                  },
+                        "id":  "33"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         897.4842870776347,
+                                         397.11166918778173
+                                     ],
+                        "popup":  {
+                                      "title":  "Threshold Utility",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Threshold Utility",
+                                                   "label":  "Threshold Utility"
+                                               },
+                                      "image":  "File:Central Research (Threshold Utility).png"
+                                  },
+                        "id":  "34"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         928,
+                                         725.7509281874836
+                                     ],
+                        "popup":  {
+                                      "title":  "Recording Chair Procedures",
+                                      "description":  "In [[Parapsychology]]",
+                                      "link":  {
+                                                   "url":  "Recording Chair Procedures",
+                                                   "label":  "Recording Chair Procedures"
+                                               }
+                                  },
+                        "id":  "35"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         861.3657744681484,
+                                         727.5449010695228
+                                     ],
+                        "popup":  {
+                                      "title":  "Sensory Tank Purpose",
+                                      "description":  "On a console in the side room of the [[Extrasensory Lab]].",
+                                      "link":  {
+                                                   "url":  "Sensory Tank Purpose",
+                                                   "label":  "Sensory Tank Purpose"
+                                               }
+                                  },
+                        "id":  "36"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         822.8784550901316,
+                                         757.000306476438
+                                     ],
+                        "popup":  {
+                                      "title":  "Dr. Tokui Investigation",
+                                      "description":  "On a filing cabinet in the far back room of the [[Extrasensory Lab]].",
+                                      "link":  {
+                                                   "url":  "Dr. Tokui Investigation",
+                                                   "label":  "Dr. Tokui Investigation"
+                                               }
+                                  },
+                        "id":  "37"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         903.4998738319287,
+                                         713.2497679531291
+                                     ],
+                        "popup":  {
+                                      "title":  "Precognitive Powers",
+                                      "description":  "In [[Parapsychology]]",
+                                      "link":  {
+                                                   "url":  "Precognitive Powers",
+                                                   "label":  "Precognitive Powers"
+                                               }
+                                  },
+                        "id":  "38"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1036.1286436114312,
+                                         665.7761052729784
+                                     ],
+                        "popup":  {
+                                      "title":  "Groupthink",
+                                      "description":  "In [[Parapsychology]]",
+                                      "link":  {
+                                                   "url":  "Groupthink",
+                                                   "label":  "Groupthink"
+                                               }
+                                  },
+                        "id":  "39"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1014.8694964262547,
+                                         681.2937408351681
+                                     ],
+                        "popup":  {
+                                      "title":  "Astralnauts Information",
+                                      "description":  "In [[Parapsychology]]\u003cbr\u003e\nOne way to start the side mission [[A Captive Audience]].",
+                                      "link":  {
+                                                   "url":  "Astralnauts Information",
+                                                   "label":  "Astralnauts Information"
+                                               }
+                                  },
+                        "id":  "40"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         998.4997161218394,
+                                         653.2495359062582
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Parapsychology",
+                                      "description":  "This Control Point is corrupted and must be cleansed as part of [[Old Boys\u0027 Club]] in order to access the Parapsychology Elevator.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "41"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         872.25,
+                                         457.2511602343546
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Central Research",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "42"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         870.7098480280162,
+                                         437.0795920767252
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "This Hidden Location is a room behind a window on the stairs leading down from the Sector Elevator entrance in Central Research. It requires the Levitate Ability to be reached. Alternatively, jump down south from the Central Research Control Point, which is right above.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "43"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         983.3567574350188,
+                                         541.7209966380243
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "This Hidden Location is a lab on the balcony above the floor with the Shelter on the way down the stairs in Central Research. It requires the Levitate Ability to be reached. The Hidden Location itself is inside Lab 10, which is Mold-infested (progress [[Old Growths]] to safely access).",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "44"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         907.4046324393059,
+                                         289.75443626392035
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "This Hidden Location is located on the highest balcony in Central Research, only accessible via using [[Levitate]] and hopping to and from the other balconies and structures below.\u003cbr\u003e\nThe Hidden Location itself is inside Lab 79, a small acoustic room connected to the balcony.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "45"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         879.0087709908076,
+                                         700.3892667652754
+                                     ],
+                        "popup":  {
+                                      "title":  "Astral Plane",
+                                      "description":  "In [[Astral Exhibition]]",
+                                      "link":  {
+                                                   "url":  "Astral Plane (Darling Presentation)",
+                                                   "label":  "Astral Plane (Darling Presentation)"
+                                               }
+                                  },
+                        "id":  "46"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         855.7462188327282,
+                                         738.2628465325879
+                                     ],
+                        "popup":  {
+                                      "title":  "Dr. Tokui Tapes",
+                                      "description":  "Inside [[Extrasensory Lab]] near a tank.\nIt trigger a side mission [[Dr. Yoshimi Tokui\u0027s Guided Imagery Experience]].",
+                                      "link":  {
+                                                   "url":  "Dr. Tokui Tapes",
+                                                   "label":  "Dr. Tokui Tapes"
+                                               }
+                                  },
+                        "id":  "47"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1104.9668511906852,
+                                         731.3915439293595
+                                     ],
+                        "popup":  {
+                                      "title":  "Astralnaut Liability ",
+                                      "description":  "In [[Hypnosis Lab]]",
+                                      "link":  {
+                                                   "url":  "Astralnaut Liability",
+                                                   "label":  "Astralnaut Liability"
+                                               }
+                                  },
+                        "id":  "48"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1004.5555927298673,
+                                         488
+                                     ],
+                        "popup":  {
+                                      "title":  "Rubber Duck Supplement",
+                                      "description":  "Inside the toilet with a corpse when you take the elevator to see Marshall",
+                                      "link":  {
+                                                   "url":  "Rubber Duck Supplement",
+                                                   "label":  "Rubber Duck Supplement"
+                                               }
+                                  },
+                        "id":  "49"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         704.1217774562913,
+                                         251.69513010554448
+                                     ],
+                        "popup":  {
+                                      "title":  "Threshold Kids Proposal",
+                                      "description":  "Inside shelter",
+                                      "link":  {
+                                                   "url":  "Threshold Kids Proposal",
+                                                   "label":  "Threshold Kids Proposal"
+                                               }
+                                  },
+                        "id":  "50"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         842.119570790342,
+                                         219.74248223808758
+                                     ],
+                        "popup":  {
+                                      "title":  "Carla: File Received",
+                                      "description":  "In Ritual Office",
+                                      "link":  {
+                                                   "url":  "Carla: File Received",
+                                                   "label":  "Carla: File Received"
+                                               }
+                                  },
+                        "id":  "51"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         768.7263734939473,
+                                         247.99328183958386
+                                     ],
+                        "popup":  {
+                                      "title":  "Rituals",
+                                      "description":  "In Ritual Office",
+                                      "link":  {
+                                                   "url":  "Rituals (Research)",
+                                                   "label":  "Rituals (Research)"
+                                               }
+                                  },
+                        "id":  "52"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         812.5402546699038,
+                                         222.43683027611365
+                                     ],
+                        "popup":  {
+                                      "title":  "Ritual Office",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "53"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         796.6519747031316,
+                                         139.69763981298638
+                                     ],
+                        "popup":  {
+                                      "title":  "AI52 Testing",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "AI52 Testing",
+                                                   "label":  "AI52 Testing"
+                                               }
+                                  },
+                        "id":  "54"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         948.685447475418,
+                                         278.7923241012925
+                                     ],
+                        "popup":  {
+                                      "title":  "Black Rock Prisms",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Black Rock Prisms",
+                                                   "label":  "Black Rock Prisms"
+                                               }
+                                  },
+                        "id":  "55"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1005.1522894566772,
+                                         505.58134854838147
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In Shelter on ground floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "56"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         939.748606489056,
+                                         321.3847219846954
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the men’s restroom ground floor where all the plants are on the walls",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "57"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1286.930119711363,
+                                         418.61257438861844
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Appears after Going second circle in [[Ashtray Maze]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:CHEST (Ashtray Maze).png"
+                                  },
+                        "id":  "58"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         963,
+                                         501.5
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Back of the room next to the Parapsychology doors",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "59"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         838.5,
+                                         482
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Shelter on landing before Parapsychology  ",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "60"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         987.8227638184102,
+                                         373.18196868354204
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In Lab 1",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "61"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         808.2230508962238,
+                                         742.4621202458749
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the [[Astral Exhibition]] room on the platform in the left corner ",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "62"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         902,
+                                         656
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On top the filing cabinets on the left side in the Parapsychology office space\n",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "63"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1028.2691484271934,
+                                         674.3950949929757
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Parapsychology]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "64"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         920.2985521412581,
+                                         783.4859267280898
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Parapsychology]]\u003cbr\u003e\nUnder the stairs ",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "65"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         835.75,
+                                         772.75
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On top of the filing cabinets in the tank room",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "66"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1077.164463710288,
+                                         720.830213766807
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Hypnosis Lab]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "67"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         694.3791230031992,
+                                         258.44953849600154
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In Shelter",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "68"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         651.5988988634035,
+                                         387.14096269963477
+                                     ],
+                        "popup":  {
+                                      "title":  "Synchronicity Experiment",
+                                      "description":  "On top of filing cabinets in the upstairs area on the right",
+                                      "link":  {
+                                                   "url":  "Synchronicity Experiment",
+                                                   "label":  "Synchronicity Experiment"
+                                               }
+                                  },
+                        "id":  "69"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         817.5,
+                                         371.5
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On top of the planters, either Levitate or go to the Ritual Office and shatter the windows and jump across",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "70"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         752.096021337776,
+                                         190.1255132615445
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "71"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         916.4103884177655,
+                                         202.23253941935258
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Behind all the black cases, melee and launch most of them out of the way ",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "72"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         918.7118499012441,
+                                         139.31120240662972
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Behind the machines ",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "73"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         894.5599843023922,
+                                         455.63116184035687
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the middle of the hole down to [[The Pit]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "74"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1113.0441051786038,
+                                         750.9096588065796
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: A Captive Audience",
+                                      "description":  "Completing this mission will unlock the [[Seize]] [[Ability]]. It can be started by entering [[Hypnosis Lab]], or by picking up [[Astralnauts Information]]",
+                                      "link":  {
+                                                   "url":  "A Captive Audience",
+                                                   "label":  "A Captive Audience"
+                                               }
+                                  },
+                        "id":  "75"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1018.6312432022529,
+                                         451.10263683069616
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "between consoles inside the room in the balcony covered with ivy plants",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "76"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1002.3720092831157,
+                                         496.20001219862064
+                                     ],
+                        "popup":  {
+                                      "title":  "Darling: Underhill Disagreement",
+                                      "description":  "on a lab table inside the room in the balcony covered with ivy plants",
+                                      "link":  {
+                                                   "url":  "Darling: Underhill Disagreement",
+                                                   "label":  "Darling: Underhill Disagreement"
+                                               }
+                                  },
+                        "id":  "77"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         974.3120258986276,
+                                         551.2037299264998
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Location Lab 10",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "78"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         960.8141716828226,
+                                         526.4437810711056
+                                     ],
+                        "popup":  {
+                                      "title":  "Hammer Procedures",
+                                      "description":  "Inside Hidden Location Lab 10",
+                                      "link":  {
+                                                   "url":  "Hammer Procedures",
+                                                   "label":  "Hammer Procedures"
+                                               }
+                                  },
+                        "id":  "79"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1013.8019500424081,
+                                         463.1904647859742
+                                     ],
+                        "popup":  {
+                                      "title":  "Large Scale HRA",
+                                      "description":  "interacting with the consoles inside the room in the balcony covered with ivy plants",
+                                      "link":  {
+                                                   "url":  "Large Scale HRA",
+                                                   "label":  "Large Scale HRA"
+                                               }
+                                  },
+                        "id":  "80"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         872.2461539621288,
+                                         443.6856088569957
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "81"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         828.5732212944272,
+                                         496.09240660040035
+                                     ],
+                        "popup":  {
+                                      "title":  "Golden Suit",
+                                      "description":  "Obtain it after triggering the Easter egg according to the steps [[Research_Sector#Luck_\u0026_Probability|Luck \u0026 Probability]]\u003cbr\u003e\n\u0027\u0027\u0027Rewards\u0027\u0027\u0027\n* [[Materials|Astral Blip]]\n* 2 [[Ability]] Points\n* [[Outfits|Golden Suit]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "82"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         781.780410873282,
+                                         499.49858190483445
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Shelter",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "83"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         790.0649134389173,
+                                         270.43417427444206
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Ritual Division",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "84"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         764.1049843066999,
+                                         230.4279252242909
+                                     ],
+                        "popup":  {
+                                      "title":  "Tape",
+                                      "description":  "In Ritual Office\n\nFor the side mission [[Dr. Yoshimi Tokui\u0027s Guided Imagery Experience]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "85"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         755.8168772368074,
+                                         101.21904800544019
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "86"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         790.554562301428,
+                                         124.17925258386327
+                                     ],
+                        "popup":  {
+                                      "title":  "Rubber Duck Procedures",
+                                      "description":  "Automatically obtain after \"Cleanse and contain the [[Rubber Duck]]\" during the side mission [[Langston\u0027s Runaways]]",
+                                      "link":  {
+                                                   "url":  "Rubber Duck Procedures",
+                                                   "label":  "Rubber Duck Procedures"
+                                               }
+                                  },
+                        "id":  "87"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         971.6733182372961,
+                                         243.86316964015415
+                                     ],
+                        "popup":  {
+                                      "title":  "Tape",
+                                      "description":  "For the side mission [[Dr. Yoshimi Tokui\u0027s Guided Imagery Experience]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "88"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         855.7079647611173,
+                                         743.0026315363652
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: Dr. Tokui\u0027s Guided Imagery",
+                                      "description":  "Inside [[Extrasensory Lab]]",
+                                      "link":  {
+                                                   "url":  "Dr. Yoshimi Tokui\u0027s Guided Imagery Experience",
+                                                   "label":  "Dr. Yoshimi Tokui\u0027s Guided Imagery Experience"
+                                               }
+                                  },
+                        "id":  "89"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         853.0453260998934,
+                                         500.94551817284116
+                                     ],
+                        "popup":  {
+                                      "title":  "Lucky Item Manifest",
+                                      "description":  "Located in [[Luck \u0026 Probability]], on top of a cabinet in Security Clearance 5 Room",
+                                      "link":  {
+                                                   "url":  "Lucky Item Manifest",
+                                                   "label":  "Lucky Item Manifest"
+                                               }
+                                  },
+                        "id":  "90"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         894.5232228197366,
+                                         459.5834674766876
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the protruding rocks on the ground level",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:CHEST (Central Research).png"
+                                  },
+                        "id":  "91"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         840.1391655815846,
+                                         517.3733494916481
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside [[The Pit]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "92"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         889.891033726828,
+                                         590.6730654514963
+                                     ],
+                        "popup":  {
+                                      "title":  "Underhill\u0027s Lab",
+                                      "description":  "In [[Active Threshold]]\u003cbr\u003e\nNeed [[Clearance Level]] 4 to get in",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "93"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         878.1906901294121,
+                                         583.8815818741631
+                                     ],
+                        "popup":  {
+                                      "title":  "Mold Threshold",
+                                      "description":  "Inside Underhill\u0027s Lab",
+                                      "link":  {
+                                                   "url":  "Mold Threshold (Collectible)",
+                                                   "label":  "Mold Threshold (Collectible)"
+                                               }
+                                  },
+                        "id":  "94"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         880.0971828473364,
+                                         603.3717703082522
+                                     ],
+                        "popup":  {
+                                      "title":  "Threshold Utility Counteressay",
+                                      "description":  "Inside Underhill\u0027s Lab",
+                                      "link":  {
+                                                   "url":  "Threshold Utility Counteressay",
+                                                   "label":  "Threshold Utility Counteressay"
+                                               }
+                                  },
+                        "id":  "95"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         898.0994219264963,
+                                         587.8705069615354
+                                     ],
+                        "popup":  {
+                                      "title":  "Underhill: Checking In",
+                                      "description":  "Inside Underhill\u0027s Lab\u003cbr\u003e\nOn a cart near the decontamination showers.",
+                                      "link":  {
+                                                   "url":  "Underhill: Checking In",
+                                                   "label":  "Underhill: Checking In"
+                                               }
+                                  },
+                        "id":  "96"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         924.1430839701144,
+                                         561.9586253950272
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[The Pit]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:CHEST (The Pit).png"
+                                  },
+                        "id":  "97"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         908.1582768778082,
+                                         715.7399179877239
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Active Threshold",
+                                      "description":  "In [[Active Threshold]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:Control Point (Active Threshold).png"
+                                  },
+                        "id":  "98"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         938.1529342154689,
+                                         751.8559708400793
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Active Threshold]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:CHEST (The Pit 2).png"
+                                  },
+                        "id":  "99"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         888.223730462721,
+                                         669.1532900908736
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Active Threshold]] near Control Point: Active Threshold",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:CHEST (The Pit 3).png"
+                                  },
+                        "id":  "100"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         951.3367490643516,
+                                         699.9921040830204
+                                     ],
+                        "popup":  {
+                                      "title":  "Type E: Grows near the Pit",
+                                      "description":  "In [[Active Threshold]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:Mold sample (Type E).png"
+                                  },
+                        "id":  "101"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1044.4573861836045,
+                                         783.0787740756732
+                                     ],
+                        "popup":  {
+                                      "title":  "Type B: Grows near toilets",
+                                      "description":  "In [[Active Threshold]] restrooms",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:Mold sample (Type B).png"
+                                  },
+                        "id":  "102"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         1003.544917191279,
+                                         856.2509261130249
+                                     ],
+                        "popup":  {
+                                      "title":  "Type C: Grows near televisions",
+                                      "description":  "In [[Active Threshold]] Lab 05",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:Mold sample (Type C).png"
+                                  },
+                        "id":  "103"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1000.105579394186,
+                                         852.4387276842388
+                                     ],
+                        "popup":  {
+                                      "title":  "When You\u0027re Caught in a House Shift",
+                                      "description":  "In [[Active Threshold]] Lab 05",
+                                      "link":  {
+                                                   "url":  "When You\u0027re Caught in a House Shift",
+                                                   "label":  "When You\u0027re Caught in a House Shift"
+                                               }
+                                  },
+                        "id":  "104"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         946.1253579267652,
+                                         770.3490300673511
+                                     ],
+                        "popup":  {
+                                      "title":  "Type D: Grows near staircases",
+                                      "description":  "In [[Active Threshold]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:Mold sample (Type D).png"
+                                  },
+                        "id":  "105"
+                    },
+                    {
+                        "categoryId":  "7",
+                        "position":  [
+                                         862.2910345315036,
+                                         671.7105204151022
+                                     ],
+                        "popup":  {
+                                      "title":  "Type A: Grows near fresh corpses",
+                                      "description":  "In [[Active Threshold]] near Control Point: Active Threshold",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:Mold sample (Type A).png"
+                                  },
+                        "id":  "106"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         906.2256629239128,
+                                         755.066317344524
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Active Threshold]] near Control Point: Active Threshold",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:CHEST (The Pit 4).png"
+                                  },
+                        "id":  "107"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         981.8698600132831,
+                                         605.8330636452654
+                                     ],
+                        "popup":  {
+                                      "title":  "Pink Flamingo Supplement",
+                                      "description":  "In [[Active Threshold]]",
+                                      "link":  {
+                                                   "url":  "Pink Flamingo Supplement",
+                                                   "label":  "Pink Flamingo Supplement"
+                                               }
+                                  },
+                        "id":  "108"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         980.1604484779723,
+                                         609.8592198873915
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Active Threshold]] near [[Pink Flamingo Supplement]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "109"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1032.0876667609068,
+                                         699.4431493977472
+                                     ],
+                        "popup":  {
+                                      "title":  "Picnic Basket Procedures",
+                                      "description":  "In [[Active Threshold]]\u003cbr\u003e\nLocated in a small room with lab equipment",
+                                      "link":  {
+                                                   "url":  "Picnic Basket Procedures",
+                                                   "label":  "Picnic Basket Procedures"
+                                               },
+                                      "image":  "File:Active Threshold (Picnic Basket Procedures).png"
+                                  },
+                        "id":  "110"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1029.5809751292652,
+                                         712.9045676249922
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Active Threshold]] in the same room as [[Picnic Basket Procedures]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "111"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1012.2638517574492,
+                                         694.525262905453
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Active Threshold]] in the same room as [[Picnic Basket Procedures]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "112"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         888.8477180532507,
+                                         590.6450553820139
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: Old Growth",
+                                      "description":  "Completing this mission will make you immune to [[Mold]] damage. It can be started by speaking to [[Emily Pope]] after completing main mission [[Threshold]], or by directly talking to [[Raya Underhill]]",
+                                      "link":  {
+                                                   "url":  "Old Growth",
+                                                   "label":  "Old Growth"
+                                               }
+                                  },
+                        "id":  "113"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         848.6261042864852,
+                                         713.4090390363956
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "In [[Active Threshold]]\u003cbr\u003e\nIn the upper atrium behind the Control Point: Active Threshold\u003cbr\u003e\nRequires [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:Hidden Location (Active Threshold).png"
+                                  },
+                        "id":  "114"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         830.3670313389425,
+                                         711.8484857234931
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Location in [[Active Threshold]]\u003cbr\u003e\nRequires [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "115"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1026.5582008050628,
+                                         781.4669950670256
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Active Threshold]]\u003cbr\u003e\nIn the hole in the wall opposite the Control Point: Active Threshold\u003cbr\u003e\nRequires [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:CHEST (The Pit 5).png"
+                                  },
+                        "id":  "116"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         949.6829225373677,
+                                         665.9079609806608
+                                     ],
+                        "popup":  {
+                                      "title":  "Balloon Procedures",
+                                      "description":  "In [[Active Threshold]] Lab 02\u003cbr\u003e\nRequires [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "Balloon Procedures",
+                                                   "label":  "Balloon Procedures"
+                                               },
+                                      "image":  "File:Active Threshold (Balloon Procedures).png"
+                                  },
+                        "id":  "117"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         940.8895959436247,
+                                         671.4640289597203
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Active Threshold]] Lab 02 near [[Balloon Procedures]]\u003cbr\u003e\nRequires [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "118"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1067.419621233486,
+                                         756.2180962614034
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "In [[Active Threshold]] restrooms\u003cbr\u003e\nRequires [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:Hidden Location (Active Threshold restrooms).png"
+                                  },
+                        "id":  "119"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1064.8964968628843,
+                                         748.7493683266416
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Active Threshold]] restrooms Hidden Location",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "120"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         982.8164107619824,
+                                         433.7199955154777
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the second highest balcony\u003cbr\u003e\nRequires [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:CHEST (Central Research 2).png"
+                                  },
+                        "id":  "121"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         909.7800641075316,
+                                         271.8186849125548
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Inside Hidden Location Lab 79",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "122"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         913.0653845173675,
+                                         279.951361151406
+                                     ],
+                        "popup":  {
+                                      "title":  "Levitate Button",
+                                      "description":  "Inside Hidden Location Lab 79\u003cbr\u003e\nPress the button to make the dummy in the room float up\u003cbr\u003e\nAnd it will give you 1 {{rarity|rar=IV|text=Prime}} [[Levitation Ammo Efficiency]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "123"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         973.0118389088199,
+                                         704.6210759349011
+                                     ],
+                        "popup":  {
+                                      "title":  "Hammer Supplement",
+                                      "description":  "In the middle of the well shaft that leads from [[Active Threshold]] to [[The Pit|Active Threshold Sublevel]]",
+                                      "link":  {
+                                                   "url":  "Hammer Supplement",
+                                                   "label":  "Hammer Supplement"
+                                               },
+                                      "image":  "File:The Pit (Hammer Supplement).png"
+                                  },
+                        "id":  "124"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         964.3128655533126,
+                                         695.4542036815186
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the middle of the well shaft that leads from [[Active Threshold]] to [[The Pit|Active Threshold Sublevel]] near [[Hammer Supplement]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "125"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         998.8644356606336,
+                                         714.1005767292844
+                                     ],
+                        "popup":  {
+                                      "title":  "Threshold Log 1",
+                                      "description":  "In the [[The Pit|Active Threshold Sublevel]]",
+                                      "link":  {
+                                                   "url":  "Threshold Log 1",
+                                                   "label":  "Threshold Log 1"
+                                               }
+                                  },
+                        "id":  "126"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1007.0325989637188,
+                                         687.5994172289862
+                                     ],
+                        "popup":  {
+                                      "title":  "Balloon Supplement",
+                                      "description":  "In the [[The Pit|Active Threshold Sublevel]], behind the blocked doorway",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "127"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         995.6497450576708,
+                                         687.6248302068003
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the [[The Pit|Active Threshold Sublevel]], behind the blocked doorway near [[Balloon Supplement]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "128"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1031.53244557528,
+                                         781.6753920307934
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the [[The Pit|Active Threshold Sublevel]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "129"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         955.802043337373,
+                                         780.712573353517
+                                     ],
+                        "popup":  {
+                                      "title":  "Picnic Basket Supplement",
+                                      "description":  "In the [[The Pit|Active Threshold Sublevel]]",
+                                      "link":  {
+                                                   "url":  "Picnic Basket Supplement",
+                                                   "label":  "Picnic Basket Supplement"
+                                               },
+                                      "image":  "File:The Pit (Picnic Basket Supplement).png"
+                                  },
+                        "id":  "130"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         960.2834550609452,
+                                         784.6736726128507
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the [[The Pit|Active Threshold Sublevel]] near [[Picnic Basket Supplement]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "131"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         895.2388669221186,
+                                         771.9491005053569
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Active Threshold Sublevel",
+                                      "description":  "In the [[The Pit|Active Threshold Sublevel]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "132"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         890.3160375821225,
+                                         775.466837148686
+                                     ],
+                        "popup":  {
+                                      "title":  "Threshold Log 2",
+                                      "description":  "In the [[The Pit|Active Threshold Sublevel]] near Control Point: Active Threshold Sublevel",
+                                      "link":  {
+                                                   "url":  "Threshold Log 2",
+                                                   "label":  "Threshold Log 2"
+                                               }
+                                  },
+                        "id":  "133"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         933.803536056813,
+                                         725.4488344579726
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the [[The Pit|Active Threshold Sublevel]] on the same layer as the Control Point: Active Threshold Sublevel",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "134"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         905.3250871937271,
+                                         741.9447285811432
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the [[The Pit|Active Threshold Sublevel]] on the same layer as the Control Point: Active Threshold Sublevel\u003cbr\u003e\nInside a room full of dummy",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "135"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         883.2214820560722,
+                                         755.8721360995684
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the [[The Pit|Active Threshold Sublevel]] in the middle of the well shaft next to the Control Point: Active Threshold Sublevel lead to [[Mold-1]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "136"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         888.916851709399,
+                                         607.6765395555572
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: The Pit",
+                                      "description":  "In the room after defeating [[Mold-1]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "137"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         874.7499916147557,
+                                         624.3964055692284
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Near the Control Point: [[The Pit]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "138"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         875.1427827667892,
+                                         597.752924951125
+                                     ],
+                        "popup":  {
+                                      "title":  "Threshold Log 3",
+                                      "description":  "Near the Control Point: [[The Pit]]",
+                                      "link":  {
+                                                   "url":  "Threshold Log 3",
+                                                   "label":  "Threshold Log 3"
+                                               }
+                                  },
+                        "id":  "139"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         860.0263015535816,
+                                         675.9806550034001
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In [[Active Threshold]] near Type A Mold sample\u003cbr\u003e\nRequire [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "140"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         871.3733533620488,
+                                         785.2225391101211
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Above the Control Point: Active Threshold Sublevel\u003cbr\u003e\nRequire [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "141"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         584.495759061983,
+                                         405.2363524262986
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Mirror Testing",
+                                      "description":  "In [[Clearance Level]] 6 room",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "142"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         604.8145448626825,
+                                         388.4737855556279
+                                     ],
+                        "popup":  {
+                                      "title":  "Mirror Debrief",
+                                      "description":  "Located in Mirror Testing, on the filing cabinets",
+                                      "link":  {
+                                                   "url":  "Mirror Debrief",
+                                                   "label":  "Mirror Debrief"
+                                               }
+                                  },
+                        "id":  "143"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         580.8153845173675,
+                                         377.4373064191824
+                                     ],
+                        "popup":  {
+                                      "title":  "Mirror Altered Item",
+                                      "description":  "On a cabinet",
+                                      "link":  {
+                                                   "url":  "Mirror Altered Item (Collectible)",
+                                                   "label":  "Mirror Altered Item (Collectible)"
+                                               }
+                                  },
+                        "id":  "144"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         542.1699529200334,
+                                         410.9213566668837
+                                     ],
+                        "popup":  {
+                                      "title":  "Mirror Containment",
+                                      "description":  "On a filing cabinet",
+                                      "link":  {
+                                                   "url":  "Mirror Containment",
+                                                   "label":  "Mirror Containment"
+                                               }
+                                  },
+                        "id":  "145"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         518.4568571578906,
+                                         395.74778039354055
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: Self-Reflection",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Self-Reflection",
+                                                   "label":  "Self-Reflection"
+                                               }
+                                  },
+                        "id":  "146"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         604.7692111362418,
+                                         393.479154779174
+                                     ],
+                        "popup":  {
+                                      "title":  "FeirbeD rorriM",
+                                      "description":  "Located in The Mirror, on the filing cabinets",
+                                      "link":  {
+                                                   "url":  "FeirbeD rorriM",
+                                                   "label":  "FeirbeD rorriM"
+                                               }
+                                  },
+                        "id":  "147"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         636.9479943955004,
+                                         400.5581251215714
+                                     ],
+                        "popup":  {
+                                      "title":  "Keeping Secrets",
+                                      "description":  "Located in The Mirror, interact the TVs",
+                                      "link":  {
+                                                   "url":  "Keeping Secrets",
+                                                   "label":  "Keeping Secrets"
+                                               }
+                                  },
+                        "id":  "148"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         519.1212084781771,
+                                         380.56046600083107
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Located in The Mirror, Completing this puzzle will give you two mods.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               },
+                                      "image":  "File:The Mirror computer solved.png"
+                                  },
+                        "id":  "149"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         676.7681930388301,
+                                         328.734080890344
+                                     ],
+                        "popup":  {
+                                      "title":  "Asynchronous Suit",
+                                      "description":  "After completing the side mission [[Self-Reflection]], the outfit appears on a mannequin.",
+                                      "link":  {
+                                                   "url":  "Outfits",
+                                                   "label":  "Outfits"
+                                               }
+                                  },
+                        "id":  "150"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         614.1943885250078,
+                                         311.395894945045
+                                     ],
+                        "popup":  {
+                                      "title":  "Newton\u0027s cradle",
+                                      "description":  "After synchronizing the [[Mirror Testing]] and [[The Mirror]] Newton\u0027s cradles, the room began to vibrate.\u003cbr\u003e\nIt will give you a {{rarity|rar=IV|text=Prime}} [[Energy Boost]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "151"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1224.6119234518058,
+                                         356.93146344061756
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Ashtray Maze",
+                                      "description":  "Appears at the start of story mission [[Finnish Tango]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "152"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1942.6328702144042,
+                                         330.3739804744274
+                                     ],
+                        "popup":  {
+                                      "title":  "Old Gods of Asgard: Take Control",
+                                      "description":  "Automatically obtained after traversing the [[Ashtray Maze]] during the story mission [[Polaris]]",
+                                      "link":  {
+                                                   "url":  "Old Gods of Asgard: Take Control",
+                                                   "label":  "Old Gods of Asgard: Take Control"
+                                               }
+                                  },
+                        "id":  "153"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1945.9987521312994,
+                                         330.3545507420165
+                                     ],
+                        "popup":  {
+                                      "title":  "Ashtray and Cigarette",
+                                      "description":  "Automatically obtained after traversing the [[Ashtray Maze]] during the story mission [[Polaris]]",
+                                      "link":  {
+                                                   "url":  "Ashtray and Cigarette (Collectible)",
+                                                   "label":  "Ashtray and Cigarette (Collectible)"
+                                               }
+                                  },
+                        "id":  "154"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1943.6033403150261,
+                                         462.4655738019692
+                                     ],
+                        "popup":  {
+                                      "title":  "Slidescape-36",
+                                      "description":  "Automatically obtained during the story mission [[Polaris]]",
+                                      "link":  {
+                                                   "url":  "Slidescape-36 (Hotline)",
+                                                   "label":  "Slidescape-36 (Hotline)"
+                                               }
+                                  },
+                        "id":  "155"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1909.4187016135184,
+                                         620.195293658005
+                                     ],
+                        "popup":  {
+                                      "title":  "Slidescape-36",
+                                      "description":  "Automatically obtained during the story mission [[Polaris]]",
+                                      "link":  {
+                                                   "url":  "Slidescape-36 (Multimedia)",
+                                                   "label":  "Slidescape-36 (Multimedia)"
+                                               }
+                                  },
+                        "id":  "156"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1935.7701385556554,
+                                         757.1964241653354
+                                     ],
+                        "popup":  {
+                                      "title":  "Hedron",
+                                      "description":  "Automatically obtained during the story mission [[Polaris]]",
+                                      "link":  {
+                                                   "url":  "Hedron (Collectible)",
+                                                   "label":  "Hedron (Collectible)"
+                                               }
+                                  },
+                        "id":  "157"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1939.3573287796453,
+                                         757.2153743660863
+                                     ],
+                        "popup":  {
+                                      "title":  "Final Message",
+                                      "description":  "Automatically obtained during the story mission [[Polaris]]",
+                                      "link":  {
+                                                   "url":  "Final Message",
+                                                   "label":  "Final Message"
+                                               }
+                                  },
+                        "id":  "158"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1937.8897068709125,
+                                         523.1629860672786
+                                     ],
+                        "popup":  {
+                                      "title":  "Janitor Complaint",
+                                      "description":  "On the 1th floor",
+                                      "link":  {
+                                                   "url":  "Janitor Complaint",
+                                                   "label":  "Janitor Complaint"
+                                               }
+                                  },
+                        "id":  "159"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1931.5349815705697,
+                                         582.6291880668036
+                                     ],
+                        "popup":  {
+                                      "title":  "Sand Memo",
+                                      "description":  "In the Unit 6",
+                                      "link":  {
+                                                   "url":  "Sand Memo",
+                                                   "label":  "Sand Memo"
+                                               }
+                                  },
+                        "id":  "160"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1943.916738825603,
+                                         615.1319803335642
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Dimensional Research",
+                                      "description":  "On the 1th floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "161"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1954.1787590051342,
+                                         586.1522154783107
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the Unit 7",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "162"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1974.663349601762,
+                                         522.403173345299
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the 2th floor",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "163"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1967.2393880943273,
+                                         544.7502892771671
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the ceiling",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "164"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1948.1665042189818,
+                                         707.3984720957864
+                                     ],
+                        "popup":  {
+                                      "title":  "Slide Projector Tests",
+                                      "description":  "On a well-illuminated desk in the [[Hedron Resonance Lab]]",
+                                      "link":  {
+                                                   "url":  "Slide Projector Tests",
+                                                   "label":  "Slide Projector Tests"
+                                               }
+                                  },
+                        "id":  "165"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1949.1862081153379,
+                                         717.5015433586063
+                                     ],
+                        "popup":  {
+                                      "title":  "Hedron Containment",
+                                      "description":  "On a desk in the Hedron Resonance Lab",
+                                      "link":  {
+                                                   "url":  "Hedron Containment",
+                                                   "label":  "Hedron Containment"
+                                               }
+                                  },
+                        "id":  "166"
+                    }
+                ],
+    "markerProgress":  true
+}

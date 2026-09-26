@@ -1,0 +1,2137 @@
+﻿{
+    "mapImage":  "Executive Sector (blueprint).png",
+    "pageCategories":  [
+
+                       ],
+    "defaultSort":  "",
+    "description":  "A map of the [[Executive Sector]], using the raw overlay map image. Red pins are marked locations, yellow pins are Collectibles, white pins are Control Points, and green pins are NPCs/other POIs.",
+    "coordinateOrder":  "xy",
+    "mapBounds":  [
+                      [
+                          0,
+                          0
+                      ],
+                      [
+                          2048,
+                          1152
+                      ]
+                  ],
+    "origin":  "bottom-left",
+    "useMarkerClustering":  false,
+    "categories":  [
+                       {
+                           "id":  "6",
+                           "listId":  1,
+                           "name":  "Chest",
+                           "color":  "#ae19fe",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "1",
+                           "listId":  2,
+                           "name":  "Locations",
+                           "color":  "#FA005A",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "2",
+                           "listId":  3,
+                           "name":  "Collectibles",
+                           "color":  "#FFC500",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "3",
+                           "listId":  4,
+                           "name":  "Control Points",
+                           "color":  "#FFFFFF",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "5",
+                           "listId":  5,
+                           "name":  "Hidden Locations",
+                           "color":  "#0390fc",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       },
+                       {
+                           "id":  "4",
+                           "listId":  6,
+                           "name":  "Other POIs",
+                           "color":  "#05a973",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       }
+                   ],
+    "markers":  [
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1594.7443641046395,
+                                         438.25314870551483
+                                     ],
+                        "popup":  {
+                                      "title":  "Board Room",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Board Room",
+                                                   "label":  "Board Room"
+                                               },
+                                      "image":  "File:Board Room.jpg"
+                                  },
+                        "id":  "1"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1434.7197928489534,
+                                         435.7546359471679
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Central Executive",
+                                      "description":  "The main Control Point in the game, it is the only Control Point where Jesse\u0027s outfits can be changed. Initially corrupted, must be cleansed during [[Welcome to the Oldest House]].",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "2"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1435.2500337205445,
+                                         443.71434561108
+                                     ],
+                        "popup":  {
+                                      "title":  "Central Executive",
+                                      "description":  "The administrative hub of the Executive Sector, repurposed as the ad-hoc HQ of the FBC\u0027s survivors.",
+                                      "link":  {
+                                                   "url":  "Central Executive",
+                                                   "label":  "Central Executive"
+                                               },
+                                      "image":  "File:Central Executive.jpg"
+                                  },
+                        "id":  "3"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1088.9997476638573,
+                                         213.4997679531291
+                                     ],
+                        "popup":  {
+                                      "title":  "Hotline Chamber",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Hotline Chamber",
+                                                   "label":  "Hotline Chamber"
+                                               },
+                                      "image":  "File:Hotline Chamber.png"
+                                  },
+                        "id":  "4"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1196.7835368468998,
+                                         995.6880607048167
+                                     ],
+                        "popup":  {
+                                      "title":  "Pneumatics",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Pneumatics",
+                                                   "label":  "Pneumatics"
+                                               },
+                                      "image":  "File:Pneumatics.jpg"
+                                  },
+                        "id":  "5"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1193.4854262920205,
+                                         795.9219082508985
+                                     ],
+                        "popup":  {
+                                      "title":  "Communications Department",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Communications Dept.",
+                                                   "label":  "Communications Department"
+                                               },
+                                      "image":  "File:Communications Dept - Hallway.png"
+                                  },
+                        "id":  "6"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1428.3548058538374,
+                                         683.7706165882316
+                                     ],
+                        "popup":  {
+                                      "title":  "Cafeteria",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Cafeteria",
+                                                   "label":  "Cafeteria"
+                                               },
+                                      "image":  "File:Cafeteria 1.png"
+                                  },
+                        "id":  "7"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1681.2407178299427,
+                                         659.9859383083134
+                                     ],
+                        "popup":  {
+                                      "title":  "Nostalgia Department",
+                                      "description":  "You will visit here during the mission [[Take Control]]",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "8"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1360.8522940851224,
+                                         162.8281763337622
+                                     ],
+                        "popup":  {
+                                      "title":  "Executive Affairs",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Executive Affairs",
+                                                   "label":  "Executive Affairs"
+                                               },
+                                      "image":  "File:Executive Affairs.jpg"
+                                  },
+                        "id":  "9"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1242.0273082697806,
+                                         479.51717495789904
+                                     ],
+                        "popup":  {
+                                      "title":  "Director\u0027s Office",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Director\u0027s Office",
+                                                   "label":  "Director\u0027s Office"
+                                               },
+                                      "image":  "File:Director\u0027s Office with Trench.png"
+                                  },
+                        "id":  "10"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1153.9983561107445,
+                                         637.1027176033315
+                                     ],
+                        "popup":  {
+                                      "title":  "Mail Room",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Mail Room",
+                                                   "label":  "Mail Room"
+                                               },
+                                      "image":  "File:Mail Room.jpg"
+                                  },
+                        "id":  "11"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         1388.3832455445904,
+                                         847.9289965433852
+                                     ],
+                        "popup":  {
+                                      "title":  "Dead Letters",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Dead Letters",
+                                                   "label":  "Dead Letters"
+                                               },
+                                      "image":  "File:Dead Letters cleansed.png"
+                                  },
+                        "id":  "12"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1388.0506114691927,
+                                         884.5958338856823
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Dead Letters",
+                                      "description":  "The Control Point for Dead Letters. It is corrupted and must be cleansed after the Hiss enemies in Dead Letters are defeated during [[Unknown Caller]].",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "13"
+                    },
+                    {
+                        "categoryId":  "3",
+                        "position":  [
+                                         1262.8891426272196,
+                                         552.9578310517121
+                                     ],
+                        "popup":  {
+                                      "title":  "Control Point: Mail Room",
+                                      "description":  "The Control Point for the Mail Room, located outside the room itself. It can be directly claimed.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "14"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1600.3664488654317,
+                                         447.280152630511
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Linguistic Ability",
+                                      "description":  "Appears here at the end of [[Old Boys\u0027 Club]].",
+                                      "link":  {
+                                                   "url":  "Linguistic Ability",
+                                                   "label":  "Linguistic Ability"
+                                               },
+                                      "image":  "File:Board Room (Linguistic Ability).png"
+                                  },
+                        "id":  "15"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1575.251261680714,
+                                         427.25127625779004
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Initial Impressions",
+                                      "description":  "Appears here at the end of [[Unknown Caller]].",
+                                      "link":  {
+                                                   "url":  "Initial Impressions",
+                                                   "label":  "Initial Impressions"
+                                               },
+                                      "image":  "File:Board Room (Initial Impressions).png"
+                                  },
+                        "id":  "16"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1579.6393745818555,
+                                         446.8436055616812
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Speech Analysis",
+                                      "description":  "Appears here after completing [[My Brother\u0027s Keeper]].",
+                                      "link":  {
+                                                   "url":  "Speech Analysis",
+                                                   "label":  "Speech Analysis"
+                                               },
+                                      "image":  "File:Board Room (Speech Analysis).png"
+                                  },
+                        "id":  "17"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1571.98425413266,
+                                         461.4092118197977
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Timeline of Events",
+                                      "description":  "Appears here after completing [[My Brother\u0027s Keeper]].",
+                                      "link":  {
+                                                   "url":  "Timeline of Events",
+                                                   "label":  "Timeline of Events"
+                                               },
+                                      "image":  "File:Board Room (Timeline of Events).png"
+                                  },
+                        "id":  "18"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1558.6314823930377,
+                                         447.29397288203916
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Variance in Alterations",
+                                      "description":  "Appears here after completing [[Take Control (mission)|Take Control]].",
+                                      "link":  {
+                                                   "url":  "Variance in Alterations",
+                                                   "label":  "Variance in Alterations"
+                                               },
+                                      "image":  "File:Board Room (Variance in Alterations).png"
+                                  },
+                        "id":  "19"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1349.33711811469,
+                                         525.0855263569323
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Prohibited Items Reminder",
+                                      "description":  "Only appears here if it was not collected during the opening sequence of \u0027\u0027Control\u0027\u0027.",
+                                      "link":  {
+                                                   "url":  "Prohibited Items Reminder",
+                                                   "label":  "Prohibited Items Reminder"
+                                               },
+                                      "image":  "File:Central Executive (Prohibited Items Reminder).png"
+                                  },
+                        "id":  "20"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1285.1479750631247,
+                                         455.5004848487855
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: R4 Reports Reminder",
+                                      "description":  "Only appears here if it was not collected during the opening sequence of \u0027\u0027Control\u0027\u0027.",
+                                      "link":  {
+                                                   "url":  "R4 Reports Reminder",
+                                                   "label":  "R4 Reports Reminder"
+                                               },
+                                      "image":  "File:Central Executive (R4 Reports Reminder).png"
+                                  },
+                        "id":  "21"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1335.3472036694382,
+                                         481.64866838024943
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Security Order",
+                                      "description":  "Only appears here if it was not collected during the opening sequence of \u0027\u0027Control\u0027\u0027.",
+                                      "link":  {
+                                                   "url":  "Security Order",
+                                                   "label":  "Security Order"
+                                               },
+                                      "image":  "File:Central Executive (Security Order).png"
+                                  },
+                        "id":  "22"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1481.7395403781811,
+                                         529.7683556862821
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Bureau Expenditures",
+                                      "description":  "Only appears here if it was not collected during the opening sequence of \u0027\u0027Control\u0027\u0027.",
+                                      "link":  {
+                                                   "url":  "Bureau Expenditures",
+                                                   "label":  "Bureau Expenditures"
+                                               },
+                                      "image":  "File:Central Executive (Bureau Expenditures).png"
+                                  },
+                        "id":  "23"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1403.6074959410898,
+                                         526.0864607112954
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Shifted Bathroom Complaint",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Shifted Bathroom Complaint",
+                                                   "label":  "Shifted Bathroom Complaint"
+                                               },
+                                      "image":  "File:Central Executive (Shifted Bathroom Complaint).png"
+                                  },
+                        "id":  "24"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1295.728704634255,
+                                         398.0817671089408
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Sticky Note Complaint",
+                                      "description":  "Room is locked and requires Clearance Level 4 to access.",
+                                      "link":  {
+                                                   "url":  "Sticky Note Complaint",
+                                                   "label":  "Sticky Note Complaint"
+                                               },
+                                      "image":  "File:Central Executive (Sticky Note Complaint).png"
+                                  },
+                        "id":  "25"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1457.0057910388598,
+                                         250.51762129669294
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Visitor Evaluations",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Visitor Evaluations",
+                                                   "label":  "Visitor Evaluations"
+                                               },
+                                      "image":  "File:Central Executive (Visitor Evaluations).png"
+                                  },
+                        "id":  "26"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1372.123358149254,
+                                         389.09020425167495
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Salvador: Security Order",
+                                      "description":  "On the ground level. Appears here after completing [[Old Boys\u0027 Club]].",
+                                      "link":  {
+                                                   "url":  "Salvador: Security Order",
+                                                   "label":  "Salvador: Security Order"
+                                               },
+                                      "image":  "File:Central Executive (Salvador Security Order).png"
+                                  },
+                        "id":  "27"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1389.8012061075156,
+                                         351.5794158102641
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: America Overnight Results",
+                                      "description":  "On the ground level, in the Clearance Level 3-locked security room.",
+                                      "link":  {
+                                                   "url":  "America Overnight Results",
+                                                   "label":  "America Overnight Results"
+                                               },
+                                      "image":  "File:Central Executive (America Overnight Results).png"
+                                  },
+                        "id":  "28"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1343.0045420505703,
+                                         361.9995359062582
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Collective Unconscious",
+                                      "description":  "Appears here at the end of [[Unknown Caller]].",
+                                      "link":  {
+                                                   "url":  "Collective Unconscious",
+                                                   "label":  "Collective Unconscious"
+                                               },
+                                      "image":  "File:Central Executive (Collective Unconscious).png"
+                                  },
+                        "id":  "29"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1514.8636255353138,
+                                         498.0774531391719
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Control Points (Research)",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Control Points (Research)",
+                                                   "label":  "Control Points (Research)"
+                                               },
+                                      "image":  "File:Central Executive (Control Points).png"
+                                  },
+                        "id":  "30"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1335.3538055275537,
+                                         405.3976341724482
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Pope\u0027s Promotion",
+                                      "description":  "Appears here after completing [[Old Boys\u0027 Club]].",
+                                      "link":  {
+                                                   "url":  "Pope\u0027s Promotion",
+                                                   "label":  "Pope\u0027s Promotion"
+                                               },
+                                      "image":  "File:Central Executive (Pope\u0027s Promotion).png"
+                                  },
+                        "id":  "32"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1334.6581181766205,
+                                         461.8217845813095
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Technological Restrictions",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Technological Restrictions",
+                                                   "label":  "Technological Restrictions"
+                                               },
+                                      "image":  "File:Central Executive (Technological Restrictions).png"
+                                  },
+                        "id":  "33"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1479.4818465611108,
+                                         402.6728270124776
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Television Proposal",
+                                      "description":  "Appears here after completing [[My Brother\u0027s Keeper]].",
+                                      "link":  {
+                                                   "url":  "Television Proposal",
+                                                   "label":  "Television Proposal"
+                                               },
+                                      "image":  "File:Central Executive (Television Proposal).png"
+                                  },
+                        "id":  "34"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1455.9328624631012,
+                                         284.2582386923199
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Urban Legends",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Urban Legends",
+                                                   "label":  "Urban Legends"
+                                               },
+                                      "image":  "File:Central Executive (Urban Legends).png"
+                                  },
+                        "id":  "35"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1241.978775691203,
+                                         516.3274198947624
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Trench: Bureau Funding",
+                                      "description":  "Appears here at the end of [[Unknown Caller]].",
+                                      "link":  {
+                                                   "url":  "Trench: Bureau Funding",
+                                                   "label":  "Trench: Bureau Funding"
+                                               },
+                                      "image":  "File:Director\u0027s Office (Trench Bureau Funding).png"
+                                  },
+                        "id":  "36"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1440.0448634346592,
+                                         37.61481637614201
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Dinner Reservations",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Dinner Reservations",
+                                                   "label":  "Dinner Reservations"
+                                               },
+                                      "image":  "File:Executive Affairs (Dinner Reservations).png"
+                                  },
+                        "id":  "37"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1469.750842245598,
+                                         166.35616247155966
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Marshall: AWE Investigations",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Marshall: AWE Investigations",
+                                                   "label":  "Marshall: AWE Investigations"
+                                               },
+                                      "image":  "File:Executive Affairs (Marshall AWE Investigations).png"
+                                  },
+                        "id":  "38"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1321.2150600471791,
+                                         88.54586628765908
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: FBC Reminder: Building Shifts",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "FBC Reminder: Building Shifts",
+                                                   "label":  "FBC Reminder: Building Shifts"
+                                               },
+                                      "image":  "File:Executive Affairs (FBC Reminder Building Shifts).png"
+                                  },
+                        "id":  "39"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1522.4000077516482,
+                                         671.7520984548839
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Havana Summary",
+                                      "description":  "On the ground level.",
+                                      "link":  {
+                                                   "url":  "Havana Summary",
+                                                   "label":  "Havana Summary"
+                                               },
+                                      "image":  "File:Cafeteria (Havana Summary).png"
+                                  },
+                        "id":  "40"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1411.2068199943026,
+                                         606.588641904691
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Unstable Area Notice",
+                                      "description":  "On the ground level of the Cafeteria (darkest-colored level), in a restroom behind the stairs.",
+                                      "link":  {
+                                                   "url":  "Unstable Area Notice",
+                                                   "label":  "Unstable Area Notice"
+                                               },
+                                      "image":  "File:Cafeteria (Unstable Area Notice).png"
+                                  },
+                        "id":  "41"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1508.6295820662137,
+                                         569.3784774945116
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Travel Costs",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Travel Costs",
+                                                   "label":  "Travel Costs"
+                                               },
+                                      "image":  "File:Accounting Department (Travel Costs).png"
+                                  },
+                        "id":  "42"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1453.4433144146726,
+                                         896.717395462265
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Book Club: Penny",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Book Club: Penny",
+                                                   "label":  "Book Club: Penny"
+                                               },
+                                      "image":  "File:Dead Letters (Book Club Penny).png"
+                                  },
+                        "id":  "43"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1330.4996214957857,
+                                         931.9988397656454
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Dead Presidents",
+                                      "description":  "On the lowest level of Dead Letters, in an office west of the Control Point.",
+                                      "link":  {
+                                                   "url":  "Dead Presidents",
+                                                   "label":  "Dead Presidents"
+                                               },
+                                      "image":  "File:Dead Letters (Dead Presidents).png"
+                                  },
+                        "id":  "44"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1465.0002523361427,
+                                         954.0018563749674
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Fake Planes",
+                                      "description":  "In a Clearance Level 2-locked room on the same floor as the Control Point; the room does not appear on the sector map.",
+                                      "link":  {
+                                                   "url":  "Fake Planes",
+                                                   "label":  "Fake Planes"
+                                               },
+                                      "image":  "File:Dead Letters (Fake Planes).png"
+                                  },
+                        "id":  "45"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1348.4994953277144,
+                                         802.4951270157108
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Machine God",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Machine God",
+                                                   "label":  "Machine God"
+                                               },
+                                      "image":  "File:Dead Letters (Machine God).png"
+                                  },
+                        "id":  "46"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1440.7423350715692,
+                                         917.9004078253213
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Missing Momma",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Missing Momma",
+                                                   "label":  "Missing Momma"
+                                               },
+                                      "image":  "File:Dead Letters (Missing Momma).png"
+                                  },
+                        "id":  "47"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1347.9969719662863,
+                                         791.5002320468709
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Singing Fish",
+                                      "description":  "On the lowest level of Dead Letters, in an area underneath the stairs.",
+                                      "link":  {
+                                                   "url":  "Singing Fish",
+                                                   "label":  "Singing Fish"
+                                               },
+                                      "image":  "File:Dead Letters (Singing Fish).png"
+                                  },
+                        "id":  "48"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1454.749590970507,
+                                         832.1037249513008
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Trench: Dead Letter Approval",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Trench: Dead Letter Approval",
+                                                   "label":  "Trench: Dead Letter Approval"
+                                               },
+                                      "image":  "File:Dead Letters (Trench Dead Letter Approval).png"
+                                  },
+                        "id":  "49"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1209.0017663529995,
+                                         430
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Trench: Do Not Disturb",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Trench: Do Not Disturb",
+                                                   "label":  "Trench: Do Not Disturb"
+                                               },
+                                      "image":  "File:Executive Sector (Barbara Martin\u0027s desk).png"
+                                  },
+                        "id":  "50"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1265.014923685722,
+                                         335.1666452994319
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Agent Death Notification",
+                                      "description":  "Room is locked and requires Clearance Level 1 to access.",
+                                      "link":  {
+                                                   "url":  "Agent Death Notification",
+                                                   "label":  "Agent Death Notification"
+                                               },
+                                      "image":  "File:Clearance Level 1 - Executive - (Agent Death Notification).png"
+                                  },
+                        "id":  "51"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1214.42248737086,
+                                         340.26045668996795
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Approved Terminology Reminder",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Approved Terminology Reminder",
+                                                   "label":  "Approved Terminology Reminder"
+                                               },
+                                      "image":  "File:Director\u0027s Office (Approved Terminology Reminder).png"
+                                  },
+                        "id":  "52"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1229.2706592041911,
+                                         795.4921753603782
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Data Breach",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Data Breach",
+                                                   "label":  "Data Breach"
+                                               },
+                                      "image":  "File:External Communications (Data Breach).png"
+                                  },
+                        "id":  "53"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1077.6323403856777,
+                                         857.0127624704317
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Book Club: Samson",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Book Club: Samson",
+                                                   "label":  "Book Club: Samson"
+                                               },
+                                      "image":  "File:Communications Dept. (Book Club Samson).png"
+                                  },
+                        "id":  "54"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1208.7989992691396,
+                                         713.5645970731667
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Marshall: Lockdown Distinctions",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Marshall: Lockdown Distinctions",
+                                                   "label":  "Marshall: Lockdown Distinctions"
+                                               },
+                                      "image":  "File:Communications Dept. (Marshall Lockdown Distinctions).png"
+                                  },
+                        "id":  "55"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1261.8270118573948,
+                                         764.4493758843777
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Tommasi: Willow AWE Outcome",
+                                      "description":  "Located on the ground level of the Communications Dept, in the eastern mail cage outside Pneumatics.",
+                                      "link":  {
+                                                   "url":  "Tommasi: Willow AWE Outcome",
+                                                   "label":  "Tommasi: Willow AWE Outcome"
+                                               },
+                                      "image":  "File:Communications Dept. (Tommasi Willow AWE Outcome).png"
+                                  },
+                        "id":  "56"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1280.9158616632706,
+                                         598.3652612295125
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: America Overnight Ep. 359",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "America Overnight Ep. 359",
+                                                   "label":  "America Overnight Ep. 359"
+                                               },
+                                      "image":  "File:Communications Dept. (America Overnight Ep. 359).png"
+                                  },
+                        "id":  "57"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1006.7460582645078,
+                                         650.0652051707282
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Tommasi\u0027s ID",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Tommasi\u0027s ID",
+                                                   "label":  "Tommasi\u0027s ID"
+                                               },
+                                      "image":  "File:Mail Room (Tommasi\u0027s ID).png"
+                                  },
+                        "id":  "58"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         990.2498433066498,
+                                         634.6083658887192
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Tommasi: AWE Report",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Tommasi: AWE Report",
+                                                   "label":  "Tommasi: AWE Report"
+                                               },
+                                      "image":  "File:Mail Room (Tommasi AWE Report).png"
+                                  },
+                        "id":  "59"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1016.7309180959398,
+                                         605.602796763817
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Butte Summary",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Butte Summary",
+                                                   "label":  "Butte Summary"
+                                               },
+                                      "image":  "File:Mail Room (Butte Summary).png"
+                                  },
+                        "id":  "60"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1084.7547638614344,
+                                         666.0213483121245
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Tee Time",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Tee Time",
+                                                   "label":  "Tee Time"
+                                               },
+                                      "image":  "File:Mail Room (Tee Time).png"
+                                  },
+                        "id":  "61"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1241.3130643446857,
+                                         930.6552393208999
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Havana Supplement",
+                                      "description":  "Room requires Clearance Level 1 in order to be accessed.",
+                                      "link":  {
+                                                   "url":  "Havana Supplement",
+                                                   "label":  "Havana Supplement"
+                                               },
+                                      "image":  "File:Pneumatics (Havana Supplement).png"
+                                  },
+                        "id":  "62"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1053.1573556823016,
+                                         480.32469987166536
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Butte Supplement",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Butte Supplement",
+                                                   "label":  "Butte Supplement"
+                                               },
+                                      "image":  "File:Hotline Chamber (Butte Supplement).png"
+                                  },
+                        "id":  "63"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1078.3376628808874,
+                                         462.4471785683382
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Hotline Security Log",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Hotline Security Log",
+                                                   "label":  "Hotline Security Log"
+                                               },
+                                      "image":  "File:Hotline Chamber (Hotline Security Log).png"
+                                  },
+                        "id":  "64"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1267.4315865277576,
+                                         158.52876330371387
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Executive Meeting Minutes",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Executive Meeting Minutes",
+                                                   "label":  "Executive Meeting Minutes"
+                                               },
+                                      "image":  "File:Executive Affairs meeting room.png"
+                                  },
+                        "id":  "65"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1324.7001330865185,
+                                         954.0614924207935
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Floppy Disk (Multimedia)",
+                                      "description":  "In a room on the same level as the Control Point; the room does not appear on the sector map.",
+                                      "link":  {
+                                                   "url":  "Floppy Disk (Multimedia)",
+                                                   "label":  "Floppy Disk (Multimedia)"
+                                               },
+                                      "image":  "File:Dead Letters (Floppy Disk).png"
+                                  },
+                        "id":  "66"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1359.9918097240675,
+                                         803.0043314241075
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Smoking Ban",
+                                      "description":  "In the lower level of  elevated office on the south wall of Dead Letters.\u003cbr\u003e\nRequires [[Levitate]] in order to be reached.",
+                                      "link":  {
+                                                   "url":  "Smoking Ban",
+                                                   "label":  "Smoking Ban"
+                                               }
+                                  },
+                        "id":  "67"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1382.2518330261937,
+                                         796.5048858072504
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Pinstripe World",
+                                      "description":  "On the elevated office roof on the south wall of Dead Letters.\u003cbr\u003e\nRequires [[Levitate]] in order to be reached.",
+                                      "link":  {
+                                                   "url":  "Pinstripe World",
+                                                   "label":  "Pinstripe World"
+                                               }
+                                  },
+                        "id":  "68"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1440.277625287699,
+                                         864.0820801250508
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Vivid Dreams",
+                                      "description":  "Located on the highest elevated level of Dead Letters.\u003cbr\u003e\nRequires [[Levitate]] in order to be reached.",
+                                      "link":  {
+                                                   "url":  "Vivid Dreams",
+                                                   "label":  "Vivid Dreams"
+                                               }
+                                  },
+                        "id":  "69"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1402.5609915901243,
+                                         791.3708002763707
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: White Kitchen",
+                                      "description":  "In a [[Clearance Level]] 4-locked room in the upper level of elevated office on the south wall of Dead Letters.\u003cbr\u003e\nRequires [[Levitate]] in order to be reached.",
+                                      "link":  {
+                                                   "url":  "White Kitchen",
+                                                   "label":  "White Kitchen"
+                                               }
+                                  },
+                        "id":  "70"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1386.2985030635616,
+                                         925.8951096312468
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Our Whereabouts",
+                                      "description":  "Located on the highest elevated level of Dead Letters.\u003cbr\u003e\nRequires [[Levitate]] in order to be reached.",
+                                      "link":  {
+                                                   "url":  "Our Whereabouts",
+                                                   "label":  "Our Whereabouts"
+                                               }
+                                  },
+                        "id":  "71"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1325.4764534185044,
+                                         964.5910595441072
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Cat Clock",
+                                      "description":  "Located on the second highest elevated levels above Dead Letters.\u003cbr\u003e\nRequires [[Levitate]] in order to be reached.",
+                                      "link":  {
+                                                   "url":  "Cat Clock",
+                                                   "label":  "Cat Clock"
+                                               }
+                                  },
+                        "id":  "72"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1275,
+                                         794.4988397656454
+                                     ],
+                        "popup":  {
+                                      "title":  "External Communications",
+                                      "description":  "Unmarked area which can only be entered via stairs outside the Mail Room. Entering the room triggers a fight with a unique [[Hiss Ranger]] miniboss, Ranger First Class Coleman.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "73"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1306.0264032801508,
+                                         328.80366876024874
+                                     ],
+                        "popup":  {
+                                      "title":  "The Jukebox",
+                                      "description":  "Containment enclosure of the [[Songmaster Jukebox]], located in Central Executive. After completing [[Put a Record On]], this will become the starting point for the [[Expeditions]] game mode.",
+                                      "link":  {
+                                                   "url":  "Expeditions",
+                                                   "label":  "Expeditions"
+                                               }
+                                  },
+                        "id":  "74"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1402.747698449436,
+                                         164.61439910736294
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "This Hidden Location can be accessed by reaching the top of the column in Executive Affairs.\u003cbr\u003e\nRequire [[Levitate]] Abilities to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "75"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1275.4430320519139,
+                                         806.1140366963627
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "This Hidden Location can be reached by climbing onto the top of any of the concrete blocks in External Communications.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "76"
+                    },
+                    {
+                        "categoryId":  "5",
+                        "position":  [
+                                         1125.2632825856986,
+                                         725.7951263142232
+                                     ],
+                        "popup":  {
+                                      "title":  "Hidden Location",
+                                      "description":  "This Hidden Location is located in the far back of this room. The area is infested by [[Mold]], necessitating [[Raya Underhill|Dr. Underhill]]\u0027s pill from [[Old Growth]].",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "77"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1435.4267658086917,
+                                         616.9465645373633
+                                     ],
+                        "popup":  {
+                                      "title":  "Dylan Faden",
+                                      "description":  "Dylan can be found contained here in Central Executive after completing [[My Brother\u0027s Keeper]].",
+                                      "link":  {
+                                                   "url":  "Dylan Faden",
+                                                   "label":  "Dylan Faden"
+                                               }
+                                  },
+                        "id":  "78"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1562.8670992328982,
+                                         426.78353077284777
+                                     ],
+                        "popup":  {
+                                      "title":  "Emily Pope",
+                                      "description":  "Emily can be found here every mission after completing [[Welcome to the Oldest House]].",
+                                      "link":  {
+                                                   "url":  "Emily Pope",
+                                                   "label":  "Emily Pope"
+                                               }
+                                  },
+                        "id":  "79"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1465.3092320873989,
+                                         405.9421357748986
+                                     ],
+                        "popup":  {
+                                      "title":  "Head of Operations",
+                                      "description":  "[[Helen Marshall]] appears here in Central Executive with her Rangers at the end of [[My Brother\u0027s Keeper]]. After [[The Face of the Enemy]], she leaves and [[Simon Arish]] takes her place.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "80"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1513.5773668199447,
+                                         359.35266794583663
+                                     ],
+                        "popup":  {
+                                      "title":  "Collectible: Parautility",
+                                      "description":  "Room is locked and requires Clearance Level 1 to access.",
+                                      "link":  {
+                                                   "url":  "Parautility",
+                                                   "label":  "Parautility"
+                                               },
+                                      "image":  "File:Central Executive (Parautility).png"
+                                  },
+                        "id":  "81"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1470,
+                                         183
+                                     ],
+                        "popup":  {
+                                      "title":  "Chest",
+                                      "description":  "Inside Safe Room",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "82"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1507,
+                                         537
+                                     ],
+                        "popup":  {
+                                      "title":  "Chest",
+                                      "description":  "In upstairs area",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "83"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1402.8998538741102,
+                                         550.8361825443205
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Upstairs office, end of middle row of desks",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "84"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1286.9343417595164,
+                                         489.31789258109086
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "85"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1325.11810794359,
+                                         362.0386719675123
+                                     ],
+                        "popup":  {
+                                      "title":  "Chest",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "86"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1623,
+                                         432
+                                     ],
+                        "popup":  {
+                                      "title":  "Chest",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "87"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1394,
+                                         518
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Downstairs after going towards the Cafeteria ",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "88"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1380.9795436573272,
+                                         559.3214639185591
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Behind level 1 security door",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "89"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1517.451152426331,
+                                         567.099638511611
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "90"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1476,
+                                         761
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On top ledge where garden is, jump on rail then up to the ledge ",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "91"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1573,
+                                         691
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the Shelter, the room covert in [[Mold]] here.(progress [[Old Growth]] to safely access)",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "92"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1368,
+                                         601
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the MEN’S restroom",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "93"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1388.7577182503792,
+                                         801.8590898655449
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Mid-level floor behind stairs",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "94"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1319.672787786486,
+                                         875.0101419673482
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Lowest floor of Dead Letters. In the corner of a lit side office.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "95"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1068.4383463728732,
+                                         847.1139238614838
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In Shelter",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "96"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1199.9602076735712,
+                                         1064.1957056857539
+                                     ],
+                        "popup":  {
+                                      "title":  "LAUNCH ABILITY",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "97"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1131.3708498984759,
+                                         1019.6479784710015
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Ground floor in office",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "98"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1337.4924766143545,
+                                         857.0134187980956
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Top of the stairs",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "99"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1258.6500705120545,
+                                         800.4448763031718
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "100"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1278.4490603852778,
+                                         589.7270555095806
+                                     ],
+                        "popup":  {
+                                      "title":  "Level 1 Security Card",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "101"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1296.1267299149415,
+                                         427.79960261786124
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In Shelter on the way to the Mail Room",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "102"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1117.4994402302102,
+                                         725.5072642436212
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In Hidden Room ",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "103"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1227,
+                                         841
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the room with the cubes ",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "104"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1092.4799769332158,
+                                         792.6667017101197
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Communications Dept. in room blocked by mail totes ",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "105"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         971.6357851621817,
+                                         636.2539674441617
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "106"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         989.9494936611665,
+                                         507.7026688919411
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "107"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1266.4282451051065,
+                                         348.2500897343746
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In Security level 1 room ",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "108"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1242.386614544764,
+                                         922.7743494484445
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In Security level 1 room",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "109"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1416,
+                                         359.5
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In a Level 3 security room",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "110"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1515.3298320827712,
+                                         412.95036021294374
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the level 1 security room\n",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "111"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1281.9853859252391,
+                                         416.4885740819677
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In Post-it room",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "112"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1388.4925532074342,
+                                         1002.0586972889861
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Located above filing cabinets.  Use metal staircase to the left of filing cabinets to climb up top.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "113"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1465.1319741149875,
+                                         409.67770221481555
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: Old Friends",
+                                      "description":  "[[Simon Arish]] appears after returning from the first visit to the [[Panopticon]].",
+                                      "link":  {
+                                                   "url":  "Old Friends",
+                                                   "label":  "Old Friends"
+                                               }
+                                  },
+                        "id":  "114"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1414.5307797119012,
+                                         166.85336518747604
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the Hidden Location\u003cbr\u003e\nRequire [[Levitate]] Abilities to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "115"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1353.095917239605,
+                                         811.366395276999
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Located on the second highest elevated levels above Dead Letters.\u003cbr\u003e\nRequires [[Levitate]] in order to be reached.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "116"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1335.629462905225,
+                                         920.968732168761
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Located on the second highest elevated levels above Dead Letters.\u003cbr\u003e\nAbove filing cabinets.\u003cbr\u003e\nRequires [[Levitate]] in order to be reached.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "117"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1332.1162150201956,
+                                         790.9068281796415
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Located on the highest elevated level of Dead Letters.\u003cbr\u003e\nRequires [[Levitate]] in order to be reached.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "118"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1456.5880399407667,
+                                         871.418198300092
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "Located on the highest elevated level of Dead Letters.\u003cbr\u003e\nRequires [[Levitate]] in order to be reached.",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "119"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1280.4249947311162,
+                                         793.1693388440676
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "In the External Communications\u003cbr\u003e\nAbove the central air conditioning duct on the ceiling\u003cbr\u003e\nRequire [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "120"
+                    },
+                    {
+                        "categoryId":  "6",
+                        "position":  [
+                                         1035.8155711072975,
+                                         683.2114679251398
+                                     ],
+                        "popup":  {
+                                      "title":  "CHEST",
+                                      "description":  "On the top iron frame\u003cbr\u003e\nRequire [[Levitate]] to reach",
+                                      "link":  {
+                                                   "url":  "",
+                                                   "label":  ""
+                                               }
+                                  },
+                        "id":  "121"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1387.5598801144326,
+                                         907.4515190697456
+                                     ],
+                        "popup":  {
+                                      "title":  "Letters Procedures",
+                                      "description":  "Automatically obtain after \"Cleanse and contain the Moving Letters\" during the side mission [[Langston\u0027s Runaways]]",
+                                      "link":  {
+                                                   "url":  "Letters Procedures",
+                                                   "label":  "Letters Procedures"
+                                               }
+                                  },
+                        "id":  "122"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1452.051763452478,
+                                         422.6948864994828
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: Put a Record On",
+                                      "description":  "After completing story mission [[My Brother\u0027s Keeper]], there\u0027s a [[Jukebox Token]] on the crate here. Pick it up to obtain the mission.",
+                                      "link":  {
+                                                   "url":  "Put a Record On",
+                                                   "label":  "Put a Record On"
+                                               },
+                                      "image":  "File:Central Executive (Put a Record On).png"
+                                  },
+                        "id":  "123"
+                    },
+                    {
+                        "categoryId":  "4",
+                        "position":  [
+                                         1562.7396200829269,
+                                         416.09426291936296
+                                     ],
+                        "popup":  {
+                                      "title":  "Side Mission: Mr. Tommasi",
+                                      "description":  "After completing [[Finnish Tango]], speak to [[Emily Pope]] to obtain",
+                                      "link":  {
+                                                   "url":  "Mr. Tommasi (mission)",
+                                                   "label":  "Mr. Tommasi (mission)"
+                                               }
+                                  },
+                        "id":  "124"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1360.5653869181285,
+                                         90.80761214832974
+                                     ],
+                        "popup":  {
+                                      "title":  "Dyna-mite",
+                                      "description":  "Automatically obtained during the story [[mission]] [[Take Control]] during the sequence in the [[Oceanview Motel]]",
+                                      "link":  {
+                                                   "url":  "Dyna-mite",
+                                                   "label":  "Dyna-mite"
+                                               }
+                                  },
+                        "id":  "125"
+                    },
+                    {
+                        "categoryId":  "2",
+                        "position":  [
+                                         1284.8450718085562,
+                                         436.2485928252403
+                                     ],
+                        "popup":  {
+                                      "title":  "Faden Rides the Elevator",
+                                      "description":  "Automatically obtained by approaching the Sector Elevator in the [[AWE_(expansion)|AWE]]\u0027s first story mission, [[A Dark Place]].",
+                                      "link":  {
+                                                   "url":  "Faden Rides the Elevator",
+                                                   "label":  "Faden Rides the Elevator"
+                                               }
+                                  },
+                        "id":  "126"
+                    }
+                ],
+    "markerProgress":  true
+}

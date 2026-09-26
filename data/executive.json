@@ -1,0 +1,98 @@
+﻿{
+    "mapImage":  "Executive Sector-Background",
+    "pageCategories":  [
+
+                       ],
+    "defaultSort":  "",
+    "mapImageChangedAt":  "2022-04-17 12:50:54",
+    "coordinateOrder":  "xy",
+    "mapBounds":  [
+                      [
+                          0,
+                          0
+                      ],
+                      [
+                          1387,
+                          1066
+                      ]
+                  ],
+    "origin":  "bottom-left",
+    "useMarkerClustering":  false,
+    "categories":  [
+                       {
+                           "id":  "1",
+                           "listId":  1,
+                           "name":  "Main Locations",
+                           "color":  "#f00",
+                           "symbol":  "",
+                           "symbolColor":  ""
+                       }
+                   ],
+    "markers":  [
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         453.83071551902,
+                                         272.12852496946
+                                     ],
+                        "popup":  {
+                                      "title":  "Hotline Chamber",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Hotline Chamber ",
+                                                   "label":  "Page"
+                                               }
+                                  },
+                        "id":  "1"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         540.17127040908,
+                                         861.70175324669
+                                     ],
+                        "popup":  {
+                                      "title":  "Pneumatics",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Pneumatics",
+                                                   "label":  "Pneumatics Page"
+                                               }
+                                  },
+                        "id":  "2"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         847.28019386729,
+                                         442.00061299653
+                                     ],
+                        "popup":  {
+                                      "title":  "Board Room",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Board Room",
+                                                   "label":  "Board Room Page"
+                                               }
+                                  },
+                        "id":  "3"
+                    },
+                    {
+                        "categoryId":  "1",
+                        "position":  [
+                                         729.2008177675,
+                                         435.21340113842
+                                     ],
+                        "popup":  {
+                                      "title":  "Central Executive ",
+                                      "description":  "",
+                                      "link":  {
+                                                   "url":  "Central Executive",
+                                                   "label":  "Central Executive Page"
+                                               }
+                                  },
+                        "id":  "4"
+                    }
+                ],
+    "markerProgress":  true
+}
